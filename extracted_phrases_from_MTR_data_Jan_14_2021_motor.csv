@@ -1,0 +1,4487 @@
+phrases,tagged_phrases
+a ac,a dt ac nn
+a amp,a dt amp nn
+a amperage,a dt amperage nn
+a amps,a dt amps nn
+a aux,a dt aux nn
+a b,a dt b nn
+a backup,a dt backup nn
+a ball,a dt ball nn
+a barring,a dt barring nn
+a basic,a dt basic jj
+a bearing,a dt bearing nn
+a bearings,a dt bearings nns
+a because,a dt because nn
+a bit,a dt bit nn
+a blades,a dt blades nns
+a blower,a dt blower nn
+a bolts,a dt bolts nn
+a booster,a dt booster nn
+a cables,a dt cables nns
+a calibration,a dt calibration nn
+a call,a dt call nn
+a carbon,a dt carbon nn
+a chance,a dt chance nn
+a change,a dt change nn
+a check,a dt check nn
+a checked,a dt checked nn
+a clean,a dt clean jj
+a cleaning,a dt cleaning nn
+a close,a dt close nn
+a closed,a dt closed vbd
+a cm,a dt cm nn
+a coat,a dt coat nn
+a common,a dt common jj
+a complete,a dt complete jj
+a concern,a dt concern nn
+a confirmed,a dt confirmed nn
+a copy,a dt copy nn
+a correct,a dt correct nn
+a covers,a dt covers nns
+a day,a dt day nn
+a dec,a dt dec nn
+a decision,a dt decision nn
+a degrading,a dt degrading nn
+a demister,a dt demister nn
+a did,a dt did vbd
+a differant,a dt differant nn
+a distance,a dt distance nn
+a drive,a dt drive nn
+a duct,a dt duct nn
+a ducting,a dt ducting nn
+a duplicate,a dt duplicate nn
+a earth,a dt earth nn
+a end,a dt end nn
+a ex,a dt ex nn
+a examined,a dt examined jj
+a f,a dt f nn
+a failure,a dt failure nn
+a fastners,a dt fastners nns
+a few,a dt few jj
+a follow,a dt follow nn
+a full,a dt full jj
+a function,a dt function nn
+a fwd,a dt fwd nn
+a good,a dt good jj
+a graph,a dt graph nn
+a grinder,a dt grinder nn
+a ground,a dt ground nn
+a grounded,a dt grounded jj
+a heater,a dt heater nn
+a hh,a dt hh nn
+a hole,a dt hole nn
+a i,a dt i nn
+a icn,a dt icn nn
+a impeller,a dt impeller nn
+a inch,a dt inch nn
+a inispected,a dt inispected jj
+a inspected,a dt inspected jj
+a inspection,a dt inspection nn
+a investigations,a dt investigations nns
+a ir,a dt ir nn
+a isolate,a dt isolate nn
+a isolated,a dt isolated jj
+a isolation,a dt isolation nn
+a j,a dt j nn
+a knocking,a dt knocking nn
+a later,a dt later nn
+a leaks,a dt leaks nn
+a lifting,a dt lifting nn
+a like,a dt like jj
+a little,a dt little jj
+a long,a dt long jj
+a look,a dt look nn
+a loose,a dt loose jj
+a lot,a dt lot nn
+a louver,a dt louver nn
+a louvers,a dt louvers nns
+a low,a dt low jj
+a lubricated,a dt lubricated jj
+a m,a dt m nn
+a machined,a dt machined jj
+a made,a dt made nn
+a main,a dt main jj
+a major,a dt major jj
+a make,a dt make nn
+a maximum,a dt maximum nn
+a meg,a dt meg nn
+a megger,a dt megger nn
+a megohmeter,a dt megohmeter nn
+a min,a dt min nn
+a minmohms,a dt minmohms nn
+a minor,a dt minor jj
+a minute,a dt minute nn
+a mm,a dt mm nn
+a mohms,a dt mohms nn
+a motor,a dt motor nn
+a mounting,a dt mounting nn
+a mud,a dt mud nn
+a n,a dt n nn
+a nalfleet,a dt nalfleet nn
+a nde,a dt nde nn
+a new,a dt new jj
+a non,a dt non nn
+a normal,a dt normal jj
+a note,a dt note nn
+a operation,a dt operation nn
+a pass,a dt pass nn
+a performed,a dt performed nn
+a pi,a dt pi nn
+a plan,a dt plan nn
+a pm,a dt pm nn
+a possibility,a dt possibility nn
+a pressure,a dt pressure nn
+a previous,a dt previous jj
+a print,a dt print nn
+a pulsation,a dt pulsation nn
+a pumps,a dt pumps nns
+a quick,a dt quick nn
+a rd,a dt rd nn
+a ready,a dt ready jj
+a recent,a dt recent jj
+a record,a dt record nn
+a red,a dt red jj
+a reduced,a dt reduced jj
+a remote,a dt remote jj
+a removed,a dt removed vbd
+a removing,a dt removing nn
+a rental,a dt rental nn
+a replaced,a dt replaced jj
+a replacement,a dt replacement nn
+a result,a dt result nn
+a rpm,a dt rpm nn
+a rtd,a dt rtd nn
+a running,a dt running nn
+a safe,a dt safe jj
+a satisfactory,a dt satisfactory jj
+a sealed,a dt sealed jj
+a second,a dt second jj
+a see,a dt see nn
+a service,a dt service nn
+a set,a dt set nn
+a significant,a dt significant jj
+a slight,a dt slight nn
+a small,a dt small jj
+a space,a dt space nn
+a spare,a dt spare nn
+a step,a dt step nn
+a steps,a dt steps nns
+a stethoscope,a dt stethoscope nn
+a sticker,a dt sticker nn
+a stock,a dt stock nn
+a strange,a dt strange nn
+a strong,a dt strong jj
+a suitable,a dt suitable jj
+a switch,a dt switch nn
+a tap,a dt tap nn
+a task,a dt task nn
+a teflon,a dt teflon nn
+a temperature,a dt temperature nn
+a test,a dt test nn
+a third,a dt third jj
+a thorough,a dt thorough nn
+a thru,a dt thru nn
+a time,a dt time nn
+a unable,a dt unable jj
+a verified,a dt verified jj
+a viable,a dt viable jj
+a vibration,a dt vibration nn
+a visual,a dt visual jj
+a was,a dt was vbd
+a way,a dt way nn
+a while,a dt while nn
+a year,a dt year nn
+aand,aand nn
+abb,abb nn
+abbs,abbs nn
+abel,abel nn
+able,able jj
+abnomalities,abnomalities nns
+abnormal,abnormal jj
+abnormalities,abnormalities nns
+about abnormal noise,about in_pos abnormal jj noise nn
+about motor,about in_pos motor nn
+above degc,above in_pos degc nn
+above marcelo,above in_pos marcelo nn
+above mohms,above in_pos mohms nn
+above normal operation,above in_pos normal jj operation nn
+above normal vibration,above in_pos normal jj vibration nn
+above of motor,above in_pos of in_pos motor nn
+above on step,above in_pos on in_pos step nn
+ac,ac nn
+ac motor,ac nns motor nn
+accelerometers,accelerometers nns
+acceptable,acceptable jj
+accesible,accesible jj
+access,access nn
+accessible,accessible jj
+accetable,accetable jj
+accident,accident nn
+accomplished,accomplished vbn
+according,according vbg
+accounted,accounted vbd
+accumulation,accumulation nn
+accuracy,accuracy nn
+accurate,accurate nn
+accurately hp,accurately rb hp nn
+achieve,achieve nn
+achieved,achieved vbn
+act,act nn
+act v,act nn v nn
+action,action nn
+actions,actions nns
+activated,activated vbn
+actual,actual jj
+added,added vbd
+additional,additional jj
+additive,additive jj
+address,address nn
+addressed,addressed vbn
+adequate,adequate nn
+adirt,adirt nn
+adjustable,adjustable jj
+adjusted,adjusted vbn
+adjustment,adjustment nn
+aforementioned,aforementioned vbn
+aft,aft nn
+after drill,after in_pos drill nn
+after id run,after in_pos id jj run nn
+after idle period,after in_pos idle jj period nn
+after inspection,after in_pos inspection nn
+after insulation,after in_pos insulation nn
+after lubrication,after in_pos lubrication nn
+after min,after in_pos min nn
+after rig,after in_pos rig nn
+after rotation,after in_pos rotation nn
+after usage,after in_pos usage nn
+again at eow,again rb at in_pos eow nn
+again drive,again rb drive nn
+again ir,again rb ir nn
+again untill,again rb untill jj
+against corrosion,against in_pos corrosion nn
+age,age nn
+aged,aged vbn
+agreement,agreement nn
+ahs been,ahs rb been vbn
+air,air nn
+aircure,aircure nn
+airflow,airflow nn
+airways,airways nns
+al,al nn
+alarm,alarm nn
+alarm yellow,alarm nn yellow nn
+alarms,alarms nns
+alert,alert nn
+alerts,alerts nns
+aligned,aligned vbn
+aligning,aligning vbg
+alignment,alignment nn
+all ac,all dt ac nn
+all air,all dt air nn
+all alerts,all dt alerts nns
+all appear,all dt appear vbp
+all applicable,all dt applicable jj
+all available,all dt available jj
+all bearing,all dt bearing nn
+all blower,all dt blower nn
+all blowers,all dt blowers nns
+all bolts,all dt bolts nns
+all bonding,all dt bonding nn
+all boxes,all dt boxes nns
+all cable,all dt cable nn
+all cables,all dt cables nns
+all cabling,all dt cabling nn
+all checked,all dt checked vbd
+all checks,all dt checks nns
+all choke,all dt choke vbd
+all components,all dt components nns
+all conections,all dt conections nns
+all connections,all dt connections nns
+all contactors,all dt contactors nns
+all control,all dt control nn
+all cooling,all dt cooling nn
+all cover,all dt cover nn
+all coverns,all dt coverns nns
+all covers,all dt covers nns
+all discrepancies,all dt discrepancies nns
+all drills,all dt drills nns
+all duct,all dt duct nn
+all ducting,all dt ducting nn
+all earth,all dt earth nn
+all eas,all dt eas nns
+all eath,all dt eath nn
+all electrical,all dt electrical jj
+all equipment,all dt equipment nn
+all estops,all dt estops nns
+all everything,all dt everything nn
+all ex,all dt ex nn
+all fasteners,all dt fasteners nns
+all fastners,all dt fastners nns
+all filters,all dt filters nns
+all fixing,all dt fixing nn
+all fluid,all dt fluid nn
+all fok,all dt fok nn
+all found,all dt found vbd
+all gaskets,all dt gaskets nns
+all gauges,all dt gauges nns
+all glandes,all dt glandes nns
+all glanding,all dt glanding nn
+all glands,all dt glands nns
+all good,all dt good jj
+all grands,all dt grands nns
+all ground,all dt ground nn
+all grounding,all dt grounding nn
+all grounds,all dt grounds nns
+all hardware,all dt hardware nn
+all heaters,all dt heaters nns
+all high,all dt high jj
+all hoses,all dt hoses nns
+all id,all dt id nn
+all in acceptable level,all dt in in_pos acceptable jj level nn
+all in good condition,all dt in in_pos good jj condition nn
+all in good order,all dt in in_pos good jj order nn
+all in good shape,all dt in in_pos good jj shape nn
+all inspection,all dt inspection nn
+all internal,all dt internal jj
+all items,all dt items nns
+all jbox,all dt jbox nn
+all jboxes,all dt jboxes nns
+all jbs,all dt jbs nn
+all junction,all dt junction nn
+all labeling,all dt labeling nn
+all ldw,all dt ldw nn
+all leads,all dt leads nns
+all line,all dt line nn
+all lines,all dt lines nns
+all local,all dt local jj
+all louver,all dt louver nn
+all main,all dt main jj
+all manifold,all dt manifold nn
+all mcc,all dt mcc nn
+all mechanical,all dt mechanical jj
+all metering,all dt metering nn
+all motor,all dt motor nn
+all motors,all dt motors nns
+all mounting,all dt mounting nn
+all mud,all dt mud nn
+all name,all dt name nn
+all nuts,all dt nuts nns
+all ok,all dt ok nn
+all operational,all dt operational jj
+all other,all dt other jj
+all others,all dt others nns
+all panel,all dt panel nn
+all personal,all dt personal jj
+all pionts,all dt pionts nns
+all pipework,all dt pipework nn
+all piping,all dt piping nn
+all pm,all dt pm nn
+all pressure,all dt pressure nn
+all product,all dt product nn
+all pulsation,all dt pulsation nn
+all pump,all dt pump nn
+all pumps,all dt pumps nns
+all reading,all dt reading nn
+all readings,all dt readings nns
+all relevant,all dt relevant jj
+all rtds,all dt rtds nn
+all run,all dt run vbp
+all safety,all dt safety nn
+all satisfactory,all dt satisfactory jj
+all sealed,all dt sealed vbd
+all seals,all dt seals nns
+all shrouds,all dt shrouds nns
+all sound,all dt sound nn
+all standpipe,all dt standpipe nn
+all steps,all dt steps nns
+all stroke,all dt stroke vbd
+all supply,all dt supply nn
+all support,all dt support nn
+all survey,all dt survey nn
+all switches,all dt switches nns
+all tags,all dt tags nns
+all task,all dt task nn
+all tasks,all dt tasks nns
+all terminal,all dt terminal nn
+all terminals,all dt terminals nns
+all terminations,all dt terminations nns
+all thread,all dt thread nn
+all tool,all dt tool nn
+all tools,all dt tools nns
+all visual,all dt visual jj
+all ware,all dt ware nn
+all was,all dt was vbd
+all were,all dt were vbd
+all wiring,all dt wiring nn
+all wirings,all dt wirings nns
+all work,all dt work nn
+allowed,allowed vbn
+allows,allows nns
+alls,alls nns
+along with day,along in_pos with in_pos day nn
+along with heat,along in_pos with in_pos heat nn
+along with humidity,along in_pos with in_pos humidity nn
+along with verification,along in_pos with in_pos verification nn
+already calibrated,already rb calibrated vbn
+already connected,already rb connected vbn
+already created,already rb created vbn
+also as reference,also rb as in_pos reference nn
+also been,also rb been vbn
+also discovered,also rb discovered vbd
+also fixed,also rb fixed vbn
+also in good condition,also rb in in_pos good jj condition nn
+also mud,also rb mud nn
+also noticed,also rb noticed vbd
+also surface,also rb surface nn
+alwas,alwas nn
+ambient,ambient nn
+ammended,ammended vbd
+ammeter,ammeter nn
+ammount,ammount nn
+amount,amount nn
+amp,amp nn
+amp mpb,amp nn mpb nn
+ampchecked,ampchecked nns
+amperage,amperage nn
+amps,amps nns
+amps done,amps nns done vbn
+amps visualized,amps nns visualized vbd
+ampstest,ampstest nn
+an abnormal,an dt abnormal jj
+an acceptable,an dt acceptable jj
+an alarm,an dt alarm nn
+an alarms,an dt alarms nns
+an alert,an dt alert nn
+an ammeter,an dt ammeter nn
+an amp,an dt amp nn
+an appearance,an dt appearance nn
+an average,an dt average nn
+an confimred,an dt confimred jj
+an earth,an dt earth nn
+an empty,an dt empty jj
+an enclosed,an dt enclosed jj
+an extract,an dt extract nn
+an hour,an dt hour nn
+an in good condition,an dt in in_pos good jj condition nn
+an infrared,an dt infrared jj
+an investigation,an dt investigation nn
+an ir,an dt ir nn
+an issue,an dt issue nn
+an off,an dt off rp
+an old,an dt old jj
+an open,an dt open jj
+an opportunity,an dt opportunity nn
+an overcurrent,an dt overcurrent nn
+an unplanned,an dt unplanned jj
+analysis,analysis nn
+analyze,analyze nn
+analyzes,analyzes nns
+andnameplate,andnameplate nn
+anf,anf nn
+annual,annual jj
+another function,another dt function nn
+another job,another dt job nn
+another pi,another dt pi nn
+another rig,another dt rig nn
+another survey,another dt survey nn
+ans,ans nns
+any abnormal,any dt abnormal jj
+any abnormalities,any dt abnormalities nns
+any action,any dt action nn
+any alarm,any dt alarm nn
+any alarms,any dt alarms nns
+any bearing,any dt bearing nn
+any cable,any dt cable nn
+any components,any dt components nns
+any contactors,any dt contactors nns
+any cracks,any dt cracks nns
+any dam,any dt dam nn
+any damage,any dt damage nn
+any debris,any dt debris nn
+any defects,any dt defects nns
+any dirt,any dt dirt nn
+any element,any dt element nn
+any fault,any dt fault nn
+any grounds,any dt grounds nns
+any heaters,any dt heaters nns
+any internal,any dt internal jj
+any issue,any dt issue nn
+any issues,any dt issues nns
+any load,any dt load nn
+any loose,any dt loose jj
+any motors,any dt motors nns
+any movement,any dt movement nn
+any mud,any dt mud nn
+any noiseused,any dt noiseused jj
+any noticeable,any dt noticeable jj
+any obvious,any dt obvious jj
+any parameters,any dt parameters nns
+any parts,any dt parts nns
+any problem,any dt problem nn
+any problems,any dt problems nns
+any screws,any dt screws nns
+any signs,any dt signs nns
+any type,any dt type nn
+any unit,any dt unit nn
+any unusal,any dt unusal jj
+any vibrations,any dt vibrations nns
+any visible,any dt visible jj
+any visual,any dt visual jj
+any water,any dt water nn
+anyone,anyone nn
+anything,anything nn
+apparatus,apparatus nn
+appeared,appeared vbd
+appears clean,appears vbz clean jj
+applicable,applicable jj
+applied,applied vbn
+apply,apply vb
+apply performed,apply nn performed vbd
+approval,approval nn
+approved,approved vbn
+april,april nn
+aqua,aqua nn
+arcing,arcing vbg
+are accounted,are vbp accounted vbn
+are addressed,are vbp addressed vbn
+are attached,are vbp attached vbn
+are bolted,are vbp bolted vbn
+are carried,are vbp carried vbn
+are checked,are vbp checked vbn
+are cleared,are vbp cleared vbn
+are closed,are vbp closed vbn
+are completed,are vbp completed vbn
+are connected,are vbp connected vbn
+are cooled,are vbp cooled vbn
+are entered,are vbp entered vbn
+are formed,are vbp formed vbn
+are found,are vbp found vbn
+are inserted,are vbp inserted vbn
+are installed,are vbp installed vbn
+are labeled,are vbp labeled vbn
+are located,are vbp located vbn
+are marked,are vbp marked vbn
+are noted,are vbp noted vbn
+are ohms,are vbp ohms jj
+are purged,are vbp purged vbn
+are recorded,are vbp recorded vbn
+are removed,are vbp removed vbn
+are run,are vbp run vbn
+are sealed,are vbp sealed vbn
+are secure,are vbp secure nn
+are secured,are vbp secured vbn
+are set,are vbp set vbn
+are tight,are vbp tight jj
+are tightened,are vbp tightened vbn
+are tripped,are vbp tripped vbn
+area,area nn
+arent,arent nn
+ares,ares nns
+around ac motor,around in_pos ac nns motor nn
+around motor,around in_pos motor nn
+around ohms,around in_pos ohms nns
+around pumped,around in_pos pumped vbd
+arranged,arranged vbn
+arrester,arrester nn
+arrester present,arrester nn present nn
+arrestor,arrestor nn
+arrived,arrived vbn
+arrives,arrives nns
+as air,as in_pos air nn
+as below i,as in_pos below in_pos i nn
+as cooling,as in_pos cooling nn
+as design,as in_pos design nn
+as designed,as in_pos designed vbn
+as i,as in_pos i nn
+as intended,as in_pos intended vbn
+as lubrification,as in_pos lubrification nn
+as manufacture,as in_pos manufacture nn
+as motor,as in_pos motor nn
+as n,as in_pos n nn
+as nameplate,as in_pos nameplate nn
+as nameplate refer,as in_pos nameplate jj refer nn
+as needed note,as in_pos needed vbn note nn
+as oem,as in_pos oem nn
+as of july,as in_pos of in_pos july nn
+as pass,as in_pos pass nn
+as per chart,as in_pos per in_pos chart nn
+as per check,as in_pos per in_pos check nn
+as per chief,as in_pos per nn chief nn
+as per company,as in_pos per in_pos company nn
+as per day,as in_pos per in_pos day nn
+as per discussion,as in_pos per in_pos discussion nn
+as per feedback,as in_pos per in_pos feedback nn
+as per job,as in_pos per in_pos job nn
+as per manufacturer,as in_pos per in_pos manufacturer nn
+as per nov,as in_pos per in_pos nov nn
+as per oem,as in_pos per in_pos oem nn
+as per pm,as in_pos per in_pos pm nn
+as per pmmegger,as in_pos per in_pos pmmegger nn
+as per procedure,as in_pos per in_pos procedure nn
+as per recommendation,as in_pos per in_pos recommendation nn
+as per report,as in_pos per in_pos report nn
+as per rig,as in_pos per in_pos rig nn
+as per rms,as in_pos per in_pos rms nns
+as per scehdule,as in_pos per in_pos scehdule nn
+as per task,as in_pos per in_pos task nn
+as per ther,as in_pos per in_pos ther nn
+as per wchb,as in_pos per in_pos wchb nn
+as required equipment,as in_pos required vbn equipment nn
+as required motor,as in_pos required vbn motor nn
+as required note,as in_pos required vbn note nn
+as requiredok,as in_pos requiredok nn
+as well,as in_pos well rb
+asked,asked vbn
+aspects,aspects nns
+assemaly,assemaly nn
+assembled,assembled vbn
+assembling,assembling vbg
+assembly,assembly rb
+assembly good,assembly rb good jj
+assemblywe,assemblywe nn
+assigned,assigned vbn
+assist,assist nn
+assistance,assistance nn
+assisted,assisted vbn
+associated,associated vbn
+assurance,assurance nn
+at ambient,at in_pos ambient nn
+at ambient motor,at in_pos ambient jj motor nn
+at ambient room,at in_pos ambient jj room nn
+at correct run,at in_pos correct jj run nn
+at correct temperature,at in_pos correct jj temperature nn
+at deck,at in_pos deck nn
+at eow,at in_pos eow nn
+at full load,at in_pos full jj load nn
+at fvd perform,at in_pos fvd jj perform nn
+at good condition,at in_pos good jj condition nn
+at in wc,at in_pos in in_pos wc nn
+at kv,at in_pos kv nn
+at load side,at in_pos load jj side nn
+at manual gauge,at in_pos manual jj gauge nn
+at mcc,at in_pos mcc nn
+at mcc starter,at in_pos mcc rbs starter nn
+at moment,at in_pos moment nn
+at motor,at in_pos motor nn
+at mud pump,at in_pos mud rbs pump nn
+at nde,at in_pos nde nn
+at next pm,at in_pos next jj pm nn
+at nonhazardous area,at in_pos nonhazardous jj area nn
+at ohm,at in_pos ohm nn
+at ohms,at in_pos ohms nn
+at ohms panel,at in_pos ohms jj panel nn
+at ohms push,at in_pos ohms jj push nn
+at ohms step,at in_pos ohms jj step nn
+at prm,at in_pos prm nn
+at psi,at in_pos psi nn
+at rpm,at in_pos rpm nn
+at serial number,at in_pos serial jj number nn
+at terminal box,at in_pos terminal jj box nn
+at termination,at in_pos termination nn
+at time,at in_pos time nn
+at v,at in_pos v nn
+at vac,at in_pos vac nn
+at vdc,at in_pos vdc nn
+at vfd,at in_pos vfd nn
+atsks,atsks nns
+attached,attached vbn
+attatched,attatched vbn
+attched,attched vbn
+attempt,attempt nn
+attempted,attempted vbn
+attention,attention nn
+aug,aug nn
+auto,auto nn
+automated,automated vbn
+automatically overwritten,automatically rb overwritten vb
+aux,aux nn
+auxialiries,auxialiries nns
+auxiliaries,auxiliaries nns
+auxmotors,auxmotors nns
+availability,availability nn
+available,available jj
+availlable,availlable jj
+awaiting,awaiting vbg
+aware,aware jj
+ay,ay nn
+ayer,ayer nn
+az,az nn
+b,b nn
+b motor,b nn motor nn
+back,back rb
+back due,back rb due jj
+back from overhaul,back rb from in_pos overhaul nn
+back in good condition,back rb in in_pos good jj condition nn
+back in motor,back rb in in_pos motor nn
+back in place,back rb in in_pos place nn
+back in serive,back rb in in_pos serive nn
+back in service,back rb in in_pos service nn
+back into alarm,back rb into in_pos alarm nn
+back into service,back rb into in_pos service nn
+back on board,back rb on in_pos board nn
+back on isolated motor,back rb on in_pos isolated jj motor nn
+back on line,back rb on in_pos line nn
+back on motor,back rb on in_pos motor nn
+back on n,back rb on in_pos n nn
+back on service,back rb on in_pos service nn
+back opened,back rb opened vbn
+bad,bad jj
+badly corroded,badly rb corroded vbd
+bag,bag nn
+balance,balance nn
+balanced,balanced vbn
+balancedthese,balancedthese nn
+balancing,balancing vbg
+banding,banding nn
+bar,bar nn
+baring,baring nn
+barrier,barrier nn
+barring,barring vbg
+bars,bars nns
+base,base nn
+based,based vbn
+bbls,bbls nn
+be achieved,be vb achieved vbn
+be attributed,be vb attributed vbn
+be closed,be vb closed vbn
+be commented,be vb commented vbn
+be connected,be vb connected vbn
+be done,be vb done vbn
+be heard,be vb heard vbn
+be moved,be vb moved vbn
+be obtained,be vb obtained vbn
+be perfomed,be vb perfomed vbn
+be ran,be vb ran nn
+be run,be vb run vbn
+be sent,be vb sent vbn
+beaings,beaings nns
+bearing,bearing nn
+bearings,bearings nns
+bearinigs,bearinigs nns
+bed,bed nn
+been,been vbn
+before connect,before in_pos connect nn
+before installation,before in_pos installation nn
+before start,before in_pos start nn
+behalf,behalf nn
+being,being vbg
+bell,bell nn
+below,below in_pos
+below blower,below in_pos blower nn
+below cleanliness,below in_pos cleanliness nn
+below damage,below in_pos damage nn
+below damageok,below in_pos damageok nn
+below dirt,below in_pos dirt nn
+below from abb,below in_pos from in_pos abb nn
+below galling,below in_pos galling vbg
+below inside,below in_pos inside rb
+below interior,below in_pos interior jj
+below junction,below in_pos junction nn
+below log,below in_pos log nn
+below mechanical damage,below in_pos mechanical jj damage nn
+below na damage,below in_pos na dt damage nn
+below none,below in_pos none nn
+below ohms,below in_pos ohms nns
+below panel,below in_pos panel nn
+below rust,below in_pos rust nn
+below task,below in_pos task nn
+below water,below in_pos water nn
+belt,belt nn
+belts,belts nns
+between pulley,between in_pos pulley nn
+bf,bf nn
+big,big jj
+blade,blade nn
+blades,blades nns
+blades inspection,blades nns inspection nn
+blades meet,blades nns meet nn
+blew,blew nn
+block,block nn
+blockage,blockage nn
+blocks,blocks nns
+blow,blow nn
+blow air,blow nn air nn
+blow dirt,blow nn dirt nn
+blower,blower nn
+blowers,blowers nns
+blown,blown nn
+board,board nn
+body,body nn
+bolt,bolt nn
+bolted,bolted vbn
+boltnot,boltnot nn
+bolts,bolts nns
+bond,bond nn
+bonding,bonding nn
+bonds,bonds nns
+bone,bone nn
+book,book nn
+boosted,boosted vbn
+bop,bop nn
+bop closed,bop nn closed vbd
+both ac,both dt ac nn
+both bearing,both dt bearing nn
+both bearings,both dt bearings nns
+both berings,both dt berings nns
+both drive,both dt drive nn
+both end,both dt end nn
+both heaters,both dt heaters nns
+both louvers,both dt louvers nns
+both main,both dt main jj
+both motors,both dt motors nns
+both nondrive,both dt nondrive jj
+both parties,both dt parties nns
+both plugs,both dt plugs nns
+both sides,both dt sides nns
+both standpipes,both dt standpipes nns
+both units,both dt units nns
+both were,both dt were vbd
+both workshop,both dt workshop nn
+boths,boths nns
+bottom,bottom nn
+box,box nn
+boxes,boxes nns
+bprdcmr,bprdcmr nn
+bprgeneric,bprgeneric nn
+bprmtrn,bprmtrn nn
+bracket,bracket nn
+brackets,brackets nns
+brazil,brazil nn
+breakdown motor,breakdown nn motor nn
+breaker,breaker nn
+briefly,briefly nn
+brl,brl nn
+broke,broke nn
+broken,broken nn
+brought,brought nn
+brush,brush nn
+brushed,brushed vbn
+bucket,bucket nn
+buckets,buckets nns
+buid,buid nn
+build,build nn
+buildup,buildup nn
+built,built nn
+bulletin,bulletin nn
+bulletins,bulletins nns
+burned,burned vbn
+burning,burning nn
+burnt,burnt nn
+bus,bus nn
+busbars,busbars nns
+buss,buss nn
+button,button nn
+buttons,buttons nns
+by accident,by in_pos accident nn
+by aneesh,by in_pos aneesh jj
+by comparrison,by in_pos comparrison nn
+by driller,by in_pos driller nn
+by engineer,by in_pos engineer nn
+by hand,by in_pos hand nn
+by maint,by in_pos maint nn
+by maurice,by in_pos maurice nn
+by motor,by in_pos motor nn
+by mrgopal anf,by in_pos mrgopal jj anf nn
+by noticeable vibration,by in_pos noticeable jj vibration nn
+by nov refer,by in_pos nov nns refer vbp
+by other shift,by in_pos other jj shift nn
+by paint,by in_pos paint nn
+by personel,by in_pos personel nns
+by ratheesh,by in_pos ratheesh nn
+by rd,by in_pos rd nn
+by shimmer,by in_pos shimmer nn
+by tfs,by in_pos tfs nn
+by third party,by in_pos third jj party nn
+by transocean policy,by in_pos transocean jj policy nn
+by traume,by in_pos traume nn
+by vendor,by in_pos vendor nn
+by vijay,by in_pos vijay nn
+by visual checksmoreover,by in_pos visual jj checksmoreover nn
+c,c nns
+c cooling,c nns cooling vbg
+cabinet,cabinet nn
+cabinets,cabinets nns
+cabint,cabint nn
+cable,cable nn
+cableing,cableing vbg
+cables,cables nns
+cabling,cabling vbg
+cad,cad nn
+calibrated,calibrated vbn
+calibration,calibration nn
+calibrations,calibrations nns
+call,call nn
+called,called vbn
+came,came vbd
+camera,camera nn
+can be checked,can md be vb checked vbn
+can be cloased,can md be vb cloased vbn
+can be closed,can md be vb closed vbn
+can be controlled,can md be vb controlled vbn
+can be done,can md be vb done vbn
+can be expected,can md be vb expected vbn
+can be found,can md be vb found vbn
+can be noticed,can md be vb noticed vbn
+can be put,can md be vb put vbn
+can be seen,can md be vb seen vbn
+can be stopped,can md be vb stopped vbn
+can be used,can md be vb used vbn
+cancelled,cancelled vbn
+cant,cant nn
+cap,cap nn
+capability,capability nn
+cards,cards nns
+care,care nn
+carlos,carlos nn
+carried,carried vbn
+casing,casing vbg
+cassette,cassette nn
+catalogue,catalogue nn
+cause,cause nn
+caused,caused vbn
+cecked,cecked nns
+celcius,celcius nn
+celsius,celsius nn
+censors,censors nns
+center,center nn
+centres,centres nns
+certification,certification nn
+certified,certified vbn
+ch,ch nn
+chain,chain nn
+chair,chair nn
+challenging,challenging vbg
+change,change nn
+changed,changed vbn
+changing,changing vbg
+characteristics,characteristics nns
+charged,charged vbn
+charger,charger nn
+charges,charges nns
+charging,charging vbg
+charles,charles nns
+chart attached,chart nn attached vbd
+charts,charts nns
+chattering,chattering vbg
+check,check nn
+checked,checked nns
+checking,checking vbg
+checks,checks nns
+chief,chief nn
+circuit,circuit nn
+circulating,circulating vbg
+clean,clean nn
+cleaned,cleaned vbn
+cleaner,cleaner nn
+cleaning,cleaning nn
+cleanliness,cleanliness nn
+cleanning,cleanning vbg
+clear,clear jj
+clockwise,clockwise nn
+close,close rb
+close visual,close rb visual jj
+closed,closed vbd
+closer,closer nn
+closing,closing nn
+cmd,cmd nn
+cmkgkkd,cmkgkkd nn
+cmtut,cmtut nn
+cmtutbl,cmtutbl nn
+coating,coating vbg
+code,code nn
+coded,coded vbn
+codition,codition nn
+collected,collected vbn
+colling,colling vbg
+come,come vb
+comes out,comes vbz out rp
+coming,coming vbg
+comming,comming vbg
+commissioning,commissioning vbg
+common,common jj
+communication,communication nn
+company,company nn
+compare,compare nn
+compared,compared vbn
+comperable,comperable jj
+complete,complete jj
+complete torched,complete jj torched vbd
+completed,completed vbn
+completedplan,completedplan nn
+completely dead,completely rb dead jj
+completion,completion nn
+completions,completions nns
+complettion,complettion nn
+complite,complite nn
+components,components nns
+compressed,compressed vbn
+compromised,compromised vbn
+comressed,comressed vbn
+conations,conations nns
+concern,concern nn
+concerns,concerns nns
+condensation,condensation nn
+condiditons,condiditons nns
+condition,condition nn
+conditions,conditions nns
+conditionsok,conditionsok nn
+conditon,conditon nn
+conditons,conditons nns
+condtion,condtion nn
+conducted,conducted vbn
+conductor,conductor nn
+conductors,conductors nns
+cone,cone nn
+configuration,configuration nn
+confimed,confimed vbn
+confirm,confirm nn
+confirmed,confirmed vbn
+confusion,confusion nn
+conirmed,conirmed vbn
+connected,connected vbn
+connectedfunction,connectedfunction nn
+connection,connection nn
+connections,connections nns
+consistant,consistant nn
+consistent,consistent nn
+console confirmed,console nn confirmed vbd
+consumables,consumables nns
+contacting,contacting vbg
+contactor,contactor nn
+contactors,contactors nns
+contacts,contacts nns
+contains reduced,contains nns reduced vbd
+continue,continue nn
+continued,continued jj
+continuing,continuing vbg
+continuity,continuity nn
+control,control nn
+controller,controller nn
+controllers,controllers nns
+controls,controls nns
+convenience,convenience nn
+converter,converter nn
+cooled,cooled vbn
+cooling,cooling vbg
+corossion,corossion nn
+correct,correct nn
+correctd,correctd nn
+corrective,corrective nn
+correctly amp,correctly rb amp nn
+correctly amps,correctly rb amps nns
+correctly checked,correctly rb checked vbn
+correctly closed,correctly rb closed vbd
+correctly if drilling,correctly rb if in_pos drilling nn
+correctly mpa,correctly rb mpa nn
+correctly removed,correctly rb removed vbn
+correctly torque,correctly rb torque nn
+correctly visualized,correctly rb visualized vbn
+correctlyis,correctlyis nn
+correctlyok,correctlyok nn
+correctlypulling,correctlypulling vbg
+correspondence,correspondence nn
+corroded,corroded vbn
+corrosion,corrosion nn
+corrosions,corrosions nns
+corrsion,corrsion nn
+cost,cost nn
+costing,costing vbg
+could be removed,could md be vb removed vbn
+could have attributed,could md have vb attributed vbn
+could have been,could md have vb been vbn
+could have caused,could md have vb caused vbn
+couldnt,couldnt nn
+counted,counted vbn
+counter,counter nn
+counters,counters nns
+couple,couple nn
+coupling,coupling vbg
+cover,cover nn
+covered,covered vbn
+covers,covers nns
+covers confirmed,covers nns confirmed vbd
+covers earth,covers nns earth vbp
+covers installed,covers nns installed vbd
+covers made,covers nns made vbd
+covers ok,covers nns ok vbp
+covers on drive,covers nns on in_pos drive nn
+covers removed,covers nns removed vbd
+covers repaired,covers nns repaired vbd
+covers visualized,covers nns visualized vbd
+covers while i,covers nns while in_pos i nn
+cowl,cowl nn
+crack,crack nn
+cracked,cracked vbn
+cracks,cracks nns
+craig,craig nn
+crane,crane nn
+created,created vbn
+crescent,crescent nn
+crew,crew nn
+crews,crews nns
+critical,critical jj
+cubical,cubical jj
+cubicle,cubicle nn
+current,current jj
+currently available,currently rb available jj
+currently in lt isolation,currently rb in in_pos lt jj isolation nn
+currently on warm stack,currently rb on in_pos warm jj stack nn
+currents,currents nns
+currnt,currnt nn
+customer,customer nn
+cut,cut nn
+cuts,cuts nns
+cycle,cycle nn
+cyprina,cyprina nn
+c°,c° nn
+d,d nn
+damage,damage nn
+damagechecks,damagechecks nns
+damaged,damaged vbn
+damagefound,damagefound nn
+damages,damages nns
+dampeners,dampeners nns
+damper,damper nn
+damperner,damperner nn
+dampers,dampers nns
+dampner,dampner nn
+dampners,dampners nns
+data,data nns
+date,date nn
+dates,dates nns
+david,david nn
+day,day nn
+days,days nns
+dc,dc nn
+dci,dci nn
+de,de nns
+de assigned,de nns assigned vbd
+de c,de in_pos c nns
+de isolated,de rb isolated vbn
+de of motor,de in_pos of in_pos motor nn
+de vibration,de in_pos vibration nn
+dear,dear nn
+debris,debris nn
+debris found,debris nn found vbd
+debrisok,debrisok nn
+december,december nn
+decided,decided vbd
+deck,deck nn
+dedicated,dedicated vbn
+deemed,deemed vbn
+deepwater,deepwater nn
+deformities,deformities nns
+deg,deg nn
+degraded,degraded vbn
+degrading,degrading vbg
+degree,degree nn
+degrees,degrees nns
+degreesthe,degreesthe nn
+degreesthis,degreesthis nn
+deisolate,deisolate nn
+deisolated,deisolated vbn
+demister,demister nn
+department,department nn
+dept,dept nn
+derric,derric nn
+desc,desc nn
+desiccant,desiccant nn
+designed,designed vbn
+dessembiled,dessembiled vbn
+details,details nns
+detected,detected vbn
+deteriorating,deteriorating vbg
+deterioration,deterioration nn
+device,device nn
+devices,devices nns
+did,did vbd
+didnt,didnt nn
+diederik,diederik nn
+diff,diff nn
+differences,differences nns
+different,different jj
+digital,digital nn
+directed,directed vbn
+direction,direction nn
+dirt,dirt nn
+dirt debris,dirt nn debris nn
+dirts,dirts nns
+disappeared,disappeared vbd
+disassemble,disassemble jj
+disassembled,disassembled vbn
+discharge,discharge nn
+discoloration,discoloration nn
+disconection,disconection nn
+disconnect,disconnect nn
+disconnected,disconnected vbn
+disconnecting,disconnecting vbg
+disconnection,disconnection nn
+discrepancies,discrepancies nns
+discrepency,discrepency nn
+discussed,discussed vbn
+disjointed,disjointed vbn
+dismanteling,dismanteling vbg
+dismantled,dismantled vbn
+dismantling,dismantling vbg
+displacements,displacements nns
+dissassembly,dissassembly rb
+do feed,do vbp feed vb
+dobe,dobe nn
+doc,doc nn
+document,document nn
+documentation,documentation nn
+documented,documented vbn
+documents,documents nns
+doesnt,doesnt nn
+dol,dol nn
+done,done vbn
+dont,dont nn
+dont found,dont nn found vbd
+dont,dont nn
+dont found,dont nn found vbd
+door,door nn
+double,double rb
+down next,down rb next jj
+downloaded,downloaded vbn
+drain,drain nn
+draw,draw nn
+drawer,drawer nn
+drawing,drawing vbg
+drawings,drawings nns
+drawworks,drawworks nns
+dressed,dressed vbn
+drill,drill nn
+drilled,drilled vbn
+driller,driller nn
+drillers,drillers nns
+drilling,drilling nn
+drive,drive nn
+drivers,drivers nns
+drives,drives nns
+dry,dry nn
+dryer,dryer nn
+drying,drying vbg
+dubris,dubris nn
+duckting,duckting vbg
+duct,duct nn
+ducting,ducting vbg
+ductings,ductings nns
+duction,duction nn
+ducts,ducts nns
+ductwork,ductwork nn
+due,due jj
+durinf,durinf nn
+during annual survey,during in_pos annual jj survey nn
+during eow maint,during in_pos eow jj maint nn
+during inspection,during in_pos inspection nn
+during intrusive inspection,during in_pos intrusive jj inspection nn
+during mcc,during in_pos mcc nn
+during normal inspection,during in_pos normal jj inspection nn
+during normal operation,during in_pos normal jj operation nn
+during operation,during in_pos operation nn
+during pms,during in_pos pms nn
+during recent run,during in_pos recent jj run nn
+during run,during in_pos run nn
+dust,dust nn
+e,e nn
+ea new,ea rb new jj
+each bearing,each dt bearing nn
+each bearings,each dt bearings nns
+each blower,each dt blower nn
+each condition,each dt condition nn
+each failed,each dt failed vbd
+each heater,each dt heater nn
+each job,each dt job nn
+each motor,each dt motor nn
+each other,each dt other jj
+each phase,each dt phase nn
+each pump,each dt pump nn
+each shot,each dt shot nn
+each side,each dt side nn
+earth,earth nn
+earthing,earthing vbg
+earths,earths nns
+eath,eath nn
+edocs,edocs nn
+eex,eex nn
+efficiency,efficiency nn
+effort,effort nn
+egress,egress nn
+eh,eh nn
+eic,eic nn
+eiso,eiso nn
+either motor,either dt motor nn
+elected,elected vbn
+electricain,electricain nn
+electrical,electrical jj
+electrician,electrician jj
+electricians,electricians nns
+electrocleaner,electrocleaner nn
+electronic,electronic jj
+element,element nn
+elements,elements nns
+eltech,eltech nn
+email,email nn
+emergency,emergency nn
+enclosure,enclosure nn
+enclosures,enclosures nns
+encoder,encoder nn
+encoders,encoders nns
+end,end nn
+ended,ended vbn
+ending,ending vbg
+ends,ends nns
+energy,energy nn
+engineer,engineer nn
+engineering,engineering nn
+engineers,engineers nns
+enlarged,enlarged vbn
+enlarging,enlarging vbg
+ensured,ensured vbn
+entered,entered vbn
+entry,entry nn
+eow,eow nn
+equal,equal jj
+equip,equip nn
+equiped,equiped vbd
+equipment,equipment nn
+equipped,equipped vbn
+eremoved,eremoved vbn
+estop,estop nn
+estops,estops nns
+estops working,estops nns working vbg
+etc,etc nn
+evaluated,evaluated vbn
+evening,evening vbg
+event,event nn
+every days,every dt days nns
+every hour,every dt hour nn
+every hrs,every dt hrs nn
+every new,every dt new jj
+every year,every dt year nn
+everything,everything nn
+evidenced,evidenced vbn
+evident,evident nn
+examied,examied vbn
+examine,examine nn
+examined,examined vbn
+except hex pump,except in_pos hex jj pump nn
+except mud charge,except in_pos mud jj charge nn
+except number,except in_pos number nn
+except task,except in_pos task nn
+excess,excess nn
+excessive,excessive jj
+exchanger,exchanger nn
+exchangers,exchangers nns
+exhaust,exhaust nn
+existing,existing vbg
+exists commisioning,exists nns commisioning vbg
+expected,expected vbn
+experation,experation nn
+expl,expl nn
+exterior,exterior nn
+exterior cover,exterior rb cover nn
+external,external jj
+extract,extract nn
+extracted,extracted vbn
+extreme,extreme nn
+extremely low,extremely rb low jj
+eye,eye nn
+eyebolt,eyebolt nn
+eyes,eyes nns
+f,f nn
+fabricated,fabricated vbn
+factory,factory nn
+fail,fail nn
+failed,failed vbd
+failue,failue nn
+failure,failure nn
+failuresno,failuresno nn
+fall,fall nn
+fan,fan nn
+fans,fans nns
+farsternes,farsternes nns
+fast,fast nn
+fasteners,fasteners nns
+fastenersd,fastenersd nn
+fastening,fastening vbg
+fastners,fastners nns
+fault,fault nn
+faulting,faulting vbg
+features,features nns
+feb,feb nn
+feed,feed nn
+feedback,feedback nn
+feeder,feeder nn
+feel,feel nn
+feet,feet nns
+felt,felt nn
+few,few jj
+fiber,fiber nn
+field,field nn
+figured,figured vbn
+file,file nn
+filling,filling vbg
+filter,filter nn
+filter screen,filter nn screen nn
+filters,filters nns
+find,find vb
+find fwd,find vb fwd nn
+findings,findings nns
+fine,fine nn
+fins,fins nns
+fins for fwd,fins nns for in_pos fwd nn
+fins found,fins nns found vbd
+fire,fire nn
+fit,fit nn
+fitted,fitted vbn
+fitting,fitting nn
+fixed,fixed vbn
+flange,flange nn
+flanges,flanges nns
+flexing,flexing vbg
+floor,floor nn
+flow,flow nn
+fluid,fluid nn
+fluke,fluke nn
+foin,foin nn
+followed,followed vbd
+following,following vbg
+follows closed,follows vbz closed vbd
+foot,foot nn
+footing,footing nn
+for abnormal bearing,for in_pos abnormal jj bearing nn
+for abnormal condition,for in_pos abnormal jj condition nn
+for abnormal heat,for in_pos abnormal jj heat nn
+for abnormal noise,for in_pos abnormal jj noise nn
+for abnormal vibration,for in_pos abnormal jj vibration nn
+for abnormal vibrationsno,for in_pos abnormal jj vibrationsno nn
+for access,for in_pos access nn
+for adjuster,for in_pos adjuster nn
+for advice,for in_pos advice nn
+for air,for in_pos air nn
+for analysis,for in_pos analysis nn
+for approval,for in_pos approval nn
+for b,for in_pos b nn
+for base,for in_pos base nn
+for below task,for in_pos below in_pos task nn
+for blower,for in_pos blower nn
+for choke,for in_pos choke nn
+for cleanliness,for in_pos cleanliness nn
+for conditionsand,for in_pos conditionsand nn
+for confirmation,for in_pos confirmation nn
+for correct rotation,for in_pos correct jj rotation nn
+for corrosion,for in_pos corrosion nn
+for couple,for in_pos couple nn
+for crane,for in_pos crane nn
+for damage,for in_pos damage nn
+for damagelubrication,for in_pos damagelubrication nn
+for debris water,for in_pos debris jj water nn
+for defect,for in_pos defect nn
+for dirt,for in_pos dirt nn
+for disconnected rtd,for in_pos disconnected vbn rtd nn
+for drill,for in_pos drill nn
+for drive motor,for in_pos drive nn motor nn
+for ex,for in_pos ex nn
+for ex area,for in_pos ex jj area nn
+for ex e,for in_pos ex nn e nn
+for excessive noise,for in_pos excessive jj noise nn
+for excessive temperature,for in_pos excessive jj temperature nn
+for explosion,for in_pos explosion nn
+for function,for in_pos function nn
+for further investigation,for in_pos further jj investigation nn
+for future immediate,for in_pos future jj immediate nn
+for future mud,for in_pos future jj mud nn
+for future referance,for in_pos future jj referance nn
+for future reference,for in_pos future jj reference nn
+for galling,for in_pos galling vbg
+for good tightness,for in_pos good jj tightness nn
+for ground,for in_pos ground nn
+for hand,for in_pos hand nn
+for hazardous area,for in_pos hazardous jj area nn
+for high motor,for in_pos high jj motor nn
+for hot spot,for in_pos hot jj spot nn
+for hour,for in_pos hour nn
+for hrs,for in_pos hrs nn
+for impeller,for in_pos impeller nn
+for in wc,for in_pos in in_pos wc nn
+for information,for in_pos information nn
+for inspection,for in_pos inspection nn
+for insulation,for in_pos insulation nn
+for integrity,for in_pos integrity nn
+for ir pic,for in_pos ir nn pic nn
+for j,for in_pos j nn
+for job,for in_pos job nn
+for leaks damage,for in_pos leaks nns damage nn
+for location start,for in_pos location nn start nn
+for long life,for in_pos long jj life nn
+for lubricate,for in_pos lubricate nn
+for lubrication,for in_pos lubrication nn
+for main motor,for in_pos main jj motor nn
+for make,for in_pos make nn
+for manual cranking,for in_pos manual jj cranking nn
+for mech,for in_pos mech nn
+for mechanical damage,for in_pos mechanical jj damage nn
+for minute,for in_pos minute nn
+for motor,for in_pos motor nn
+for mp,for in_pos mp nn
+for mpa,for in_pos mpa nn
+for mpb,for in_pos mpb nn
+for mud,for in_pos mud nn
+for nov rebuild,for in_pos nov jj rebuild nn
+for nov system,for in_pos nov jj system nn
+for number,for in_pos number nn
+for order,for in_pos order nn
+for overhaul,for in_pos overhaul nn
+for pm,for in_pos pm nn
+for proper rotation,for in_pos proper jj rotation nn
+for proper security,for in_pos proper jj security nn
+for pump,for in_pos pump nn
+for purpose,for in_pos purpose nn
+for rebuild,for in_pos rebuild nn
+for removal,for in_pos removal nn
+for repair,for in_pos repair nn
+for repleshiment,for in_pos repleshiment nn
+for restore,for in_pos restore nn
+for rewind,for in_pos rewind nn
+for rotation,for in_pos rotation nn
+for rr,for in_pos rr nn
+for rust,for in_pos rust nn
+for safe area,for in_pos safe jj area nn
+for sec,for in_pos sec nn
+for skid plate,for in_pos skid nn plate nn
+for spare motor,for in_pos spare jj motor nn
+for step,for in_pos step nn
+for temperature,for in_pos temperature nn
+for test,for in_pos test nn
+for tightness,for in_pos tightness nn
+for timeline,for in_pos timeline nn
+for torque,for in_pos torque nn
+for unusual noise,for in_pos unusual jj noise nn
+for use,for in_pos use nn
+for vibration,for in_pos vibration nn
+for visual inspection,for in_pos visual jj inspection nn
+for water,for in_pos water nn
+form,form nn
+format,format nn
+forty,forty nn
+forward,forward rb
+forwarded,forwarded vbn
+found,found nn
+found nothing,found vbn nothing nn
+foundation,foundation nn
+foundations,foundations nns
+fourchon,fourchon nn
+frame,frame nn
+free,free jj
+freight,freight nn
+frequency,frequency nn
+from abb,from in_pos abb nn
+from b,from in_pos b nn
+from busbar,from in_pos busbar nn
+from corrosion,from in_pos corrosion nn
+from corrosion step,from in_pos corrosion nn step nn
+from corrositon,from in_pos corrositon nn
+from crane,from in_pos crane nn
+from damage,from in_pos damage nn
+from deck,from in_pos deck nn
+from dirt,from in_pos dirt nn
+from driller,from in_pos driller nn
+from drive,from in_pos drive nn
+from drive cabinet,from in_pos drive jj cabinet nn
+from dust,from in_pos dust nn
+from floor,from in_pos floor nn
+from grand isle,from in_pos grand jj isle nn
+from local control,from in_pos local jj control nn
+from main motor,from in_pos main jj motor nn
+from mcc,from in_pos mcc nn
+from medium,from in_pos medium nn
+from megger,from in_pos megger nn
+from motor,from in_pos motor nn
+from mud,from in_pos mud nn
+from mud pump,from in_pos mud cd pump nn
+from normal test,from in_pos normal jj test nn
+from novindia houston,from in_pos novindia jj houston nn
+from oer mud,from in_pos oer cd mud nn
+from oes vibration,from in_pos oes nns vibration nn
+from old motor,from in_pos old jj motor nn
+from outside mp,from in_pos outside jj mp nn
+from overhaul,from in_pos overhaul nn
+from repair,from in_pos repair nn
+from rig,from in_pos rig nn
+from rust dirt,from in_pos rust nn dirt nn
+from shipyard,from in_pos shipyard nn
+from spm,from in_pos spm nn
+from start,from in_pos start nn
+from third party,from in_pos third jj party nn
+from thruster,from in_pos thruster nn
+from traume,from in_pos traume nn
+from vfd,from in_pos vfd nn
+full,full jj
+function,function nn
+functionality,functionality nn
+functioned,functioned vbn
+functioning,functioning vbg
+fundation,fundation nn
+further,further rb
+fuse,fuse nn
+fw,fw nn
+fwd,fwd nn
+fyi,fyi nn
+g,g nn
+galling,galling vbg
+gambhir,gambhir nn
+gap,gap nn
+gasket,gasket nn
+gaskets,gaskets nns
+gauge,gauge nn
+gauges,gauges nns
+gave,gave vbd
+gear,gear nn
+gears,gears nns
+geb,geb nn
+general,general jj
+generating,generating vbg
+generator,generator nn
+generators,generators nns
+geoservices,geoservices nns
+getting,getting vbg
+giga,giga nn
+gilmar,gilmar nn
+given,given vbn
+giving,giving vbg
+glades,glades nns
+gland,gland nn
+glandes,glandes nns
+glanding,glanding vbg
+glands,glands nns
+glands secure,glands nns secure nn
+glen,glen nn
+glnads,glnads nns
+glycol,glycol nn
+god,god nn
+gohm,gohm nn
+gohms,gohms nn
+going,going vbg
+gone,gone vbn
+good,good jj
+got,got vbd
+grease,grease nn
+greased,greased vbn
+greasing,greasing vbg
+grinder,grinder nn
+grommets,grommets nns
+ground,ground nn
+grounded,grounded vbn
+grounding,grounding vbg
+grounds,grounds nns
+guages,guages nns
+guard,guard nn
+guards,guards nns
+guidance,guidance nn
+guidelines,guidelines nns
+gun,gun nn
+h,h nn
+had,had vbd
+haeter,haeter nn
+hand,hand nn
+handbook,handbook nn
+handed,handed vbn
+handoperated,handoperated vbn
+hansuai,hansuai nn
+happened,happened vbd
+hardware,hardware nn
+hardware secured,hardware nn secured vbn
+hardwares,hardwares nns
+has beeen,has vbz beeen nn
+has been,has vbz been vbn
+has failed,has vbz failed vbn
+has found,has vbz found vbn
+has gone,has vbz gone vbn
+has had,has vbz had vbn
+has high,has vbz high jj
+has highlighted,has vbz highlighted vbn
+has hrs,has vbz hrs nn
+has interchangeable,has vbz interchangeable jj
+has lifting,has vbz lifting nn
+has little,has vbz little jj
+has minimal,has vbz minimal nn
+has multiple,has vbz multiple nn
+has normal,has vbz normal jj
+has padeyes,has vbz padeyes nns
+has performed,has vbz performed vbn
+has poor,has vbz poor jj
+has reported,has vbz reported vbn
+has sealed,has vbz sealed vbn
+has selaed,has vbz selaed nn
+has tested,has vbz tested vbn
+has updated,has vbz updated vbn
+hatch,hatch nn
+have added,have vb added vbn
+have attached,have vb attached vbn
+have been,have vbp been vbn
+have blower,have vb blower nn
+have checked,have vb checked vbn
+have come,have vbp come vbn
+have commissioned,have vbp commissioned vbn
+have disconnected,have vbp disconnected vbn
+have discussed,have vbp discussed vbn
+have done,have vb done vbn
+have grease,have vb grease nn
+have identified,have vb identified vbn
+have left,have vb left vbn
+have lowered,have vb lowered vbn
+have marked,have vb marked vbn
+have motor,have vbp motor nn
+have moved,have vbp moved vbn
+have nitrogen,have vb nitrogen nn
+have provided,have vb provided vbn
+have ran,have vb ran nn
+have removed,have vbp removed vbn
+have sealed,have vb sealed vbn
+have shipped,have vb shipped vbn
+have tried,have vb tried vbn
+have verified,have vb verified vbn
+havent,havent nn
+having,having vbg
+haz,haz nn
+haza,haza nn
+hazardous,hazardous jj
+hd,hd nn
+head,head nn
+header,header nn
+heads,heads nns
+heard,heard nn
+heat,heat nn
+heater,heater nn
+heater fitted,heater nn fitted vbd
+heaters,heaters nns
+heating,heating nn
+hel,hel nn
+here idepartmentselectricalnovmud,here rb idepartmentselectricalnovmud nn
+hex,hex nn
+hidden,hidden nn
+high,high jj
+highlighted,highlighted vbn
+history,history nn
+hits winding,hits nns winding vbg
+hmi,hmi nn
+hole,hole nn
+holes,holes nns
+hong,hong nn
+hooked,hooked nns
+hooks,hooks nns
+hopper,hopper nn
+horsepower,horsepower nn
+hose,hose nn
+hoseperformd,hoseperformd nn
+hoses,hoses nns
+hot,hot jj
+hotspots,hotspots nns
+hour,hour nn
+hours,hours nns
+housekeeping,housekeeping vbg
+housing,housing nn
+housings,housings nns
+hp,hp nn
+hqsopstibdwks,hqsopstibdwks nn
+hqsopstibmtr,hqsopstibmtr nn
+hs,hs nn
+hse,hse nn
+hub,hub nn
+hydraulic,hydraulic nn
+i,i nn
+i attached,i nn attached vbd
+i ready,i nns ready vbp
+ibop,ibop nn
+icn,icn nn
+ics,ics nns
+id,id nn
+identical,identical jj
+identification,identification nn
+identified,identified vbn
+idle,idle jj
+ids,ids nns
+ie,ie nn
+if accessible motor,if in_pos accessible jj motor nn
+if drilling,if in_pos drilling nn
+if rig,if in_pos rig nn
+if time,if in_pos time nn
+if visual examination,if in_pos visual jj examination nn
+imaging,imaging vbg
+impact,impact nn
+impeller,impeller nn
+impellers,impellers nns
+impellor,impellor nn
+impellor requested,impellor nn requested vbd
+impellors,impellors nns
+impller,impller nn
+important,important jj
+imppler,imppler nn
+improvements,improvements nns
+in abnoraml,in in_pos abnoraml nn
+in abnormal task,in in_pos abnormal jj task nn
+in acceptable condition,in in_pos acceptable jj condition nn
+in acceptable conditiuon,in in_pos acceptable jj conditiuon nn
+in acceptable conditon,in in_pos acceptable jj conditon nn
+in accetable condition,in in_pos accetable jj condition nn
+in accordance,in in_pos accordance nn
+in aceeptable condition,in in_pos aceeptable jj condition nn
+in adequate condition,in in_pos adequate jj condition nn
+in advance,in in_pos advance nn
+in agreement,in in_pos agreement nn
+in air,in in_pos air nn
+in attachment,in in_pos attachment nn
+in ballast pump,in in_pos ballast nn pump nn
+in by weston,in in_pos by in_pos weston nn
+in c m,in in_pos c nns m nns
+in c ms,in in_pos c nns ms nns
+in center,in in_pos center nn
+in check,in in_pos check nn
+in circuit,in in_pos circuit nn
+in comparison,in in_pos comparison nn
+in condition,in in_pos condition nn
+in conjunction,in in_pos conjunction nn
+in coordination,in in_pos coordination nn
+in correct place,in in_pos correct jj place nn
+in cover,in in_pos cover nn
+in cyberbase,in in_pos cyberbase nn
+in cyprinia,in in_pos cyprinia nn
+in date,in in_pos date nn
+in dci,in in_pos dci nn
+in deg c,in in_pos deg nn c nn
+in drive,in in_pos drive nn
+in drive motor,in in_pos drive jj motor nn
+in early march,in in_pos early jj march nn
+in end,in in_pos end nn
+in error,in in_pos error nn
+in fan,in in_pos fan nn
+in feb,in in_pos feb nn
+in for analysis,in in_pos for in_pos analysis nn
+in for repair,in in_pos for in_pos repair nn
+in gathering,in in_pos gathering nn
+in gland,in in_pos gland nn
+in gom,in in_pos gom nn
+in good condiiton,in in_pos good jj condiiton nn
+in good conditio,in in_pos good jj conditio nn
+in good condition,in in_pos good jj condition nn
+in good conditionno,in in_pos good jj conditionno nn
+in good conditionunit,in in_pos good jj conditionunit nn
+in good conditon,in in_pos good jj conditon nn
+in good contion,in in_pos good jj contion nn
+in good operating,in in_pos good jj operating nn
+in good order,in in_pos good jj order nn
+in good running,in in_pos good jj running nn
+in good shape,in in_pos good jj shape nn
+in good shapeno,in in_pos good jj shapeno nn
+in good workinbg,in in_pos good jj workinbg nn
+in good working,in in_pos good jj working nn
+in hazardous area,in in_pos hazardous jj area nn
+in housing,in in_pos housing nn
+in houston,in in_pos houston nn
+in ielectrical dept,in in_pos ielectrical jj dept nn
+in inspection,in in_pos inspection nn
+in janurary,in in_pos janurary jj
+in jb,in in_pos jb nn
+in jbs,in in_pos jbs nn
+in job,in in_pos job nn
+in junction,in in_pos junction nn
+in light,in in_pos light nn
+in local control,in in_pos local jj control nn
+in loose condition,in in_pos loose jj condition nn
+in maintenance,in in_pos maintenance nn
+in march,in in_pos march nn
+in mind,in in_pos mind nn
+in motor,in in_pos motor nn
+in mp,in in_pos mp nn
+in mpa motor,in in_pos mpa nn motor nn
+in mudpump,in in_pos mudpump nn
+in need,in in_pos need nn
+in none,in in_pos none nn
+in normal operating,in in_pos normal jj operating nn
+in normal operation,in in_pos normal jj operation nn
+in operation,in in_pos operation nn
+in order,in in_pos order nn
+in part,in in_pos part nn
+in perfect shape,in in_pos perfect jj shape nn
+in place,in in_pos place nn
+in poor condition,in in_pos poor jj condition nn
+in previous trouble,in in_pos previous jj trouble nn
+in pump,in in_pos pump nn
+in question,in in_pos question nn
+in remote mode,in in_pos remote jj mode nn
+in report,in in_pos report nn
+in safe area,in in_pos safe jj area nn
+in safe zone,in in_pos safe jj zone nn
+in satisfactory condition,in in_pos satisfactory jj condition nn
+in september,in in_pos september nn
+in service,in in_pos service nn
+in servicejob,in in_pos servicejob nn
+in situ see,in in_pos situ nn see nn
+in system,in in_pos system nn
+in tact,in in_pos tact nn
+in th,in in_pos th nn
+in thruster,in in_pos thruster nn
+in transit,in in_pos transit nn
+in transition,in in_pos transition nn
+in use,in in_pos use nn
+in vibration,in in_pos vibration nn
+in visual inspection,in in_pos visual jj inspection nn
+in wc,in in_pos wc nn
+in with pressure,in in_pos with in_pos pressure nn
+in word,in in_pos word nn
+in work,in in_pos work nn
+in workshop,in in_pos workshop nn
+inadequate,inadequate nn
+included,included vbd
+including,including vbg
+incomer,incomer nn
+incoming,incoming vbg
+increased,increased vbn
+index,index nn
+indicated,indicated vbn
+indication,indication nn
+indicator,indicator nn
+inet,inet nn
+info,info nn
+information,information nn
+informed,informed vbn
+infrared,infrared vbn
+ing,ing vbg
+ingress,ingress nn
+ingress good,ingress rb good jj
+initial,initial jj
+injection,injection nn
+inlet,inlet nn
+inpeller,inpeller nn
+insatalled,insatalled vbn
+inside,inside in_pos
+inside dust,inside rb dust nn
+inside motor,inside in_pos motor nn
+inside terminal box,inside in_pos terminal jj box nn
+insp,insp nn
+inspacted,inspacted vbn
+inspceted,inspceted vbn
+inspecion,inspecion nn
+inspecon,inspecon nn
+inspect,inspect nn
+inspected,inspected vbn
+inspecting,inspecting vbg
+inspection,inspection nn
+inspections,inspections nns
+inspeted,inspeted vbn
+install,install nn
+installation,installation nn
+installed,installed vbn
+installing,installing vbg
+instead of terminal forty,instead rb of in_pos terminal jj forty nn
+insulate,insulate nn
+insulation,insulation nn
+insured,insured jj
+intack,intack nn
+intact,intact jj
+intake,intake nn
+integrity,integrity nn
+intended,intended vbn
+intergrity,intergrity nn
+interior,interior nn
+interiors,interiors nns
+interlock,interlock nn
+interlocks,interlocks nns
+intermittent,intermittent nn
+internal,internal jj
+internally calculated,internally rb calculated vbn
+intio,intio nn
+into mud pump,into in_pos mud jj pump nn
+into nov,into in_pos nov jj
+into position,into in_pos position nn
+into service,into in_pos service nn
+inventory,inventory nn
+inverter,inverter nn
+investigated,investigated vbn
+investigating,investigating vbg
+investigation,investigation nn
+investigations,investigations nns
+involved,involved vbn
+ip,ip nn
+ir,ir nn
+ir gun,ir nn gun nn
+irratic,irratic jj
+is about deg,is vbz about in_pos deg nn
+is active,is vbz active jj
+is amps,is vbz amps nns
+is applicable,is vbz applicable jj
+is at nov,is vbz at in_pos nov nn
+is attached,is vbz attached vbn
+is available,is vbz available jj
+is based,is vbz based vbn
+is being,is vbz being vbg
+is blown,is vbz blown vbn
+is bolted,is vbz bolted vbn
+is broken,is vbz broken vbn
+is changed,is vbz changed vbn
+is checked,is vbz checked vbn
+is clean,is vbz clean jj
+is cleanliness,is vbz cleanliness nn
+is closed,is vbz closed vbn
+is coming,is vbz coming vbg
+is completed,is vbz completed vbn
+is connected,is vbz connected vbn
+is correct,is vbz correct jj
+is created,is vbz created vbn
+is damaged,is vbz damaged vbn
+is dead,is vbz dead jj
+is degrees,is vbz degrees nns
+is dirtered,is vbz dirtered vbn
+is dispensed,is vbz dispensed vbn
+is drawing,is vbz drawing vbg
+is due,is vbz due jj
+is electrical,is vbz electrical jj
+is electrician,is vbz electrician jj
+is equiped,is vbz equiped vbn
+is faulty,is vbz faulty nn
+is finewe,is vbz finewe jj
+is fitted,is vbz fitted vbn
+is following,is vbz following vbg
+is found,is vbz found vbn
+is free,is vbz free jj
+is galvanised,is vbz galvanised vbn
+is geberated,is vbz geberated vbn
+is giving,is vbz giving vbg
+is going,is vbz going vbg
+is good,is vbz good jj
+is having,is vbz having vbg
+is high,is vbz high jj
+is in operation,is vbz in in_pos operation nn
+is in place,is vbz in in_pos place nn
+is in progress,is vbz in in_pos progress nn
+is in service,is vbz in in_pos service nn
+is in tact,is vbz in in_pos tact nn
+is installed,is vbz installed vbn
+is intact,is vbz intact jj
+is intactthis,is vbz intactthis jj
+is knick,is vbz knick jj
+is laid,is vbz laid vbn
+is ledgible,is vbz ledgible jj
+is legible,is vbz legible jj
+is little,is vbz little jj
+is located,is vbz located vbn
+is lost,is vbz lost vbn
+is made,is vbz made vbn
+is maiming,is vbz maiming vbg
+is making,is vbz making vbg
+is march,is vbz march nn
+is meg,is vbz meg nn
+is mud,is vbz mud nn
+is na,is vbz na jj
+is off note,is vbz off in_pos note nn
+is offered,is vbz offered vbn
+is ohm,is vbz ohm jj
+is ohms,is vbz ohms jj
+is ok,is vbz ok jj
+is on board,is vbz on in_pos board nn
+is on motor,is vbz on in_pos motor nn
+is online,is vbz online jj
+is open,is vbz open jj
+is opened,is vbz opened vbn
+is operatin,is vbz operatin jj
+is operating,is vbz operating vbg
+is operational,is vbz operational jj
+is pending,is vbz pending vbg
+is performed,is vbz performed vbn
+is prescient,is vbz prescient jj
+is present,is vbz present jj
+is properly,is vbz properly rb
+is put,is vbz put vbn
+is q,is vbz q jj
+is readable,is vbz readable jj
+is ready,is vbz ready jj
+is recommended,is vbz recommended vbn
+is reconnected,is vbz reconnected vbn
+is reinstalled,is vbz reinstalled vbn
+is relevant,is vbz relevant jj
+is remaining,is vbz remaining vbg
+is removed,is vbz removed vbn
+is required,is vbz required vbn
+is rubbing,is vbz rubbing vbg
+is running,is vbz running vbg
+is safe,is vbz safe jj
+is same,is vbz same jj
+is satisfactory,is vbz satisfactory jj
+is sealed,is vbz sealed vbn
+is secure,is vbz secure nn
+is secured,is vbz secured vbn
+is securena,is vbz securena jj
+is set,is vbz set vbn
+is short,is vbz short jj
+is stopped,is vbz stopped vbn
+is supplied,is vbz supplied vbn
+is terminated,is vbz terminated vbn
+is thrown,is vbz thrown vbn
+is tight,is vbz tight jj
+is troubleshoot,is vbz troubleshoot nn
+is unable,is vbz unable jj
+is used,is vbz used vbn
+is verified,is vbz verified vbn
+is working,is vbz working vbg
+isnlt,isnlt nn
+isnt,isnt nn
+isolate,isolate nn
+isolated,isolated jj
+isolation,isolation nn
+isolations,isolations nns
+issue,issue nn
+issued,issued vbn
+issues,issues nns
+item,item nn
+items,items nns
+itit,itit nn
+itthe,itthe nn
+j,j nn
+jack,jack nn
+jacking,jacking nn
+james,james nns
+january,january nn
+jb,jb nn
+jbox,jbox nn
+jboxes,jboxes nns
+jboxs,jboxs nn
+jbs,jbs nn
+jn,jn nn
+job,job nn
+jobs,jobs nns
+johnson,johnson nn
+juncion,juncion nn
+junction,junction nn
+june,june nn
+just internal,just rb internal jj
+just on motor,just rb on in_pos motor nn
+just on standby mode,just rb on in_pos standby jj mode nn
+just performed,just rb performed vbn
+just wire,just rb wire nn
+kept,kept nn
+khant,khant nn
+kill,kill nn
+kind,kind nn
+kinks,kinks nns
+kit,kit nn
+knife,knife nn
+knocking,knocking vbg
+kv,kv nn
+kw,kw nn
+l,l nn
+la,la nn
+labeled,labeled vbn
+labels,labels nns
+lamp,lamp nn
+lamps,lamps nns
+lase,lase nn
+last,last jj
+late,late rb
+laying,laying vbg
+lbs,lbs nn
+lbs deisolated,lbs nn deisolated vbd
+leads,leads nns
+leads at motor,leads nns at in_pos motor nn
+leads checked,leads nns checked vbd
+leads disconnected,leads nns disconnected vbd
+leads measured,leads nns measured vbd
+leads running,leads nns running vbg
+leak,leak nn
+leakage,leakage nn
+leakagethe,leakagethe nn
+leaking,leaking vbg
+leaks,leaks nns
+leaks found,leaks nns found vbd
+leaks observed,leaks nns observed vbd
+leakschecked,leakschecked vbn
+learned,learned vbn
+led,led vbn
+left,left nn
+legible,legible jj
+lekas,lekas nn
+lessna,lessna nn
+lessons,lessons nns
+level,level nn
+levelizer,levelizer nn
+levels,levels nns
+lever,lever nn
+library,library nn
+lifetime,lifetime nn
+lifiting,lifiting vbg
+lift,lift nn
+lifted,lifted vbn
+lifting,lifting vbg
+liftting,liftting vbg
+light,light nn
+lights,lights nns
+like,like in_pos
+like damage,like in_pos damage nn
+like new condition,like in_pos new jj condition nn
+limit,limit nn
+limitation,limitation nn
+limiting,limiting vbg
+limits,limits nns
+line,line nn
+lines,lines nns
+link,link nn
+list,list nn
+listed,listed vbn
+listen,listen nn
+listen for abnormal noise,listen nn for in_pos abnormal jj noise nn
+listened,listened vbn
+litte loose,litte nn loose nn
+little,little jj
+ll,ll nn
+load,load nn
+loads,loads nns
+local,local jj
+localized,localized vbn
+located,located vbn
+locations,locations nns
+lock,lock nn
+locking,locking vbg
+logged,logged vbn
+logic,logic nn
+login,login nn
+look,look nn
+looked,looked vbd
+looking,looking vbg
+looks,looks nns
+looks good,looks nns good jj
+loop,loop nn
+loops,loops nns
+loose,loose jj
+loosen skid,loosen nn skid nn
+loosing,loosing vbg
+loss,loss nn
+lost,lost vbn
+louver,louver nn
+louver installed,louver nn installed vbd
+louvers,louvers nns
+louversthis,louversthis nn
+louvre,louvre nn
+low,low jj
+lowered,lowered vbn
+ltd,ltd nn
+lube,lube nn
+lubricate,lubricate nn
+lubricated,lubricated vbn
+lubricating,lubricating vbg
+lubrication,lubrication nn
+luricated,luricated vbn
+lying,lying vbg
+m,m nn
+machine,machine nn
+mact,mact nn
+made,made vbn
+magnetic,magnetic jj
+main,main jj
+maintained,maintained vbn
+maintains,maintains nns
+maintains hazardous,maintains nns hazardous jj
+maintenance,maintenance nn
+major,major jj
+majority,majority nn
+make,make vb
+make required,make nn required vbn
+maked,maked nns
+makers,makers nns
+makine,makine nn
+making,making vbg
+man,man nn
+manifold,manifold nn
+manifold tested,manifold rb tested vbn
+manifolds,manifolds nns
+manual,manual jj
+manuallythis,manuallythis nn
+map,map nn
+mar,mar nn
+marcelo,marcelo nn
+march,march nn
+marine,marine nn
+marked,marked nns
+marker,marker nn
+markers,markers nns
+marking,marking vbg
+marks,marks nns
+mass,mass nn
+material,material nn
+materials,materials nns
+max,max nn
+maximum,maximum nn
+may be performed,may md be vb performed vbn
+may have been,may md have vb been vbn
+mcc,mcc nn
+mccchecks,mccchecks nns
+meas,meas nns
+measure,measure nn
+measured,measured vbn
+measurements,measurements nns
+measures,measures nns
+measuring,measuring vbg
+measurment,measurment nn
+measused,measused vbn
+mechancics,mechancics nns
+mechanical,mechanical jj
+mechanically prepped,mechanically rb prepped vbd
+mechanics,mechanics nns
+mechanism,mechanism nn
+medium,medium nn
+meets,meets nns
+meg,meg nn
+mega,mega nn
+megg,megg nn
+megged,megged vbn
+megger,megger nn
+meggered,meggered vbn
+megging,megging vbg
+megohm,megohm nn
+megohmes,megohmes nns
+megohms,megohms nn
+mentioned,mentioned vbn
+meter,meter nn
+meter good,meter rb good jj
+meters,meters nns
+methodology,methodology nn
+min,min nn
+minimal,minimal nn
+minimum,minimum nn
+minmohm,minmohm nn
+minmohms,minmohms nn
+minor,minor nn
+mins,mins nns
+mins g,mins nns g vbp
+mins m,mins nns m vbp
+mins pi,mins nns pi vbp
+minute,minute nn
+minutes,minutes nns
+missing,missing vbg
+mit,mit nn
+mm,mm nn
+mmc,mmc nn
+mmmm,mmmm nn
+mms,mms nn
+mobile,mobile nn
+moc,moc nn
+mode,mode nn
+model,model nn
+modules,modules nns
+mohm,mohm nn
+mohms,mohms nn
+moisture,moisture nn
+molded,molded vbn
+mon,mon nn
+money,money nn
+monitor,monitor nn
+monitored,monitored vbd
+monitoring,monitoring nn
+month,month nn
+months,months nns
+moores,moores nns
+mot,mot nn
+moter,moter nn
+motor,motor nn
+motors,motors nns
+motorthis,motorthis nn
+motos,motos nns
+motr,motr nn
+mount,mount nn
+mounted,mounted vbn
+mounting,mounting vbg
+mountings,mountings nns
+mounts,mounts nns
+moved,moved vbn
+movement,movement nn
+moving,moving vbg
+mp,mp nn
+mpa,mpa nn
+mpb,mpb nn
+mph,mph nn
+mrach,mrach nn
+mrumapathi,mrumapathi nn
+msn created,msn nn created vbd
+mtor,mtor nn
+mtr,mtr nn
+much,much jj
+mud,mud nn
+mud contacted,mud nn contacted vbd
+mud pump,mud nn pump nn
+multiple,multiple nn
+mumbai,mumbai nn
+must be added,must md be vb added vbn
+must be installed,must md be vb installed vbn
+must be performed,must md be vb performed vbn
+must be replaced,must md be vb replaced vbn
+n,n nn
+n anot,n rb anot nn
+na,na nns
+na free,na rb free jj
+na na,na to_pos na nns
+name,name nn
+nameplate,nameplate nn
+nameplate in place,nameplate nn in in_pos place nn
+nameplates,nameplates nns
+napro,napro nns
+nc,nc nn
+nd,nd nn
+nde,nde nn
+nde degree,nde nns degree vbp
+ndec,ndec nn
+necessary,necessary jj
+need,need nn
+needed,needed vbn
+needing,needing vbg
+needs,needs nns
+negraes,negraes nn
+never installed,never rb installed vbn
+new,new jj
+next,next jj
+nf,nf nn
+nichols,nichols nns
+nicks,nicks nns
+night,night nn
+nitrogen,nitrogen nn
+no ability,no dt ability nn
+no abnormal,no dt abnormal jj
+no abnormalities,no dt abnormalities nns
+no abnormality,no dt abnormality nn
+no action,no dt action nn
+no active,no dt active jj
+no air,no dt air nn
+no anomalies,no dt anomalies nns
+no anomolies,no dt anomolies nns
+no apparent,no dt apparent nn
+no apparnt,no dt apparnt nn
+no appicable,no dt appicable jj
+no applicable,no dt applicable jj
+no bearing,no dt bearing nn
+no bolt,no dt bolt nn
+no bolts,no dt bolts nns
+no broken,no dt broken nn
+no build,no dt build nn
+no buildup,no dt buildup nn
+no cables,no dt cables nns
+no close,no dt close nn
+no condensation,no dt condensation nn
+no coolant,no dt coolant nn
+no corrosion,no dt corrosion nn
+no crack,no dt crack nn
+no cracked,no dt cracked nn
+no cracks,no dt cracks nns
+no crcaks,no dt crcaks nn
+no current,no dt current jj
+no cuts,no dt cuts nns
+no damage,no dt damage nn
+no damages,no dt damages nns
+no damge,no dt damge nn
+no data,no dt data nn
+no debris,no dt debris nn
+no defeciencies,no dt defeciencies nns
+no defect,no dt defect nn
+no defects,no dt defects nns
+no demister,no dt demister nn
+no deviations,no dt deviations nns
+no dirt,no dt dirt nn
+no discrepancies,no dt discrepancies nns
+no door,no dt door nn
+no drain,no dt drain nn
+no dust,no dt dust nn
+no earth,no dt earth nn
+no encoder,no dt encoder nn
+no excess,no dt excess jj
+no excessive,no dt excessive jj
+no external,no dt external jj
+no fan,no dt fan nn
+no faults,no dt faults nns
+no filter,no dt filter nn
+no filters,no dt filters nns
+no found,no dt found nn
+no function,no dt function nn
+no greasing,no dt greasing nn
+no ground,no dt ground nn
+no heater,no dt heater nn
+no heaters,no dt heaters nns
+no hot,no dt hot jj
+no immediate,no dt immediate jj
+no initial,no dt initial jj
+no isssues,no dt isssues nns
+no issue,no dt issue nn
+no issues,no dt issues nns
+no issures,no dt issures nns
+no kinks,no dt kinks nns
+no leak,no dt leak nn
+no leaks,no dt leaks nns
+no loose,no dt loose jj
+no lubrication,no dt lubrication nn
+no maint,no dt maint nn
+no major,no dt major jj
+no mechanical,no dt mechanical jj
+no moisture,no dt moisture nn
+no motor,no dt motor nn
+no mud,no dt mud nn
+no necessary,no dt necessary jj
+no need,no dt need nn
+no nicks,no dt nicks nns
+no noise,no dt noise nn
+no noises,no dt noises nns
+no notable,no dt notable jj
+no observable,no dt observable jj
+no other,no dt other jj
+no overheating,no dt overheating nn
+no paint,no dt paint nn
+no pdcm,no dt pdcm nn
+no pi,no dt pi nn
+no possible,no dt possible jj
+no power,no dt power nn
+no precharge,no dt precharge nn
+no problem,no dt problem nn
+no problems,no dt problems nns
+no pulsation,no dt pulsation nn
+no pumps,no dt pumps nns
+no remote,no dt remote nn
+no repairs,no dt repairs nns
+no replacements,no dt replacements nns
+no rust,no dt rust nn
+no screens,no dt screens nns
+no sign,no dt sign nn
+no signal,no dt signal nn
+no signs,no dt signs nns
+no spark,no dt spark nn
+no speed,no dt speed nn
+no start,no dt start nn
+no substantial,no dt substantial jj
+no success,no dt success nn
+no thread,no dt thread nn
+no time,no dt time nn
+no unusual,no dt unusual jj
+no vibration,no dt vibration nn
+no vibrations,no dt vibrations nns
+no visable,no dt visable jj
+no visible,no dt visible jj
+no visual,no dt visual jj
+no water,no dt water nn
+no were,no dt were vbd
+no window,no dt window nn
+noise,noise nn
+noise documented,noise rb documented vbn
+noise found,noise nn found vbd
+noise noted,noise rb noted vbn
+noise observed,noise nn observed vbd
+noises,noises nns
+noisesno,noisesno nn
+noisesok,noisesok nn
+nominal,nominal jj
+non,non nn
+non issued,non nn issued vbd
+nonclosed,nonclosed vbn
+nondrive,nondrive jj
+none,none nn
+normal,normal jj
+not able,not rb able jj
+not abnormal,not rb abnormal jj
+not accessible,not rb accessible jj
+not achieved,not rb achieved vbn
+not applicable,not rb applicable jj
+not available,not rb available jj
+not been,not rb been vbn
+not calibrated,not rb calibrated vbn
+not come,not rb come vb
+not complete,not rb complete jj
+not completed,not rb completed vbn
+not conducted,not rb conducted vbn
+not corroded,not rb corroded vbn
+not damaged,not rb damaged vbn
+not degraded,not rb degraded vbn
+not done,not rb done vbn
+not due,not rb due jj
+not equiped,not rb equiped vbn
+not equipped,not rb equipped vbn
+not fitted,not rb fitted vbn
+not found,not rb found vbn
+not gresed,not rb gresed vbn
+not had,not rb had vbd
+not in good shape,not rb in in_pos good jj shape nn
+not in hazardous area,not rb in in_pos hazardous jj area nn
+not in operation,not rb in in_pos operation nn
+not in place,not rb in in_pos place nn
+not in use,not rb in in_pos use nn
+not inspected,not rb inspected vbn
+not installed,not rb installed vbn
+not lift,not rb lift vb
+not listed,not rb listed vbn
+not located,not rb located vbn
+not necessary,not rb necessary jj
+not needed,not rb needed vbn
+not noticed,not rb noticed vbn
+not observed,not rb observed vbn
+not other,not rb other jj
+not performed,not rb performed vbn
+not possible,not rb possible jj
+not ran,not rb ran vb
+not reached,not rb reached vbn
+not removed,not rb removed vbn
+not required,not rb required vbn
+not soft,not rb soft jj
+not started,not rb started vbn
+not suitable,not rb suitable jj
+not sure,not rb sure jj
+not taken,not rb taken vbn
+not tripped,not rb tripped vbn
+not used,not rb used vbn
+not wired,not rb wired vbn
+note,note nn
+noted,noted vbn
+notedbearing,notedbearing vbg
+notedor,notedor nn
+notes,notes nns
+notethe,notethe nn
+notethis,notethis nn
+nothing,nothing nn
+noticed,noticed vbn
+notices,notices nns
+nov,nov nn
+november,november nn
+now been,now rb been vbn
+now complete,now rb complete jj
+now in use,now rb in in_pos use nn
+now performed,now rb performed vbn
+nromal,nromal jj
+nspected,nspected vbn
+number,number nn
+numberthis,numberthis nn
+nuts,nuts nns
+o,o nn
+observed,observed vbn
+oem,oem nn
+oer,oer nn
+oerdid,oerdid nn
+of abnormal vibration,of in_pos abnormal jj vibration nn
+of ac,of in_pos ac nn
+of ac motor,of in_pos ac nns motor nn
+of air,of in_pos air nn
+of analysis,of in_pos analysis nn
+of b,of in_pos b nn
+of bar,of in_pos bar nn
+of blower,of in_pos blower nn
+of build,of in_pos build nn
+of c,of in_pos c nns
+of closed loop,of in_pos closed jj loop nn
+of concern,of in_pos concern nn
+of corrosion,of in_pos corrosion nn
+of cyprina,of in_pos cyprina nn
+of damage,of in_pos damage nn
+of debris,of in_pos debris nn
+of defective motor,of in_pos defective jj motor nn
+of demister,of in_pos demister nn
+of differential pressure,of in_pos differential jj pressure nn
+of dirt,of in_pos dirt nn
+of discoloration,of in_pos discoloration nn
+of distress,of in_pos distress nn
+of drive,of in_pos drive nn
+of drive cabinet,of in_pos drive jj cabinet nn
+of drive motor,of in_pos drive nn motor nn
+of dust,of in_pos dust nn
+of earth,of in_pos earth nn
+of equipment,of in_pos equipment nn
+of ex,of in_pos ex nn
+of excessive heat,of in_pos excessive jj heat nn
+of excessive noise,of in_pos excessive jj noise nn
+of exterior,of in_pos exterior jj
+of floor,of in_pos floor nn
+of grease,of in_pos grease nn
+of hardware,of in_pos hardware nn
+of heat,of in_pos heat nn
+of improper lubrication,of in_pos improper jj lubrication nn
+of infrared temperature,of in_pos infrared jj temperature nn
+of inpsection,of in_pos inpsection nn
+of inspection,of in_pos inspection nn
+of jbox,of in_pos jbox nn
+of job,of in_pos job nn
+of junction,of in_pos junction nn
+of leakage,of in_pos leakage nn
+of local control,of in_pos local jj control nn
+of local motor,of in_pos local jj motor nn
+of loosening,of in_pos loosening vbg
+of low i,of in_pos low jj i nn
+of lubrication,of in_pos lubrication nn
+of mechanical damage,of in_pos mechanical jj damage nn
+of mechanical engineering,of in_pos mechanical jj engineering nn
+of misalignment,of in_pos misalignment nn
+of motor,of in_pos motor nn
+of motora,of in_pos motora nns
+of mpa,of in_pos mpa nn
+of mud,of in_pos mud nn
+of mud pump,of in_pos mud nn pump nn
+of note,of in_pos note nn
+of nov engineer,of in_pos nov nns engineer vbp
+of nowthe rla,of in_pos nowthe jj rla nn
+of o ohms,of in_pos o jj ohms nn
+of oil,of in_pos oil nn
+of old motor,of in_pos old jj motor nn
+of pa,of in_pos pa nn
+of plate,of in_pos plate nn
+of pm,of in_pos pm nn
+of pms,of in_pos pms nn
+of primer,of in_pos primer nn
+of proposal,of in_pos proposal nn
+of psi bar,of in_pos psi jj bar nn
+of pumpwhen,of in_pos pumpwhen nn
+of remote motor,of in_pos remote jj motor nn
+of remote start,of in_pos remote jj start nn
+of rig,of in_pos rig nn
+of rust,of in_pos rust nn
+of rust dirt,of in_pos rust nn dirt nn
+of space,of in_pos space nn
+of start,of in_pos start nn
+of sufficient air,of in_pos sufficient jj air nn
+of test,of in_pos test nn
+of time,of in_pos time nn
+of usage,of in_pos usage nn
+of use,of in_pos use nn
+of vibration,of in_pos vibration nn
+of water,of in_pos water nn
+off maintained,off rb maintained vbd
+off motor,off in_pos motor nn
+offered,offered vbn
+offline,offline nn
+ofrattlig,ofrattlig nn
+ohm,ohm nn
+ohms,ohms nn
+ohms made,ohms nns made vbd
+ohms min,ohms nns min nn
+ohms pi,ohms nn pi nn
+oil,oil nn
+ok,ok nn
+ok inspected,ok rb inspected vbn
+ok performed,ok nn performed vbd
+ok recorded,ok nn recorded vbd
+ok thread damage,ok jj thread nn damage nn
+okay,okay nn
+old,old jj
+on ac,on in_pos ac nn
+on ac motor,on in_pos ac nns motor nn
+on after switch,on in_pos after in_pos switch nn
+on b,on in_pos b nn
+on barrier,on in_pos barrier nn
+on belt,on in_pos belt nn
+on blower,on in_pos blower nn
+on board,on in_pos board nn
+on bus,on in_pos bus nn
+on buss,on in_pos buss nn
+on cabinet,on in_pos cabinet nn
+on cable,on in_pos cable nn
+on cement,on in_pos cement nn
+on checked mud,on in_pos checked vbn mud nn
+on closed loop,on in_pos closed jj loop nn
+on completion,on in_pos completion nn
+on contact,on in_pos contact nn
+on contactor,on in_pos contactor nn
+on cover,on in_pos cover nn
+on cubicle,on in_pos cubicle nn
+on current condition,on in_pos current jj condition nn
+on day,on in_pos day nn
+on dc,on in_pos dc nn
+on de,on in_pos de nns
+on demister,on in_pos demister nn
+on document,on in_pos document nn
+on drive,on in_pos drive nn
+on duct,on in_pos duct nn
+on earth,on in_pos earth nn
+on encoder,on in_pos encoder nn
+on equipment,on in_pos equipment nn
+on exterior,on in_pos exterior jj
+on exterior motor,on in_pos exterior jj motor nn
+on fall,on in_pos fall nn
+on feb cleaning,on in_pos feb nns cleaning vbg
+on floor,on in_pos floor nn
+on from dayshift,on in_pos from in_pos dayshift nn
+on front,on in_pos front nn
+on fwd side,on in_pos fwd jj side nn
+on good condition,on in_pos good jj condition nn
+on ground,on in_pos ground nn
+on hmi vfdcabinet,on in_pos hmi nns vfdcabinet nn
+on impleller,on in_pos impleller nn
+on in conjunction,on in_pos in in_pos conjunction nn
+on inlet,on in_pos inlet nn
+on interior,on in_pos interior nn
+on investigation,on in_pos investigation nn
+on issue,on in_pos issue nn
+on j,on in_pos j nn
+on jan,on in_pos jan nn
+on jbs,on in_pos jbs nn
+on job,on in_pos job nn
+on july,on in_pos july nn
+on junction,on in_pos junction nn
+on june,on in_pos june nn
+on leak,on in_pos leak nn
+on main ac,on in_pos main jj ac nn
+on main contactor,on in_pos main jj contactor nn
+on main power,on in_pos main jj power nn
+on march,on in_pos march nn
+on mcc,on in_pos mcc nn
+on mcc step,on in_pos mcc jj step nn
+on mcc test,on in_pos mcc jj test nn
+on motor,on in_pos motor nn
+on mp,on in_pos mp nn
+on mp drive,on in_pos mp nns drive vbp
+on mpa,on in_pos mpa nn
+on mpb,on in_pos mpb nn
+on mud,on in_pos mud nn
+on mud pump,on in_pos mud nn pump nn
+on mudpump,on in_pos mudpump nn
+on nde,on in_pos nde nns
+on nonclosed loop,on in_pos nonclosed jj loop nn
+on normal mode,on in_pos normal jj mode nn
+on nov cleaning,on in_pos nov nns cleaning vbg
+on off control,on in_pos off rp control nn
+on order,on in_pos order nn
+on place,on in_pos place nn
+on pm,on in_pos pm nn
+on pump,on in_pos pump nn
+on rd,on in_pos rd nn
+on remote,on in_pos remote nn
+on shift,on in_pos shift nn
+on space,on in_pos space nn
+on start,on in_pos start nn
+on starter,on in_pos starter nn
+on stop start,on in_pos stop jj start nn
+on top,on in_pos top nn
+on toughbook,on in_pos toughbook nn
+on urgent order,on in_pos urgent jj order nn
+on vibration,on in_pos vibration nn
+on without problem,on in_pos without in_pos problem nn
+onboard,onboard nn
+one,one cd
+ones,ones nns
+onethen,onethen nn
+ongoing,ongoing vbg
+online,online nn
+only due,only rb due jj
+only if relief plug,only rb if in_pos relief nn plug nn
+only old,only rb old jj
+only on nonclosed loop,only rb on in_pos nonclosed vbn loop nn
+only on nonsealed bearing,only rb on in_pos nonsealed jj bearing nn
+only small,only rb small jj
+oof,oof nn
+oos,oos nn
+open,open jj
+opened,opened vbn
+opening,opening nn
+operated,operated vbn
+operates in make,operates nns in in_pos make nn
+operating,operating nn
+operation,operation nn
+operational,operational jj
+operations,operations nns
+operaton,operaton nn
+opinion,opinion nn
+opion,opion nn
+oporation,oporation nn
+opportunity,opportunity nn
+oppurtunity,oppurtunity nn
+ops,ops nns
+optimized,optimized vbn
+order,order nn
+ordered,ordered vbn
+ordering,ordering vbg
+original,original jj
+originally created,originally rb created vbn
+os,os nn
+other,other jj
+others,others nns
+out b,out in_pos b nn
+out inspection,out in_pos inspection nn
+out multiple time,out in_pos multiple jj time nn
+out of adjustment,out in_pos of in_pos adjustment nn
+out of belt,out in_pos of in_pos belt nn
+out of service,out in_pos of in_pos service nn
+out p,out in_pos p nn
+out visual inspection,out in_pos visual jj inspection nn
+outer,outer nn
+outlet,outlet nn
+outside of ductwork,outside in_pos of in_pos ductwork nn
+over hp lubrication,over in_pos hp jj lubrication nn
+over voltage,over in_pos voltage nn
+overall,overall jj
+overgreased,overgreased vbn
+overhaul,overhaul nn
+overhauled,overhauled vbn
+overhauling,overhauling vbg
+overheated,overheated vbn
+overheating,overheating vbg
+overheatno,overheatno nn
+overlal,overlal nn
+overload,overload nn
+overnde,overnde nn
+overvoltage,overvoltage nn
+owirs,owirs nns
+own,own jj
+p,p nn
+pa,pa nn
+pablo,pablo nn
+pack,pack nn
+package,package nn
+packings,packings nns
+pages,pages nns
+paint,paint nn
+painted,painted vbn
+palte,palte nn
+pan,pan nn
+panel,panel nn
+paper,paper nn
+parameter,parameter nn
+parameters,parameters nns
+paramters,paramters nns
+part,part nn
+parted,parted vbn
+particles,particles nns
+parts,parts nns
+party,party nn
+pass,pass nn
+passed,passed vbn
+past,past nn
+past bearing,past in_pos bearing nn
+pb,pb nn
+pecker,pecker nn
+peckerhead,peckerhead nn
+peices,peices nns
+pencil,pencil nn
+pending,pending vbg
+peoper,peoper nn
+per first tag,per in_pos first jj tag nn
+per oem,per in_pos oem nn
+per pm,per in_pos pm nn
+percentage,percentage nn
+perfect,perfect nn
+perfomed,perfomed vbn
+perform,perform nn
+performed,performed vbn
+performing,performing vbg
+period,period nn
+periodic,periodic nn
+permits,permits nns
+person,person nn
+personnel,personnel nns
+perto,perto nn
+phase,phase nn
+phases,phases nns
+photos,photos nns
+physically checked,physically rb checked vbn
+physically examined,physically rb examined vbn
+physically impossible,physically rb impossible jj
+pi,pi nn
+picked,picked nns
+pics,pics nns
+picture,picture nn
+pictures,pictures nns
+pictures attached,pictures nns attached vbd
+pilled,pilled vbn
+pilot,pilot nn
+pipe,pipe nn
+pipe pressuretested,pipe nn pressuretested vbd
+pipes,pipes nns
+piping,piping vbg
+pistons,pistons nns
+pit,pit nn
+pits,pits nns
+pitting,pitting vbg
+piump,piump nn
+place,place nn
+placed,placed vbn
+placeensured,placeensured vbn
+places,places nns
+placing,placing vbg
+plain,plain nn
+plan,plan nn
+planned,planned vbn
+planning,planning nn
+plate,plate nn
+platerestored,platerestored vbn
+plates,plates nns
+plates present,plates nns present jj
+please,please nn
+plenty,plenty nn
+pltd,pltd nn
+plug,plug nn
+plugs,plugs nns
+plusation,plusation nn
+pm,pm nn
+pm carried,pm nn carried vbd
+pm completed,pm nn completed vbd
+pms,pms nn
+pmsr,pmsr nn
+po,po nn
+point,point nn
+points,points nns
+polarization,polarization nn
+policies,policies nns
+pop,pop nn
+port,port nn
+ports,ports nns
+position,position nn
+possible,possible jj
+possibley,possibley nn
+pot,pot nn
+pounds,pounds nns
+power,power nn
+ppe,ppe nn
+pr,pr nn
+practice,practice nn
+prcharged,prcharged vbn
+pre,pre nn
+precharge,precharge nn
+precharged,precharged vbn
+preformed,preformed vbn
+prelectronics,prelectronics nns
+prep,prep nn
+preparation,preparation nn
+prepared,prepared jj
+present,present nn
+present sealed,present nn sealed vbd
+presentation,presentation nn
+presents,presents nns
+preset,preset nn
+pressure,pressure nn
+pressure tested,pressure nn tested vbd
+pressures,pressures nns
+pretty,pretty rb
+prevented,prevented vbn
+prevents,prevents nns
+previous,previous jj
+previously inspected,previously rb inspected vbn
+previously opened,previously rb opened vbn
+previously returned,previously rb returned vbn
+primeaux,primeaux nn
+primed,primed vbn
+prior,prior rb
+priority,priority nn
+probes,probes nns
+problem,problem nn
+problems,problems nns
+procedure,procedure nn
+procedures,procedures nns
+process,process nn
+product,product nn
+production,production nn
+program,program nn
+progress,progress nn
+prompted,prompted vbn
+proof,proof nn
+proper,proper nn
+properley,properley nn
+properly,properly rb
+properly at time,properly rb at in_pos time nn
+properly checked,properly rb checked vbn
+properly cleaned,properly rb cleaned vbn
+properly control,properly rb control nn
+properly greased,properly rb greased vbn
+properly isolated,properly rb isolated vbn
+properly lubricated,properly rb lubricated vbn
+properly made,properly rb made vbn
+properly marked,properly rb marked vbn
+properly note,properly rb note nn
+properly on standpipe,properly rb on in_pos standpipe nn
+properly purpose,properly rb purpose nn
+properly removed,properly rb removed vbn
+properly routed,properly rb routed vbn
+properly started,properly rb started vbd
+properly tested,properly rb tested vbn
+properly tight,properly rb tight nn
+properly tightens,properly rb tightens nns
+properly torqued,properly rb torqued vbn
+properly used,properly rb used vbn
+protected,protected vbn
+protective,protective nn
+proteus,proteus nn
+provided,provided vbn
+prox,prox nn
+proximity,proximity nn
+prv,prv nn
+prvs,prvs nn
+psi,psi nn
+pte,pte nn
+ptw,ptw nn
+puck,puck nn
+pulled,pulled vbd
+pulley,pulley nn
+pulling,pulling vbg
+pulsation,pulsation nn
+pump,pump nn
+pumpd,pumpd nn
+pumped,pumped nn
+pumping,pumping vbg
+pumps,pumps nns
+purifiers,purifiers nns
+purpose,purpose nn
+push,push nn
+pushbuttons,pushbuttons nns
+put,put nn
+putensured,putensured vbn
+qty,qty nn
+qty requested,qty nn requested vbd
+qualified,qualified vbn
+quick,quick nn
+quotation,quotation nn
+quote,quote nn
+quote recieved,quote nn recieved vbd
+quotes,quotes nns
+r,r nn
+ra,ra nn
+rag,rag nn
+raised,raised vbn
+rajah,rajah nn
+ran,ran nn
+range,range nn
+rating,rating nn
+rattling,rattling vbg
+re,re nn
+rea,rea nn
+reached,reached vbn
+reactivation,reactivation nn
+read,read nn
+readable,readable jj
+reading,reading nn
+readings,readings nns
+reads,reads nns
+readt,readt nn
+ready,ready jj
+really loose,really rb loose jj
+reasonably clean,reasonably rb clean jj
+reassembling,reassembling vbg
+rebuilt,rebuilt nn
+received,received vbn
+recent,recent jj
+recently changed,recently rb changed vbn
+recently replaced,recently rb replaced vbd
+recevid,recevid nn
+recevied,recevied vbn
+recieved,recieved vbn
+recommendation,recommendation nn
+recommendations,recommendations nns
+reconnected,reconnected vbn
+reconnecting,reconnecting vbg
+record,record nn
+recorded,recorded vbn
+recording,recording vbg
+records,records nns
+recored,recored vbn
+rectified,rectified vbn
+red,red jj
+redings,redings nns
+reduced,reduced vbn
+reel,reel nn
+ref,ref nn
+refer,refer nn
+refered,refered vbn
+reference,reference nn
+references,references nns
+referred,referred vbn
+reflecting,reflecting vbg
+refur,refur nn
+regards,regards nns
+register,register nn
+regular,regular jj
+reinstalled,reinstalled vbn
+reisolated,reisolated vbn
+related,related jj
+relay,relay nn
+relays,relays nns
+released,released vbn
+relevant,relevant nn
+reliability,reliability nn
+relief,relief nn
+remaining,remaining vbg
+remegged,remegged vbn
+remote,remote nn
+removal,removal nn
+remove,remove vb
+removed,removed vbn
+removing,removing vbg
+repainting,repainting vbg
+repair,repair nn
+repair return,repair nn return nn
+repaired,repaired vbn
+repairs,repairs nns
+repalced,repalced vbn
+replacable,replacable jj
+replaced,replaced vbn
+replacement,replacement nn
+replacing,replacing vbg
+report,report nn
+reported,reported vbd
+reporting,reporting nn
+reports,reports nns
+repositioned,repositioned vbn
+req,req nn
+reqlabor,reqlabor nn
+reqrental,reqrental nn
+reqs,reqs nn
+request,request nn
+requested,requested vbn
+required,required vbn
+requirement,requirement nn
+requirements,requirements nns
+requirementschecks,requirementschecks nns
+requiring,requiring vbg
+requirments,requirments nns
+requisition,requisition nn
+requred,requred vbn
+rescheduled,rescheduled vbn
+reset,reset nn
+resistance,resistance nn
+resistances,resistances nns
+respective,respective nn
+rest,rest nn
+restored,restored vbn
+results,results nns
+resultsthe,resultsthe nn
+resume,resume nn
+resumed,resumed vbd
+retaped,retaped nn
+retested,retested vbn
+retightened,retightened vbn
+return,return nn
+returned,returned vbn
+returning,returning vbg
+revealed,revealed vbd
+review,review nn
+reviewed,reviewed vbn
+reviewing,reviewing vbg
+revised,revised vbn
+rig,rig nn
+rig up,rig nn up rp
+rigged,rigged vbn
+ring,ring nn
+rio,rio nn
+riser,riser nn
+rmr,rmr nn
+rms,rms nns
+roger,roger nn
+room,room nn
+roomthis,roomthis nn
+rotated,rotated vbn
+rotating,rotating vbg
+rotation,rotation nn
+rpm,rpm nn
+rrkg,rrkg nn
+rtd,rtd nn
+rtds,rtds nn
+rubber,rubber nn
+rubbing,rubbing vbg
+run,run vb
+runnig,runnig nn
+running,running vbg
+runningand,runningand nn
+runningthere,runningthere rb
+rust,rust nn
+rusted,rusted vbn
+s,s nn
+safe,safe jj
+safety,safety nn
+said,said vbd
+sailing,sailing vbg
+same,same jj
+sampey,sampey nn
+sand,sand nn
+santos,santos nn
+sat,sat nn
+satisfactory,satisfactory nn
+satisfatory,satisfatory nn
+saved,saved vbn
+saw,saw nn
+schroud,schroud nn
+scope,scope nn
+screen,screen nn
+screens,screens nns
+screws,screws nns
+scuerd,scuerd nn
+seal,seal nn
+sealed,sealed vbn
+seals,seals nns
+seated,seated vbn
+secm,secm nn
+secs,secs nn
+section,section nn
+sections,sections nns
+secuerd,secuerd nn
+secuered,secuered vbn
+secure,secure nn
+secure carried,secure nn carried vbd
+secured,secured vbn
+securely fastened,securely rb fastened vbn
+securing,securing vbg
+see,see vb
+see attached,see vb attached jj
+seeking,seeking vbg
+seelan,seelan nn
+seen,seen vbn
+seepage,seepage nn
+selected,selected vbn
+send,send nn
+senior,senior jj
+sense,sense nn
+sensor,sensor nn
+sensors,sensors nns
+sent,sent nn
+separate,separate jj
+separated,separated vbn
+separator,separator nn
+seperator,seperator nn
+sequence,sequence nn
+serial,serial jj
+servicable,servicable jj
+service,service nn
+serviced,serviced vbn
+services,services nns
+set,set nn
+sethascope,sethascope nn
+setting,setting vbg
+settings,settings nns
+setup,setup nn
+several,several jj
+shack,shack nn
+shackles,shackles nns
+shaft,shaft nn
+shall be pleased,shall md be vb pleased jj
+shape,shape nn
+sharing,sharing vbg
+sheared,sheared vbn
+shield,shield nn
+shifted,shifted vbn
+shipping,shipping nn
+shooting,shooting vbg
+shop,shop nn
+short,short jj
+shots,shots nns
+should be included,should md be vb included vbn
+should be installed,should md be vb installed vbn
+should be paid,should md be vb paid vbn
+should be programmed,should md be vb programmed vbn
+should be shopped,should md be vb shopped vbn
+show,show nn
+showing,showing vbg
+shown,shown vbn
+shows,shows nns
+shrink,shrink nn
+shrinked,shrinked vbn
+shroud,shroud nn
+shrouds,shrouds nns
+shut,shut nn
+shutdown,shutdown nn
+shuts down,shuts nns down rp
+shutting,shutting vbg
+side,side nn
+siemens,siemens nns
+sign,sign nn
+signal,signal nn
+significantly reduced,significantly rb reduced vbn
+signs,signs nns
+silva,silva nn
+simon,simon nn
+since hrs,since in_pos hrs nn
+singapore,singapore nn
+singh,singh nn
+sistem,sistem nn
+sitting,sitting vbg
+size,size nn
+sized,sized vbn
+sketch,sketch nn
+skid,skid nn
+skt,skt nn
+slack,slack nn
+slackened,slackened vbn
+slided,slided vbd
+slightly different,slightly rb different jj
+slitter,slitter nn
+small,small jj
+smart,smart nn
+snapped,snapped vbd
+snapping,snapping vbg
+snr,snr nn
+so close,so rb close rb
+so decided,so rb decided vbd
+so farthis,so rb farthis jj
+so greased,so rb greased jj
+so i,so rb i jj
+so new,so rb new jj
+so opened,so rb opened jj
+so replaced,so rb replaced jj
+so step,so rb step nn
+so switched,so rb switched jj
+so that belt,so rb that in_pos belt nn
+socket,socket nn
+soft,soft jj
+software,software nn
+solidly attached,solidly rb attached vbd
+solution,solution nn
+some areas,some dt areas nns
+some bolts,some dt bolts nns
+some dirt,some dt dirt nn
+some fittingsthexact,some dt fittingsthexact nn
+some motor,some dt motor nn
+some places,some dt places nns
+some play,some dt play nn
+some reason,some dt reason nn
+some step,some dt step nn
+some support,some dt support nn
+some vibrating,some dt vibrating nn
+some vibration,some dt vibration nn
+somewhat overgreased,somewhat rb overgreased vbd
+sonya,sonya nn
+soon as cemetn unit,soon rb as in_pos cemetn nn unit nn
+sound,sound nn
+sounds,sounds nns
+sourced,sourced vbn
+space,space nn
+spare,spare nn
+spares,spares nns
+spark,spark nn
+specifications,specifications nns
+specs,specs nn
+speed,speed nn
+split,split nn
+spot,spot nn
+spots,spots nns
+spr,spr nn
+spring,spring nn
+spte,spte nn
+spudding,spudding vbg
+spun,spun nn
+sr,sr nn
+ss,ss nn
+ssirclip,ssirclip nn
+stack,stack nn
+stacking,stacking vbg
+stainless,stainless nn
+staitons,staitons nns
+stand,stand nn
+standards,standards nns
+standpipe,standpipe nn
+starboard,starboard nn
+start,start nn
+start recorded,start nn recorded vbd
+starte,starte nn
+started,started vbn
+starter,starter nn
+starters,starters nns
+starting,starting vbg
+startingwith,startingwith nn
+starts,starts nns
+state,state nn
+stated,stated vbn
+station,station nn
+stations,stations nns
+stattion,stattion nn
+statues,statues nns
+stbd,stbd nn
+std,std nn
+steel,steel nn
+step,step nn
+step done,step nn done vbn
+steps,steps nns
+stethoscope,stethoscope nn
+still abit,still rb abit vb
+still activated,still rb activated vbn
+still faulted,still rb faulted vbn
+still havent,still rb havent nn
+still in good condition,still rb in in_pos good jj condition nn
+still low,still rb low jj
+still ok,still rb ok jj
+still operational,still rb operational jj
+still secure,still rb secure vb
+still serviceable,still rb serviceable jj
+stock,stock nn
+stop,stop nn
+stoped,stoped vbd
+stopped,stopped vbd
+stopper,stopper nn
+stopping,stopping vbg
+stops,stops nns
+stored,stored vbn
+straps,straps nns
+stretched,stretched vbn
+strip,strip nn
+stripped,stripped vbd
+stripping,stripping vbg
+strips,strips nns
+stroke,stroke nn
+strong,strong jj
+strut,strut nn
+stub,stub nn
+stud,stud nn
+studs,studs nns
+stuffing,stuffing vbg
+sty,sty nn
+style,style nn
+submitted,submitted vbn
+subsided,subsided vbd
+successfull,successfull nn
+successfully completed,successfully rb completed vbn
+suction,suction nn
+suiatble,suiatble jj
+suitable,suitable jj
+sup,sup nn
+supervisor,supervisor nn
+supplied,supplied vbn
+supplies,supplies nns
+supply,supply nn
+supplying,supplying vbg
+supports cableing,supports nns cableing vbg
+supt,supt nn
+sure,sure nn
+surface,surface nn
+surfaceremoved,surfaceremoved vbn
+survery,survery nn
+survey,survey nn
+suspect,suspect nn
+suspected,suspected vbn
+sustem,sustem nn
+swapped,swapped vbd
+swbd,swbd nn
+swict,swict nn
+switch,switch nn
+switches,switches nns
+switches found,switches nns found vbd
+switchgear,switchgear nn
+swivel,swivel nn
+system,system nn
+systemconfirmed,systemconfirmed vbn
+systems,systems nns
+t loose,t nn loose nn
+tab,tab nn
+tag,tag nn
+tags,tags nns
+taken,taken vbn
+taking,taking vbg
+talking,talking vbg
+tank,tank nn
+tap,tap nn
+tapped,tapped nns
+taranjeet,taranjeet nn
+task,task nn
+tasks,tasks nns
+tc,tc nn
+tco,tco nn
+team,team nn
+tear,tear nn
+tech,tech nn
+technician,technician jj
+technicians,technicians nns
+temos,temos nn
+temp,temp nn
+temperature,temperature nn
+temperaturede,temperaturede nn
+temperatures,temperatures nns
+tempertures,tempertures nns
+temps,temps nns
+temps above normal range,temps nns above in_pos normal jj range nn
+tension,tension nn
+tensioned,tensioned vbn
+teodoro,teodoro nn
+teps,teps nns
+term,term nn
+terminal,terminal nn
+terminals,terminals nns
+termination,termination nn
+terminations,terminations nns
+test,test nn
+tested,tested vbn
+tester,tester nn
+testing,testing vbg
+tests,tests nns
+testt,testt nn
+tewac,tewac nn
+tfs,tfs nn
+th,th nn
+tha,tha nn
+than b,than in_pos b nn
+than g,than in_pos g nn
+than normal vibration,than in_pos normal jj vibration nn
+thank,thank nn
+thanks,thanks nns
+that ac,that dt ac nn
+that ac motor,that dt ac vbz motor nn
+that applied,that dt applied vbd
+that barite surge,that dt barite nn surge nn
+that blower,that dt blower nn
+that drive,that dt drive nn
+that fault,that dt fault nn
+that i,that in_pos i nn
+that intermittent,that dt intermittent nn
+that job,that dt job nn
+that jobwe,that dt jobwe nn
+that motor,that dt motor nn
+that mud,that dt mud nn
+that original converter,that dt original jj converter nn
+that pi test,that dt pi vbz test nn
+that pump,that dt pump nn
+that time,that dt time nn
+that water,that dt water nn
+thaw,thaw nn
+the abnormal,the dt abnormal nn
+the above,the dt above nn
+the ac,the dt ac nn
+the access,the dt access nn
+the actions,the dt actions nns
+the active,the dt active jj
+the acuracy,the dt acuracy nn
+the adjustment,the dt adjustment nn
+the admin,the dt admin nn
+the aft,the dt aft nn
+the air,the dt air nn
+the aircure,the dt aircure nn
+the airflow,the dt airflow nn
+the alarm,the dt alarm nn
+the aluminium,the dt aluminium nn
+the annual,the dt annual jj
+the applicable,the dt applicable jj
+the appropriate,the dt appropriate nn
+the area,the dt area nn
+the assembly,the dt assembly nn
+the assemilation,the dt assemilation nn
+the assistance,the dt assistance nn
+the attach,the dt attach nn
+the attached,the dt attached jj
+the aux,the dt aux nn
+the auxiliaries,the dt auxiliaries nns
+the availability,the dt availability nn
+the available,the dt available jj
+the awb,the dt awb nn
+the b,the dt b nn
+the back,the dt back nn
+the bad,the dt bad jj
+the ball,the dt ball nn
+the barrier,the dt barrier nn
+the base,the dt base nn
+the baylor,the dt baylor nn
+the bearing,the dt bearing nn
+the bearings,the dt bearings nns
+the below,the dt below nn
+the belt,the dt belt nn
+the belts,the dt belts nns
+the bender,the dt bender nn
+the bladder,the dt bladder nn
+the blades,the dt blades nns
+the block,the dt block nn
+the blower,the dt blower nn
+the blowers,the dt blowers nns
+the boat,the dt boat nn
+the bolt,the dt bolt nn
+the bolts,the dt bolts nns
+the bottom,the dt bottom nn
+the box,the dt box nn
+the breaker,the dt breaker nn
+the bucket,the dt bucket nn
+the bulk,the dt bulk nn
+the bulletin,the dt bulletin nn
+the bus,the dt bus nn
+the busbar,the dt busbar nn
+the cabinet,the dt cabinet nn
+the cable,the dt cable nn
+the cables,the dt cables nns
+the cabling,the dt cabling nn
+the cause,the dt cause nn
+the center,the dt center nn
+the checks,the dt checks nns
+the choke,the dt choke nn
+the circuit,the dt circuit nn
+the cleanes,the dt cleanes nns
+the closed,the dt closed jj
+the cm,the dt cm nn
+the coiled,the dt coiled jj
+the combination,the dt combination nn
+the company,the dt company nn
+the complete,the dt complete jj
+the components,the dt components nns
+the conditions,the dt conditions nns
+the configuration,the dt configuration nn
+the connection,the dt connection nn
+the connections,the dt connections nns
+the consistent,the dt consistent nn
+the contactors,the dt contactors nns
+the control,the dt control nn
+the cooling,the dt cooling nn
+the correct,the dt correct nn
+the corrective,the dt corrective nn
+the cover,the dt cover nn
+the covers,the dt covers nns
+the craft,the dt craft nn
+the crane,the dt crane nn
+the crimps,the dt crimps nns
+the cubicle,the dt cubicle nn
+the cyber,the dt cyber nn
+the damage,the dt damage nn
+the data,the dt data nn
+the day,the dt day nn
+the de,the dt de nn
+the deck,the dt deck nn
+the defective,the dt defective jj
+the demister,the dt demister nn
+the derrick,the dt derrick nn
+the details,the dt details nns
+the difference,the dt difference nn
+the direct,the dt direct jj
+the dirt,the dt dirt nn
+the documents,the dt documents nns
+the door,the dt door nn
+the draw,the dt draw nn
+the drawing,the dt drawing nn
+the drill,the dt drill nn
+the driller,the dt driller nn
+the drillfloor,the dt drillfloor nn
+the drilling,the dt drilling nn
+the drive,the dt drive nn
+the drives,the dt drives nns
+the dsgr,the dt dsgr nn
+the duct,the dt duct nn
+the ducting,the dt ducting nn
+the ducts,the dt ducts nns
+the eadge,the dt eadge nn
+the earth,the dt earth nn
+the electric,the dt electric jj
+the electrical,the dt electrical jj
+the elements,the dt elements nns
+the empellor,the dt empellor nn
+the encoder,the dt encoder nn
+the encoders,the dt encoders nns
+the engineering,the dt engineering nn
+the engineers,the dt engineers nns
+the environment,the dt environment nn
+the equipment,the dt equipment nn
+the estop,the dt estop nn
+the ets,the dt ets nns
+the exceptable,the dt exceptable jj
+the exception,the dt exception nn
+the exterior,the dt exterior nn
+the external,the dt external jj
+the eyebolt,the dt eyebolt nn
+the face,the dt face nn
+the fact,the dt fact nn
+the fan,the dt fan nn
+the fault,the dt fault nn
+the faulty,the dt faulty nn
+the field,the dt field nn
+the file,the dt file nn
+the filter,the dt filter nn
+the filters,the dt filters nns
+the final,the dt final jj
+the first,the dt first jj
+the fiscal,the dt fiscal jj
+the flages,the dt flages nns
+the floor,the dt floor nn
+the foam,the dt foam nn
+the following,the dt following nn
+the foundation,the dt foundation nn
+the fourth,the dt fourth jj
+the frame,the dt frame nn
+the front,the dt front nn
+the function,the dt function nn
+the fundation,the dt fundation nn
+the fuse,the dt fuse nn
+the future,the dt future nn
+the gaskets,the dt gaskets nns
+the gauges,the dt gauges nns
+the ge,the dt ge nn
+the gland,the dt gland nn
+the glands,the dt glands nns
+the global,the dt global jj
+the gom,the dt gom nn
+the good,the dt good jj
+the ground,the dt ground nn
+the guages,the dt guages nns
+the guys,the dt guys nns
+the handover,the dt handover nn
+the heat,the dt heat nn
+the heater,the dt heater nn
+the heaters,the dt heaters nns
+the high,the dt high jj
+the hmi,the dt hmi nn
+the holes,the dt holes nns
+the hose,the dt hose nn
+the hot,the dt hot jj
+the hour,the dt hour nn
+the hours,the dt hours nns
+the housing,the dt housing nn
+the hp,the dt hp nn
+the hub,the dt hub nn
+the ibop,the dt ibop nn
+the id,the dt id nn
+the impeller,the dt impeller nn
+the impellers,the dt impellers nns
+the impellor,the dt impellor nn
+the impellors,the dt impellors nns
+the impller,the dt impller nn
+the imppler,the dt imppler nn
+the incorrect,the dt incorrect nn
+the indicator,the dt indicator nn
+the initial,the dt initial jj
+the inlet,the dt inlet nn
+the inputs,the dt inputs nns
+the inside,the dt inside nn
+the inspection,the dt inspection nn
+the instrumentation,the dt instrumentation nn
+the insulation,the dt insulation nn
+the interior,the dt interior nn
+the internal,the dt internal jj
+the intrusiveness,the dt intrusiveness nn
+the ir,the dt ir nn
+the isolation,the dt isolation nn
+the issue,the dt issue nn
+the item,the dt item nn
+the items,the dt items nns
+the jbox,the dt jbox nn
+the jboxes,the dt jboxes nns
+the job,the dt job nn
+the junction,the dt junction nn
+the lack,the dt lack nn
+the last,the dt last jj
+the lead,the dt lead nn
+the leads,the dt leads nns
+the lift,the dt lift nn
+the lifting,the dt lifting nn
+the list,the dt list nn
+the lo,the dt lo nn
+the local,the dt local jj
+the location,the dt location nn
+the loose,the dt loose jj
+the louver,the dt louver nn
+the louvers,the dt louvers nns
+the louvres,the dt louvres nns
+the low,the dt low jj
+the main,the dt main jj
+the mains,the dt mains nns
+the maintenance,the dt maintenance nn
+the manifold,the dt manifold nn
+the manual,the dt manual jj
+the manufacturers,the dt manufacturers nns
+the marcelo,the dt marcelo nn
+the maximum,the dt maximum nn
+the mcc,the dt mcc nn
+the meaurement,the dt meaurement nn
+the mech,the dt mech nn
+the mechanic,the dt mechanic nn
+the mechanical,the dt mechanical jj
+the mechanics,the dt mechanics nns
+the megger,the dt megger nn
+the men,the dt men nns
+the mge,the dt mge nn
+the min,the dt min nn
+the module,the dt module nn
+the moment,the dt moment nn
+the moonpool,the dt moonpool nn
+the motor,the dt motor nn
+the motors,the dt motors nns
+the motr,the dt motr nn
+the mounting,the dt mounting nn
+the mp,the dt mp nn
+the mud,the dt mud nn
+the mudpumps,the dt mudpumps nns
+the name,the dt name nn
+the nameplate,the dt nameplate nn
+the napro,the dt napro nn
+the nd,the dt nd nn
+the nde,the dt nde nn
+the need,the dt need nn
+the new,the dt new jj
+the next,the dt next jj
+the nitrogen,the dt nitrogen nn
+the noise,the dt noise nn
+the normal,the dt normal jj
+the notes,the dt notes nns
+the nov,the dt nov nn
+the oem,the dt oem nn
+the old,the dt old jj
+the open,the dt open jj
+the operation,the dt operation nn
+the opportunity,the dt opportunity nn
+the options,the dt options nns
+the original,the dt original jj
+the other,the dt other jj
+the others,the dt others nns
+the outside,the dt outside nn
+the overhaul,the dt overhaul nn
+the panel,the dt panel nn
+the paper,the dt paper nn
+the part,the dt part nn
+the parts,the dt parts nns
+the phases,the dt phases nns
+the pictures,the dt pictures nns
+the piping,the dt piping nn
+the place,the dt place nn
+the plan,the dt plan nn
+the plane,the dt plane nn
+the plate,the dt plate nn
+the plug,the dt plug nn
+the plugs,the dt plugs nn
+the pm,the dt pm nn
+the pms,the dt pms nn
+the po,the dt po nn
+the polarization,the dt polarization nn
+the pontus,the dt pontus nn
+the power,the dt power nn
+the presence,the dt presence nn
+the pressure,the dt pressure nn
+the problem,the dt problem nn
+the proper,the dt proper jj
+the pulley,the dt pulley nn
+the pulsation,the dt pulsation nn
+the pump,the dt pump nn
+the pumproom,the dt pumproom nn
+the pumps,the dt pumps nns
+the purchase,the dt purchase nn
+the purge,the dt purge nn
+the questionable,the dt questionable jj
+the rdco,the dt rdco nn
+the reading,the dt reading nn
+the readings,the dt readings nns
+the rear,the dt rear nn
+the recient,the dt recient nn
+the reference,the dt reference nn
+the referenced,the dt referenced nn
+the relief,the dt relief nn
+the remedial,the dt remedial nn
+the remote,the dt remote nn
+the removal,the dt removal nn
+the rental,the dt rental nn
+the repaired,the dt repaired nn
+the replacement,the dt replacement nn
+the report,the dt report nn
+the requirements,the dt requirements nns
+the resistance,the dt resistance nn
+the respective,the dt respective nn
+the rest,the dt rest nn
+the restriction,the dt restriction nn
+the results,the dt results nns
+the rig,the dt rig nn
+the right,the dt right nn
+the rigs,the dt rigs nns
+the riser,the dt riser nn
+the risk,the dt risk nn
+the rms,the dt rms nns
+the room,the dt room nn
+the rotary,the dt rotary nn
+the rtd,the dt rtd nn
+the rtds,the dt rtds nn
+the rubber,the dt rubber nn
+the run,the dt run nn
+the running,the dt running nn
+the rust,the dt rust nn
+the s,the dt s nn
+the same,the dt same jj
+the screen,the dt screen nn
+the seals,the dt seals nns
+the second,the dt second jj
+the sensor,the dt sensor nn
+the shaft,the dt shaft nn
+the ship,the dt ship nn
+the shop,the dt shop nn
+the side,the dt side nn
+the signal,the dt signal nn
+the size,the dt size nn
+the skid,the dt skid nn
+the software,the dt software nn
+the space,the dt space nn
+the spare,the dt spare nn
+the speed,the dt speed nn
+the stand,the dt stand nn
+the standpipe,the dt standpipe nn
+the stariner,the dt stariner nn
+the start,the dt start nn
+the stator,the dt stator nn
+the steps,the dt steps nns
+the store,the dt store nn
+the stroke,the dt stroke nn
+the strokes,the dt strokes nns
+the supply,the dt supply nn
+the surface,the dt surface nn
+the switch,the dt switch nn
+the swivels,the dt swivels nns
+the system,the dt system nn
+the t,the dt t nn
+the tag,the dt tag nn
+the tags,the dt tags nn
+the tapped,the dt tapped nn
+the target,the dt target nn
+the task,the dt task nn
+the tasks,the dt tasks nns
+the tco,the dt tco nn
+the temperature,the dt temperature nn
+the temperatures,the dt temperatures nns
+the terminal,the dt terminal nn
+the terminals,the dt terminals nns
+the test,the dt test nn
+the thermometer,the dt thermometer nn
+the third,the dt third jj
+the threads,the dt threads nns
+the thruster,the dt thruster nn
+the time,the dt time nn
+the titan,the dt titan nn
+the toolpusher,the dt toolpusher nn
+the tools,the dt tools nns
+the top,the dt top jj
+the topside,the dt topside nn
+the torque,the dt torque nn
+the tray,the dt tray nn
+the tripped,the dt tripped nn
+the unit,the dt unit nn
+the units,the dt units nns
+the update,the dt update nn
+the use,the dt use nn
+the vent,the dt vent nn
+the vessel,the dt vessel nn
+the vfd,the dt vfd nn
+the vfds,the dt vfds nn
+the vibration,the dt vibration nn
+the voyage,the dt voyage nn
+the warm,the dt warm nn
+the water,the dt water nn
+the way,the dt way nn
+the well,the dt well nn
+the whole,the dt whole nn
+the winding,the dt winding nn
+the windings,the dt windings nns
+the window,the dt window nn
+the wires,the dt wires nns
+the wiring,the dt wiring nn
+the work,the dt work nn
+the worknotes,the dt worknotes nns
+the workshop,the dt workshop nn
+the year,the dt year nn
+the yearly,the dt yearly jj
+the yellow,the dt yellow nn
+the yr,the dt yr nn
+then compared,then rb compared vbn
+thermal,thermal nn
+thermistors,thermistors nns
+thermometer,thermometer nn
+these areas,these dt areas nns
+these belts,these dt belts nns
+these blowers,these dt blowers nns
+these checks,these dt checks nns
+these drives,these dt drives nns
+these holes,these dt holes nns
+these levels,these dt levels nns
+these models,these dt models nns
+these moto,these dt moto nn
+these motors,these dt motors nns
+these parameters,these dt parameters nns
+these particles,these dt particles nns
+these parts,these dt parts nns
+these procedures,these dt procedures nns
+these pump,these dt pump nn
+these pumps,these dt pumps nns
+these readings,these dt readings nns
+these steps,these dt steps nns
+these systems,these dt systems nns
+these task,these dt task nn
+these tasks,these dt tasks nns
+these units,these dt units nns
+these were,these dt were vbd
+theye,theye nn
+thick,thick nn
+thing,thing nn
+third,third jj
+this ac,this dt ac nn
+this alarm,this dt alarm nn
+this base,this dt base nn
+this blower,this dt blower nn
+this bolt,this dt bolt nn
+this cant,this dt cant nn
+this cause,this dt cause nn
+this data,this dt data nn
+this day,this dt day nn
+this equipment,this dt equipment nn
+this event,this dt event nn
+this i,this dt i nn
+this inspection,this dt inspection nn
+this inverter,this dt inverter nn
+this job,this dt job nn
+this louver,this dt louver nn
+this mcc,this dt mcc nn
+this mecahnics,this dt mecahnics nns
+this moment,this dt moment nn
+this motor,this dt motor nn
+this motors,this dt motors nns
+this mud,this dt mud nn
+this number,this dt number nn
+this parameter,this dt parameter nn
+this parameters,this dt parameters nns
+this parts,this dt parts nns
+this pm,this dt pm nn
+this point,this dt point nn
+this project,this dt project nn
+this proposal,this dt proposal nn
+this pump,this dt pump nn
+this remote,this dt remote nn
+this rig,this dt rig nn
+this safety,this dt safety nn
+this satisfactory,this dt satisfactory nn
+this size,this dt size nn
+this step,this dt step nn
+this system,this dt system nn
+this task,this dt task nn
+this tasks,this dt tasks nns
+this time,this dt time nn
+this timeno,this dt timeno nn
+this type,this dt type nn
+this unit,this dt unit nn
+this value,this dt value nn
+this vibration,this dt vibration nn
+this was,this dt was vbd
+thkness,thkness nn
+thread,thread nn
+threaded,threaded vbd
+threads,threads nns
+through bolt,through in_pos bolt nn
+through with inspection,through in_pos with in_pos inspection nn
+thru,thru nn
+thru complete,thru nn complete jj
+thru completed,thru nn completed vbd
+thruster,thruster nn
+ti,ti nn
+ticket,ticket nn
+ties,ties nns
+tight,tight nn
+tighten,tighten nns
+tightened,tightened vbd
+tightly mounted,tightly rb mounted vbn
+tightness,tightness nn
+time,time nn
+times,times nns
+to be accessed,to to_pos be vb accessed vbn
+to be analyzed,to to_pos be vb analyzed vbn
+to be carried,to to_pos be vb carried vbn
+to be changed,to to_pos be vb changed vbn
+to be checked,to to_pos be vb checked vbn
+to be cleaned,to to_pos be vb cleaned vbn
+to be completed,to to_pos be vb completed vbn
+to be configured,to to_pos be vb configured vbn
+to be connected,to to_pos be vb connected vbn
+to be cracked,to to_pos be vb cracked vbn
+to be cut,to to_pos be vb cut vbn
+to be done,to to_pos be vb done vbn
+to be fitted,to to_pos be vb fitted vbn
+to be greased,to to_pos be vb greased vbn
+to be inspected,to to_pos be vb inspected vbn
+to be installed,to to_pos be vb installed vbn
+to be investigated,to to_pos be vb investigated vbn
+to be maintained,to to_pos be vb maintained vbn
+to be perfomed,to to_pos be vb perfomed vbn
+to be performed,to to_pos be vb performed vbn
+to be removed,to to_pos be vb removed vbn
+to be repaired,to to_pos be vb repaired vbn
+to be replaced,to to_pos be vb replaced vbn
+to be reported,to to_pos be vb reported vbn
+to be sent,to to_pos be vb sent vbn
+to be stored,to to_pos be vb stored vbn
+to be stripped,to to_pos be vb stripped vbn
+to be tested,to to_pos be vb tested vbn
+to be updated,to to_pos be vb updated vbn
+to deck opened,to to_pos deck vb opened jj
+to replace damaged,to to_pos replace vb damaged vbn
+to report confirmed,to to_pos report vb confirmed nns
+to report consulted,to to_pos report vb consulted vbn
+to report equipped,to to_pos report vb equipped nns
+to report made,to to_pos report vb made vbn
+to stay closed,to to_pos stay vb closed jj
+to work instructed,to to_pos work vb instructed jj
+today,today nn
+tofs,tofs nn
+together by mi,together rb by in_pos mi nn
+toi,toi nn
+toke,toke nn
+ton,ton nn
+took,took vbd
+tool,tool nn
+toolpusher,toolpusher nn
+tools,tools nns
+top,top nn
+topping,topping vbg
+torque,torque nn
+torque megged,torque nn megged vbd
+torqued,torqued vbn
+town,town nn
+tp,tp nn
+trace,trace nn
+tracking,tracking vbg
+transfer,transfer nn
+transfered,transfered vbn
+transit,transit nn
+transmitter,transmitter nn
+traume,traume nn
+tray,tray nn
+trend,trend nn
+tricks,tricks nns
+tried,tried vbn
+trigger,trigger nn
+tripped,tripped nns
+tripping,tripping vbg
+trnasfreed,trnasfreed nn
+troubleshoot,troubleshoot nn
+troubleshooting,troubleshooting vbg
+true,true jj
+try,try nn
+trying,trying vbg
+tthe,tthe nn
+tubing,tubing vbg
+tucked,tucked nns
+turned,turned vbd
+type,type nn
+u,u nn
+unable,unable jj
+unc,unc nn
+undamaged,undamaged jj
+under correct,under in_pos correct nn
+under hatch,under in_pos hatch nn
+under michael,under in_pos michael nn
+under mike,under in_pos mike nn
+under tag,under in_pos tag nn
+understanding,understanding vbg
+unit,unit nn
+units,units nns
+until final report,until in_pos final jj report nn
+unusual,unusual jj
+unwired,unwired jj
+up checked,up rb checked vbn
+up of mud,up in_pos of in_pos mud nn
+up prevent access,up rb prevent jj access nn
+up terminal box,up in_pos terminal jj box nn
+updated,updated vbn
+uploaded,uploaded jj
+upon further investigation,upon in_pos further jj investigation nn
+upon inspection,upon in_pos inspection nn
+upon reactivation,upon in_pos reactivation nn
+upon visual inspection,upon in_pos visual jj inspection nn
+use,use nn
+used,used vbn
+using,using vbg
+v,v nn
+v dc,v nn dc nn
+value,value nn
+values,values nns
+valves,valves nns
+varghese,varghese jj
+various,various jj
+vbelts,vbelts nns
+vdc,vdc nn
+vdcmin,vdcmin nn
+velasco,velasco nn
+vendor,vendor nn
+vendors,vendors nns
+vent,vent nn
+ventilation,ventilation nn
+vents,vents nns
+verified,verified vbn
+verify,verify nn
+verifying,verifying vbg
+very clean,very rb clean jj
+very ggod,very rb ggod jj
+very good,very rb good jj
+very little,very rb little jj
+very low,very rb low jj
+very minimal,very rb minimal jj
+very similar,very rb similar jj
+vfd,vfd nn
+vfds,vfds nn
+vibarations,vibarations nns
+vibrating,vibrating vbg
+vibration,vibration nn
+vibrations,vibrations nns
+vibrationthe,vibrationthe nn
+vincent,vincent nn
+visable,visable jj
+visible,visible jj
+visit,visit nn
+visual,visual jj
+visualized,visualized vbn
+visually checked,visually rb checked vbn
+visually examine,visually rb examine vb
+visually examined,visually rb examined vbn
+visually inspect,visually rb inspect jj
+visually inspected,visually rb inspected vbn
+visually observed,visually rb observed vbn
+visually verified,visually rb verified vbn
+visualy,visualy nn
+vlaves,vlaves nns
+voltage,voltage nn
+volts,volts nns
+volume,volume nn
+vs,vs nn
+w,w nn
+waiiting,waiiting vbg
+wait,wait nn
+waiting,waiting vbg
+walk,walk nn
+warning,warning vbg
+warrantymarinesgabbcom,warrantymarinesgabbcom nn
+was,was vbd
+wash,wash nn
+washer,washer nn
+washer flat,washer rb flat jj
+washers,washers nns
+wasnt,wasnt nn
+wasnt done,wasnt nn done vbn
+watched,watched vbn
+water,water nn
+watts,watts nn
+ways,ways nns
+wccm,wccm nn
+wear,wear nn
+week,week nn
+weeks,weeks nns
+weight,weight nn
+weld,weld nn
+welded,welded vbd
+welder,welder nn
+welding,welding vbg
+well,well rb
+well aligned,well rb aligned vbn
+well bonded,well rb bonded vbn
+well recommended,well rb recommended jj
+well tds,well rb tds nn
+well within range,well rb within in_pos range nn
+went,went vbd
+were,were vbd
+werent,werent nn
+while ac motor,while in_pos ac nns motor nn
+while blower,while in_pos blower nn
+while equipment,while in_pos equipment nn
+while fan,while in_pos fan nn
+while isolation,while in_pos isolation nn
+while motor,while in_pos motor nn
+while pump,while in_pos pump nn
+whilst,whilst nn
+will be carried,will md be vb carried vbn
+will be changed,will md be vb changed vbn
+will be checked,will md be vb checked vbn
+will be closed,will md be vb closed vbn
+will be completed,will md be vb completed vbn
+will be created,will md be vb created vbn
+will be done,will md be vb done vbn
+will be expensed,will md be vb expensed vbn
+will be lowered,will md be vb lowered vbn
+will be made,will md be vb made vbn
+will be opened,will md be vb opened vbn
+will be performed,will md be vb performed vbn
+will be presented,will md be vb presented vbn
+will be put,will md be vb put vbn
+will be recommended,will md be vb recommended vbn
+will be replaced,will md be vb replaced vbn
+will be required,will md be vb required vbn
+will be revisited,will md be vb revisited vbn
+will be scheduled,will md be vb scheduled vbn
+will be taken,will md be vb taken vbn
+will be tested,will md be vb tested vbn
+will be used,will md be vb used vbn
+winding,winding vbg
+windings,windings nns
+windows,windows nns
+windows on end,windows nns on in_pos end nn
+wiped,wiped vbd
+wire,wire nn
+wired,wired vbd
+wireline,wireline nn
+wires,wires nns
+wiring,wiring nn
+wirings,wirings nns
+with ac motor,with in_pos ac jj motor nn
+with air,with in_pos air nn
+with antisieze,with in_pos antisieze nn
+with assembling,with in_pos assembling vbg
+with bl,with in_pos bl nn
+with bleed,with in_pos bleed nn
+with bop test,with in_pos bop jj test nn
+with brush,with in_pos brush nn
+with c,with in_pos c nns
+with clamp,with in_pos clamp nn
+with closed loop,with in_pos closed jj loop nn
+with day,with in_pos day nn
+with deflection,with in_pos deflection nn
+with dirt,with in_pos dirt nn
+with drill,with in_pos drill nn
+with driller,with in_pos driller nn
+with drilling,with in_pos drilling nn
+with dry air,with in_pos dry jj air nn
+with earth bond,with in_pos earth jj bond nn
+with electrical supervisor,with in_pos electrical jj supervisor nn
+with engineering,with in_pos engineering nn
+with extech ir,with in_pos extech jj ir nn
+with eye,with in_pos eye nn
+with function,with in_pos function nn
+with good ir,with in_pos good jj ir nn
+with good operating,with in_pos good jj operating nn
+with grease,with in_pos grease nn
+with halliburton,with in_pos halliburton nn
+with heater,with in_pos heater nn
+with help,with in_pos help nn
+with hp,with in_pos hp nn
+with ibop,with in_pos ibop nn
+with interlock,with in_pos interlock nn
+with ir gun,with in_pos ir jj gun nn
+with iso motor,with in_pos iso jj motor nn
+with itthis,with in_pos itthis nn
+with jbox,with in_pos jbox nn
+with lead,with in_pos lead nn
+with loss,with in_pos loss nn
+with low air,with in_pos low jj air nn
+with lucas,with in_pos lucas nn
+with maintenance,with in_pos maintenance nn
+with manual probe,with in_pos manual jj probe nn
+with manual tool,with in_pos manual jj tool nn
+with minimal dirt,with in_pos minimal jj dirt nn
+with moisture,with in_pos moisture nn
+with motor,with in_pos motor nn
+with movable chain,with in_pos movable jj chain nn
+with mp drive,with in_pos mp nns drive vbp
+with mud,with in_pos mud nn
+with mud pump,with in_pos mud jj pump nn
+with new pump,with in_pos new jj pump nn
+with nitrogen,with in_pos nitrogen nn
+with nitrogen stroke,with in_pos nitrogen jj stroke nn
+with ns line,with in_pos ns jj line nn
+with only mph,with in_pos only rb mph nn
+with other blower,with in_pos other jj blower nn
+with paint,with in_pos paint nn
+with paul dunkerley,with in_pos paul nn dunkerley nn
+with pump,with in_pos pump nn
+with rag,with in_pos rag nn
+with rags fan,with in_pos rags nns fan nn
+with red alarm,with in_pos red jj alarm nn
+with reference,with in_pos reference nn
+with remote start,with in_pos remote jj start nn
+with rubber,with in_pos rubber nn
+with small amount,with in_pos small jj amount nn
+with soft start,with in_pos soft jj start nn
+with spare,with in_pos spare jj
+with spare motor,with in_pos spare jj motor nn
+with stethoscope,with in_pos stethoscope nn
+with surface,with in_pos surface nn
+with technical recommendation,with in_pos technical jj recommendation nn
+with temperature,with in_pos temperature nn
+with test,with in_pos test nn
+with third party,with in_pos third jj party nn
+with torque wrench,with in_pos torque jj wrench nn
+with traume,with in_pos traume nn
+with vibration,with in_pos vibration nn
+within tolerance,within in_pos tolerance nn
+without abnormal vibrationsbalancing,without in_pos abnormal jj vibrationsbalancing nn
+without action,without in_pos action nn
+without complete diassembly,without in_pos complete jj diassembly nn
+without damage,without in_pos damage nn
+without problem,without in_pos problem nn
+without pump,without in_pos pump nn
+without sealed bearing,without in_pos sealed vbn bearing nn
+wobble,wobble jj
+wont,wont nn
+work,work nn
+worked,worked vbn
+working,working vbg
+works,works nns
+workshop,workshop nn
+worth,worth nn
+wouldnt,wouldnt nn
+x,x nn
+year,year nn
+yellow,yellow nn
+zone,zone nn
