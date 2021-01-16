@@ -1,0 +1,3548 @@
+phrases,tagged_phrases,dummy_labels,POS_TAGS_OF_PHRASE
+a basic,a dt basic jj,1,<DT><JJ>
+a bearings were,a dt bearings nns were vbd,1,<DT><NNS><VBD>
+a clean,a dt clean jj,1,<DT><JJ>
+a closed,a dt closed vbd,1,<DT><VBD>
+a cm related,a dt cm nn related vbn,1,<DT><NN><VBN>
+a common,a dt common jj,1,<DT><JJ>
+a complete,a dt complete jj,1,<DT><JJ>
+a did,a dt did vbd,1,<DT><VBD>
+a examined,a dt examined jj,1,<DT><JJ>
+a few,a dt few jj,1,<DT><JJ>
+a full,a dt full jj,1,<DT><JJ>
+a good,a dt good jj,1,<DT><JJ>
+a grounded,a dt grounded jj,1,<DT><JJ>
+a inispected,a dt inispected jj,1,<DT><JJ>
+a inspected,a dt inspected jj,1,<DT><JJ>
+a isolated,a dt isolated jj,1,<DT><JJ>
+a like,a dt like jj,1,<DT><JJ>
+a little,a dt little jj,1,<DT><JJ>
+a long,a dt long jj,1,<DT><JJ>
+a loose,a dt loose jj,1,<DT><JJ>
+a low,a dt low jj,1,<DT><JJ>
+a lubricated,a dt lubricated jj,1,<DT><JJ>
+a machined,a dt machined jj,1,<DT><JJ>
+a main,a dt main jj,1,<DT><JJ>
+a major,a dt major jj,1,<DT><JJ>
+a minor,a dt minor jj,1,<DT><JJ>
+a motor current,a dt motor nn current jj,1,<DT><NN><JJ>
+a motor high,a dt motor nn high jj,1,<DT><NN><JJ>
+a motor local,a dt motor nn local jj,1,<DT><NN><JJ>
+a new,a dt new jj,1,<DT><JJ>
+a normal,a dt normal jj,1,<DT><JJ>
+a previous,a dt previous jj,1,<DT><JJ>
+a ready,a dt ready jj,1,<DT><JJ>
+a recent,a dt recent jj,1,<DT><JJ>
+a red,a dt red jj,1,<DT><JJ>
+a reduced,a dt reduced jj,1,<DT><JJ>
+a remote,a dt remote jj,1,<DT><JJ>
+a removed,a dt removed vbd,1,<DT><VBD>
+a replaced,a dt replaced jj,1,<DT><JJ>
+a safe,a dt safe jj,1,<DT><JJ>
+a satisfactory,a dt satisfactory jj,1,<DT><JJ>
+a sealed,a dt sealed jj,1,<DT><JJ>
+a second,a dt second jj,1,<DT><JJ>
+a significant,a dt significant jj,1,<DT><JJ>
+a small,a dt small jj,1,<DT><JJ>
+a strong,a dt strong jj,1,<DT><JJ>
+a suitable,a dt suitable jj,1,<DT><JJ>
+a third,a dt third jj,1,<DT><JJ>
+a thru complete,a dt thru nn complete jj,1,<DT><NN><JJ>
+a unable,a dt unable jj,1,<DT><JJ>
+a verified,a dt verified jj,1,<DT><JJ>
+a viable,a dt viable jj,1,<DT><JJ>
+a visual,a dt visual jj,1,<DT><JJ>
+a was,a dt was vbd,1,<DT><VBD>
+able,able jj,1,<JJ>
+abnormal,abnormal jj,1,<JJ>
+abnormal noticed,abnormal nn noticed vbd,1,<NN><VBD>
+abnormalities blower,abnormalities nns blower vbp,1,<NNS><VBP>
+abnormalities pump,abnormalities nns pump vbp,1,<NNS><VBP>
+abnormalities shroud,abnormalities nns shroud vbp,1,<NNS><VBP>
+about abnormal noise,about in_pos abnormal jj noise nn,1,<IN><JJ><NN>
+about motor,about in_pos motor nn,1,<IN><NN>
+above degc,above in_pos degc nn,1,<IN><NN>
+above marcelo,above in_pos marcelo nn,1,<IN><NN>
+above mohms,above in_pos mohms nn,1,<IN><NN>
+above normal operation,above in_pos normal jj operation nn,1,<IN><JJ><NN>
+above normal vibration,above in_pos normal jj vibration nn,1,<IN><JJ><NN>
+above of motor,above in_pos of in_pos motor nn,1,<IN><IN><NN>
+above on step,above in_pos on in_pos step nn,1,<IN><IN><NN>
+acceptable,acceptable jj,1,<JJ>
+accesible,accesible jj,1,<JJ>
+accessible,accessible jj,1,<JJ>
+accetable,accetable jj,1,<JJ>
+accomplished,accomplished vbn,1,<VBN>
+according,according vbg,1,<VBG>
+accounted,accounted vbd,1,<VBD>
+accumulation cleaned,accumulation nn cleaned vbd,1,<NN><VBD>
+accumulation on motor,accumulation nn on in_pos motor nn,1,<NN><IN><NN>
+accumulation was,accumulation nn was vbd,1,<NN><VBD>
+accurately hp,accurately rb hp nn,1,<RB><NN>
+achieved,achieved vbn,1,<VBN>
+action was,action nn was vbd,1,<NN><VBD>
+actions required,actions nns required vbd,1,<NNS><VBD>
+activated,activated vbn,1,<VBN>
+actual,actual jj,1,<JJ>
+added,added vbd,1,<VBD>
+additional,additional jj,1,<JJ>
+additive,additive jj,1,<JJ>
+addressed,addressed vbn,1,<VBN>
+adjusted,adjusted vbn,1,<VBN>
+aforementioned,aforementioned vbn,1,<VBN>
+after drill,after in_pos drill nn,1,<IN><NN>
+after id run,after in_pos id jj run nn,1,<IN><JJ><NN>
+after idle period,after in_pos idle jj period nn,1,<IN><JJ><NN>
+after inspection,after in_pos inspection nn,1,<IN><NN>
+after insulation,after in_pos insulation nn,1,<IN><NN>
+after lubrication,after in_pos lubrication nn,1,<IN><NN>
+after min,after in_pos min nn,1,<IN><NN>
+after rotation,after in_pos rotation nn,1,<IN><NN>
+after usage,after in_pos usage nn,1,<IN><NN>
+again at eow,again rb at in_pos eow nn,1,<RB><IN><NN>
+again drive,again rb drive nn,1,<RB><NN>
+again ir,again rb ir nn,1,<RB><NN>
+again untill,again rb untill jj,1,<RB><JJ>
+against corrosion,against in_pos corrosion nn,1,<IN><NN>
+aged,aged vbn,1,<VBN>
+ahs been,ahs rb been vbn,1,<RB><VBN>
+air checked,air nn checked vbd,1,<NN><VBD>
+air inside motor,air nn inside in_pos motor nn,1,<NN><IN><NN>
+airways are,airways nns are vbp,1,<NNS><VBP>
+airways clean,airways nns clean vbp,1,<NNS><VBP>
+airways clear,airways nns clear vbp,1,<NNS><VBP>
+airways were,airways nns were vbd,1,<NNS><VBD>
+alarm in cyberbase,alarm nn in in_pos cyberbase nn,1,<NN><IN><NN>
+alarm on mud,alarm nn on in_pos mud nn,1,<NN><IN><NN>
+alarm was,alarm nn was vbd,1,<NN><VBD>
+alarms happened,alarms nns happened vbd,1,<NNS><VBD>
+alarms main,alarms nns main jj,1,<NNS><JJ>
+alarms were,alarms nns were vbd,1,<NNS><VBD>
+alarms yellow,alarms nns yellow vbp,1,<NNS><VBP>
+aligned,aligned vbn,1,<VBN>
+aligning tensioned,aligning vbg tensioned vbd,1,<VBG><VBD>
+all appear,all dt appear vbp,1,<DT><VBP>
+all applicable,all dt applicable jj,1,<DT><JJ>
+all available,all dt available jj,1,<DT><JJ>
+all bolts installed,all dt bolts nns installed vbd,1,<DT><NNS><VBD>
+all bolts torqued,all dt bolts nns torqued vbd,1,<DT><NNS><VBD>
+all bolts was,all dt bolts nns was vbd,1,<DT><NNS><VBD>
+all bolts were,all dt bolts nns were vbd,1,<DT><NNS><VBD>
+all cables were,all dt cables nns were vbd,1,<DT><NNS><VBD>
+all checked,all dt checked vbd,1,<DT><VBD>
+all checks were,all dt checks nns were vbd,1,<DT><NNS><VBD>
+all components was,all dt components nns was vbd,1,<DT><NNS><VBD>
+all components were,all dt components nns were vbd,1,<DT><NNS><VBD>
+all conections was,all dt conections nns was vbd,1,<DT><NNS><VBD>
+all connections were,all dt connections nns were vbd,1,<DT><NNS><VBD>
+all covers drilled,all dt covers nns drilled vbd,1,<DT><NNS><VBD>
+all covers were,all dt covers nns were vbd,1,<DT><NNS><VBD>
+all electrical,all dt electrical jj,1,<DT><JJ>
+all fasteners were,all dt fasteners nns were vbd,1,<DT><NNS><VBD>
+all fastners were,all dt fastners nns were vbd,1,<DT><NNS><VBD>
+all filters removed,all dt filters nns removed vbd,1,<DT><NNS><VBD>
+all found,all dt found vbd,1,<DT><VBD>
+all glands appeared,all dt glands nns appeared vbd,1,<DT><NNS><VBD>
+all good,all dt good jj,1,<DT><JJ>
+all high,all dt high jj,1,<DT><JJ>
+all in acceptable level,all dt in in_pos acceptable jj level nn,1,<DT><IN><JJ><NN>
+all in good condition,all dt in in_pos good jj condition nn,1,<DT><IN><JJ><NN>
+all in good order,all dt in in_pos good jj order nn,1,<DT><IN><JJ><NN>
+all in good shape,all dt in in_pos good jj shape nn,1,<DT><IN><JJ><NN>
+all internal,all dt internal jj,1,<DT><JJ>
+all leads were,all dt leads nns were vbd,1,<DT><NNS><VBD>
+all local,all dt local jj,1,<DT><JJ>
+all main,all dt main jj,1,<DT><JJ>
+all mechanical,all dt mechanical jj,1,<DT><JJ>
+all motors greased,all dt motors nns greased vbd,1,<DT><NNS><VBD>
+all motors inspected,all dt motors nns inspected vbd,1,<DT><NNS><VBD>
+all motors megged,all dt motors nns megged vbd,1,<DT><NNS><VBD>
+all motors started,all dt motors nns started vbd,1,<DT><NNS><VBD>
+all operational,all dt operational jj,1,<DT><JJ>
+all other,all dt other jj,1,<DT><JJ>
+all others were,all dt others nns were vbd,1,<DT><NNS><VBD>
+all personal,all dt personal jj,1,<DT><JJ>
+all pumps were,all dt pumps nns were vbd,1,<DT><NNS><VBD>
+all relevant,all dt relevant jj,1,<DT><JJ>
+all satisfactory,all dt satisfactory jj,1,<DT><JJ>
+all sealed,all dt sealed vbd,1,<DT><VBD>
+all steps found,all dt steps nns found vbd,1,<DT><NNS><VBD>
+all steps were,all dt steps nns were vbd,1,<DT><NNS><VBD>
+all tags were,all dt tags nns were vbd,1,<DT><NNS><VBD>
+all terminals tightened,all dt terminals nns tightened vbd,1,<DT><NNS><VBD>
+all tools accounted,all dt tools nns accounted vbd,1,<DT><NNS><VBD>
+all tools were,all dt tools nns were vbd,1,<DT><NNS><VBD>
+all visual,all dt visual jj,1,<DT><JJ>
+all ware good,all dt ware nn good jj,1,<DT><NN><JJ>
+all was,all dt was vbd,1,<DT><VBD>
+all were,all dt were vbd,1,<DT><VBD>
+along with day,along in_pos with in_pos day nn,1,<IN><IN><NN>
+along with heat,along in_pos with in_pos heat nn,1,<IN><IN><NN>
+along with humidity,along in_pos with in_pos humidity nn,1,<IN><IN><NN>
+along with verification,along in_pos with in_pos verification nn,1,<IN><IN><NN>
+already calibrated,already rb calibrated vbn,1,<RB><VBN>
+already connected,already rb connected vbn,1,<RB><VBN>
+already created,already rb created vbn,1,<RB><VBN>
+also as reference,also rb as in_pos reference nn,1,<RB><IN><NN>
+also been,also rb been vbn,1,<RB><VBN>
+also discovered,also rb discovered vbd,1,<RB><VBD>
+also fixed,also rb fixed vbn,1,<RB><VBN>
+also in good condition,also rb in in_pos good jj condition nn,1,<RB><IN><JJ><NN>
+also mud,also rb mud nn,1,<RB><NN>
+also noticed,also rb noticed vbd,1,<RB><VBD>
+also surface,also rb surface nn,1,<RB><NN>
+ammended,ammended vbd,1,<VBD>
+ammeter lubricated,ammeter rb lubricated vbn,1,<RB><VBN>
+ammeter made,ammeter nn made vbd,1,<NN><VBD>
+ammeter measured,ammeter nn measured vbd,1,<NN><VBD>
+ammeter measused,ammeter nn measused vbd,1,<NN><VBD>
+ammount of dust,ammount nn of in_pos dust nn,1,<NN><IN><NN>
+amount of air,amount nn of in_pos air nn,1,<NN><IN><NN>
+amount of dust,amount nn of in_pos dust nn,1,<NN><IN><NN>
+amperage was,amperage nn was vbd,1,<NN><VBD>
+amps carried,amps nns carried vbd,1,<NNS><VBD>
+amps checked,amps nns checked vbd,1,<NNS><VBD>
+amps confirmed,amps nns confirmed vbd,1,<NNS><VBD>
+amps corrective,amps nns corrective vbp,1,<NNS><VBP>
+amps done,amps nns done vbn,1,<NNS><VBN>
+amps note,amps nns note vbp,1,<NNS><VBP>
+amps opened,amps nns opened vbd,1,<NNS><VBD>
+amps visualized,amps nns visualized vbd,1,<NNS><VBD>
+amps were,amps nns were vbd,1,<NNS><VBD>
+an abnormal,an dt abnormal jj,1,<DT><JJ>
+an acceptable,an dt acceptable jj,1,<DT><JJ>
+an confimred,an dt confimred jj,1,<DT><JJ>
+an empty,an dt empty jj,1,<DT><JJ>
+an enclosed,an dt enclosed jj,1,<DT><JJ>
+an in good condition,an dt in in_pos good jj condition nn,1,<DT><IN><JJ><NN>
+an infrared,an dt infrared jj,1,<DT><JJ>
+an old,an dt old jj,1,<DT><JJ>
+an open,an dt open jj,1,<DT><JJ>
+an unplanned,an dt unplanned jj,1,<DT><JJ>
+analysis on board,analysis nn on in_pos board nn,1,<NN><IN><NN>
+analysis performed,analysis nn performed vbd,1,<NN><VBD>
+analysis was,analysis nn was vbd,1,<NN><VBD>
+analyze on ac,analyze nn on in_pos ac nn,1,<NN><IN><NN>
+anf have,anf nns have vbp,1,<NNS><VBP>
+annual,annual jj,1,<JJ>
+ans inertia,ans nns inertia vbp,1,<NNS><VBP>
+any abnormal,any dt abnormal jj,1,<DT><JJ>
+any internal,any dt internal jj,1,<DT><JJ>
+any issues noted,any dt issues nns noted vbd,1,<DT><NNS><VBD>
+any loose,any dt loose jj,1,<DT><JJ>
+any noiseused,any dt noiseused jj,1,<DT><JJ>
+any noticeable,any dt noticeable jj,1,<DT><JJ>
+any obvious,any dt obvious jj,1,<DT><JJ>
+any unusal,any dt unusal jj,1,<DT><JJ>
+any visible,any dt visible jj,1,<DT><JJ>
+any visual,any dt visual jj,1,<DT><JJ>
+appeared,appeared vbd,1,<VBD>
+appears clean,appears vbz clean jj,1,<VBZ><JJ>
+applicable,applicable jj,1,<JJ>
+applied,applied vbn,1,<VBN>
+apply performed,apply nn performed vbd,1,<NN><VBD>
+approved,approved vbn,1,<VBN>
+arcing,arcing vbg,1,<VBG>
+are addressed,are vbp addressed vbn,1,<VBP><VBN>
+are attached,are vbp attached vbn,1,<VBP><VBN>
+are checked,are vbp checked vbn,1,<VBP><VBN>
+are cleared,are vbp cleared vbn,1,<VBP><VBN>
+are completed,are vbp completed vbn,1,<VBP><VBN>
+are formed,are vbp formed vbn,1,<VBP><VBN>
+are found,are vbp found vbn,1,<VBP><VBN>
+are installed,are vbp installed vbn,1,<VBP><VBN>
+are marked,are vbp marked vbn,1,<VBP><VBN>
+are ohms,are vbp ohms jj,1,<VBP><JJ>
+are recorded,are vbp recorded vbn,1,<VBP><VBN>
+are removed,are vbp removed vbn,1,<VBP><VBN>
+are secure,are vbp secure nn,1,<VBP><NN>
+are secured,are vbp secured vbn,1,<VBP><VBN>
+are tripped,are vbp tripped vbn,1,<VBP><VBN>
+area checked,area nn checked vbd,1,<NN><VBD>
+around ac motor,around in_pos ac nns motor nn,1,<IN><NNS><NN>
+around motor,around in_pos motor nn,1,<IN><NN>
+around ohms,around in_pos ohms nns,1,<IN><NNS>
+around pumped,around in_pos pumped vbd,1,<IN><VBD>
+arrester for damage,arrester nn for in_pos damage nn,1,<NN><IN><NN>
+arrestor closed,arrestor nn closed vbd,1,<NN><VBD>
+arrestor fitted,arrestor nn fitted vbd,1,<NN><VBD>
+arrived,arrived vbn,1,<VBN>
+as air,as in_pos air nn,1,<IN><NN>
+as below i,as in_pos below in_pos i nn,1,<IN><IN><NN>
+as cooling,as in_pos cooling nn,1,<IN><NN>
+as design,as in_pos design nn,1,<IN><NN>
+as designed,as in_pos designed vbn,1,<IN><VBN>
+as i,as in_pos i nn,1,<IN><NN>
+as intended,as in_pos intended vbn,1,<IN><VBN>
+as manufacture,as in_pos manufacture nn,1,<IN><NN>
+as n,as in_pos n nn,1,<IN><NN>
+as nameplate,as in_pos nameplate nn,1,<IN><NN>
+as nameplate refer,as in_pos nameplate jj refer nn,1,<IN><JJ><NN>
+as needed note,as in_pos needed vbn note nn,1,<IN><VBN><NN>
+as of july,as in_pos of in_pos july nn,1,<IN><IN><NN>
+as pass,as in_pos pass nn,1,<IN><NN>
+as per chart,as in_pos per in_pos chart nn,1,<IN><IN><NN>
+as per check,as in_pos per in_pos check nn,1,<IN><IN><NN>
+as per chief,as in_pos per nn chief nn,1,<IN><NN><NN>
+as per company,as in_pos per in_pos company nn,1,<IN><IN><NN>
+as per day,as in_pos per in_pos day nn,1,<IN><IN><NN>
+as per discussion,as in_pos per in_pos discussion nn,1,<IN><IN><NN>
+as per feedback,as in_pos per in_pos feedback nn,1,<IN><IN><NN>
+as per job,as in_pos per in_pos job nn,1,<IN><IN><NN>
+as per manufacturer,as in_pos per in_pos manufacturer nn,1,<IN><IN><NN>
+as per nov,as in_pos per in_pos nov nn,1,<IN><IN><NN>
+as per oem,as in_pos per in_pos oem nn,1,<IN><IN><NN>
+as per pm,as in_pos per in_pos pm nn,1,<IN><IN><NN>
+as per pmmegger,as in_pos per in_pos pmmegger nn,1,<IN><IN><NN>
+as per procedure,as in_pos per in_pos procedure nn,1,<IN><IN><NN>
+as per recommendation,as in_pos per in_pos recommendation nn,1,<IN><IN><NN>
+as per report,as in_pos per in_pos report nn,1,<IN><IN><NN>
+as per rig,as in_pos per in_pos rig nn,1,<IN><IN><NN>
+as per rms,as in_pos per in_pos rms nns,1,<IN><IN><NNS>
+as per scehdule,as in_pos per in_pos scehdule nn,1,<IN><IN><NN>
+as per task,as in_pos per in_pos task nn,1,<IN><IN><NN>
+as per ther,as in_pos per in_pos ther nn,1,<IN><IN><NN>
+as per wchb,as in_pos per in_pos wchb nn,1,<IN><IN><NN>
+as required equipment,as in_pos required vbn equipment nn,1,<IN><VBN><NN>
+as required motor,as in_pos required vbn motor nn,1,<IN><VBN><NN>
+as required note,as in_pos required vbn note nn,1,<IN><VBN><NN>
+as well,as in_pos well rb,1,<IN><RB>
+asked,asked vbn,1,<VBN>
+assembled,assembled vbn,1,<VBN>
+assembling,assembling vbg,1,<VBG>
+assembly for damage,assembly rb for in_pos damage nn,1,<RB><IN><NN>
+assembly for damagelubrication,assembly rb for in_pos damagelubrication nn,1,<RB><IN><NN>
+assembly good,assembly rb good jj,1,<RB><JJ>
+assembly was,assembly nn was vbd,1,<NN><VBD>
+assistance started,assistance nn started vbd,1,<NN><VBD>
+assisted,assisted vbn,1,<VBN>
+associated,associated vbn,1,<VBN>
+at ambient,at in_pos ambient nn,1,<IN><NN>
+at ambient motor,at in_pos ambient jj motor nn,1,<IN><JJ><NN>
+at ambient room,at in_pos ambient jj room nn,1,<IN><JJ><NN>
+at correct run,at in_pos correct jj run nn,1,<IN><JJ><NN>
+at correct temperature,at in_pos correct jj temperature nn,1,<IN><JJ><NN>
+at deck,at in_pos deck nn,1,<IN><NN>
+at eow,at in_pos eow nn,1,<IN><NN>
+at full load,at in_pos full jj load nn,1,<IN><JJ><NN>
+at fvd perform,at in_pos fvd jj perform nn,1,<IN><JJ><NN>
+at good condition,at in_pos good jj condition nn,1,<IN><JJ><NN>
+at in wc,at in_pos in in_pos wc nn,1,<IN><IN><NN>
+at load side,at in_pos load jj side nn,1,<IN><JJ><NN>
+at manual gauge,at in_pos manual jj gauge nn,1,<IN><JJ><NN>
+at mcc starter,at in_pos mcc rbs starter nn,1,<IN><RBS><NN>
+at moment,at in_pos moment nn,1,<IN><NN>
+at motor,at in_pos motor nn,1,<IN><NN>
+at mud pump,at in_pos mud rbs pump nn,1,<IN><RBS><NN>
+at nde,at in_pos nde nn,1,<IN><NN>
+at next pm,at in_pos next jj pm nn,1,<IN><JJ><NN>
+at nonhazardous area,at in_pos nonhazardous jj area nn,1,<IN><JJ><NN>
+at ohm,at in_pos ohm nn,1,<IN><NN>
+at ohms,at in_pos ohms nn,1,<IN><NN>
+at ohms panel,at in_pos ohms jj panel nn,1,<IN><JJ><NN>
+at ohms push,at in_pos ohms jj push nn,1,<IN><JJ><NN>
+at ohms step,at in_pos ohms jj step nn,1,<IN><JJ><NN>
+at prm,at in_pos prm nn,1,<IN><NN>
+at psi,at in_pos psi nn,1,<IN><NN>
+at rpm,at in_pos rpm nn,1,<IN><NN>
+at serial number,at in_pos serial jj number nn,1,<IN><JJ><NN>
+at terminal box,at in_pos terminal jj box nn,1,<IN><JJ><NN>
+at termination,at in_pos termination nn,1,<IN><NN>
+at time,at in_pos time nn,1,<IN><NN>
+at vac,at in_pos vac nn,1,<IN><NN>
+at vdc,at in_pos vdc nn,1,<IN><NN>
+attached,attached vbn,1,<VBN>
+attatched,attatched vbn,1,<VBN>
+auto cancelled,auto nn cancelled vbd,1,<NN><VBD>
+automated,automated vbn,1,<VBN>
+automatically overwritten,automatically rb overwritten vb,1,<RB><VB>
+auxiliaries ensured,auxiliaries nns ensured vbd,1,<NNS><VBD>
+auxiliaries make,auxiliaries nns make vbp,1,<NNS><VBP>
+available,available jj,1,<JJ>
+availlable,availlable jj,1,<JJ>
+awaiting,awaiting vbg,1,<VBG>
+aware,aware jj,1,<JJ>
+az was,az nn was vbd,1,<NN><VBD>
+b de c,b nn de in_pos c nn,1,<NN><IN><NN>
+b de vibration,b nn de in_pos vibration nn,1,<NN><IN><NN>
+b failed,b nn failed vbd,1,<NN><VBD>
+b for analysis,b nn for in_pos analysis nn,1,<NN><IN><NN>
+b from repair,b nn from in_pos repair nn,1,<NN><IN><NN>
+b made,b nn made vbd,1,<NN><VBD>
+b make,b nns make vbp,1,<NNS><VBP>
+b observed,b nn observed vbd,1,<NN><VBD>
+b on mud,b nn on in_pos mud nn,1,<NN><IN><NN>
+b was,b nn was vbd,1,<NN><VBD>
+back due,back rb due jj,1,<RB><JJ>
+back from overhaul,back rb from in_pos overhaul nn,1,<RB><IN><NN>
+back in good condition,back rb in in_pos good jj condition nn,1,<RB><IN><JJ><NN>
+back in motor,back rb in in_pos motor nn,1,<RB><IN><NN>
+back in place,back rb in in_pos place nn,1,<RB><IN><NN>
+back in serive,back rb in in_pos serive nn,1,<RB><IN><NN>
+back in service,back rb in in_pos service nn,1,<RB><IN><NN>
+back into alarm,back rb into in_pos alarm nn,1,<RB><IN><NN>
+back into service,back rb into in_pos service nn,1,<RB><IN><NN>
+back on board,back rb on in_pos board nn,1,<RB><IN><NN>
+back on isolated motor,back rb on in_pos isolated jj motor nn,1,<RB><IN><JJ><NN>
+back on line,back rb on in_pos line nn,1,<RB><IN><NN>
+back on motor,back rb on in_pos motor nn,1,<RB><IN><NN>
+back on n,back rb on in_pos n nn,1,<RB><IN><NN>
+back on service,back rb on in_pos service nn,1,<RB><IN><NN>
+back opened,back rb opened vbn,1,<RB><VBN>
+bad,bad jj,1,<JJ>
+badly corroded,badly rb corroded vbd,1,<RB><VBD>
+balanced,balanced vbn,1,<VBN>
+bar while isolation,bar nn while in_pos isolation nn,1,<NN><IN><NN>
+barring,barring vbg,1,<VBG>
+bars are,bars nns are vbp,1,<NNS><VBP>
+based,based vbn,1,<VBN>
+be achieved,be vb achieved vbn,1,<VB><VBN>
+be attributed,be vb attributed vbn,1,<VB><VBN>
+be closed,be vb closed vbn,1,<VB><VBN>
+be commented,be vb commented vbn,1,<VB><VBN>
+be connected,be vb connected vbn,1,<VB><VBN>
+be done,be vb done vbn,1,<VB><VBN>
+be heard,be vb heard vbn,1,<VB><VBN>
+be moved,be vb moved vbn,1,<VB><VBN>
+be obtained,be vb obtained vbn,1,<VB><VBN>
+be perfomed,be vb perfomed vbn,1,<VB><VBN>
+be ran,be vb ran nn,1,<VB><NN>
+be run,be vb run vbn,1,<VB><VBN>
+be sent,be vb sent vbn,1,<VB><VBN>
+beaings checked,beaings nns checked vbd,1,<NNS><VBD>
+bearing checked,bearing nn checked vbd,1,<NN><VBD>
+bearing for mpa,bearing nn for in_pos mpa nn,1,<NN><IN><NN>
+bearing had,bearing nn had vbd,1,<NN><VBD>
+bearing of motor,bearing nn of in_pos motor nn,1,<NN><IN><NN>
+bearing of motora,bearing nn of in_pos motora nn,1,<NN><IN><NN>
+bearing put,bearing nn put vbd,1,<NN><VBD>
+bearing sealed,bearing nn sealed vbd,1,<NN><VBD>
+bearing was,bearing nn was vbd,1,<NN><VBD>
+bearing while pump,bearing vbg while in_pos pump nn,1,<VBG><IN><NN>
+bearings are,bearings nns are vbp,1,<NNS><VBP>
+bearings bad,bearings nns bad jj,1,<NNS><JJ>
+bearings do,bearings nns do vbp,1,<NNS><VBP>
+bearings due,bearings nns due jj,1,<NNS><JJ>
+bearings ensured,bearings nns ensured vbd,1,<NNS><VBD>
+bearings inspected,bearings nns inspected vbd,1,<NNS><VBD>
+bearings megged,bearings nns megged vbd,1,<NNS><VBD>
+bearings note,bearings nns note vbp,1,<NNS><VBP>
+bearings observed,bearings nns observed vbd,1,<NNS><VBD>
+bearings replaced,bearings nns replaced vbd,1,<NNS><VBD>
+bearings see,bearings nns see vbp,1,<NNS><VBP>
+bearings seem,bearings nns seem vbp,1,<NNS><VBP>
+bearings shots,bearings nns shots nns,1,<NNS><NNS>
+bearings suitable,bearings nns suitable jj,1,<NNS><JJ>
+bearings were,bearings nns were vbd,1,<NNS><VBD>
+been,been vbn,1,<VBN>
+before connect,before in_pos connect nn,1,<IN><NN>
+before installation,before in_pos installation nn,1,<IN><NN>
+before start,before in_pos start nn,1,<IN><NN>
+being,being vbg,1,<VBG>
+bell on blower,bell nn on in_pos blower nn,1,<NN><IN><NN>
+below blower,below in_pos blower nn,1,<IN><NN>
+below cleanliness,below in_pos cleanliness nn,1,<IN><NN>
+below damage,below in_pos damage nn,1,<IN><NN>
+below damageok,below in_pos damageok nn,1,<IN><NN>
+below dirt,below in_pos dirt nn,1,<IN><NN>
+below from abb,below in_pos from in_pos abb nn,1,<IN><IN><NN>
+below galling,below in_pos galling vbg,1,<IN><VBG>
+below inside,below in_pos inside rb,1,<IN><RB>
+below interior,below in_pos interior jj,1,<IN><JJ>
+below junction,below in_pos junction nn,1,<IN><NN>
+below log,below in_pos log nn,1,<IN><NN>
+below mechanical damage,below in_pos mechanical jj damage nn,1,<IN><JJ><NN>
+below mentioned,below in_pos mentioned vbd,1,<IN><VBD>
+below na damage,below in_pos na dt damage nn,1,<IN><DT><NN>
+below none,below in_pos none nn,1,<IN><NN>
+below ohms,below in_pos ohms nns,1,<IN><NNS>
+below panel,below in_pos panel nn,1,<IN><NN>
+below rust,below in_pos rust nn,1,<IN><NN>
+below task,below in_pos task nn,1,<IN><NN>
+below water,below in_pos water nn,1,<IN><NN>
+belt attempted,belt nn attempted vbd,1,<NN><VBD>
+belt fitted,belt nn fitted vbd,1,<NN><VBD>
+belts are,belts nns are vbp,1,<NNS><VBP>
+belts were,belts nns were vbd,1,<NNS><VBD>
+between pulley,between in_pos pulley nn,1,<IN><NN>
+big,big jj,1,<JJ>
+bladder in pump,bladder nn in in_pos pump nn,1,<NN><IN><NN>
+blade was,blade nn was vbd,1,<NN><VBD>
+blades are,blades nns are vbp,1,<NNS><VBP>
+blades broken,blades nns broken vbp,1,<NNS><VBP>
+blades clean,blades nns clean vbp,1,<NNS><VBP>
+blades free,blades nns free jj,1,<NNS><JJ>
+blades have,blades nns have vbp,1,<NNS><VBP>
+blades look,blades nns look vbp,1,<NNS><VBP>
+blades were,blades nns were vbd,1,<NNS><VBD>
+blocks ton,blocks nns ton vbp,1,<NNS><VBP>
+blower checked,blower nn checked vbd,1,<NN><VBD>
+blower for damage,blower nn for in_pos damage nn,1,<NN><IN><NN>
+blower had,blower nn had vbd,1,<NN><VBD>
+blower in place,blower nn in in_pos place nn,1,<NN><IN><NN>
+blower made,blower nn made vbd,1,<NN><VBD>
+blower on order,blower nn on in_pos order nn,1,<NN><IN><NN>
+blower reconnected,blower nn reconnected vbd,1,<NN><VBD>
+blower stopped,blower nn stopped vbd,1,<NN><VBD>
+blower was,blower nn was vbd,1,<NN><VBD>
+blowers are,blowers nns are vbp,1,<NNS><VBP>
+blowers aux,blowers nns aux vbp,1,<NNS><VBP>
+blowers changed,blowers nns changed vbd,1,<NNS><VBD>
+blowers etc,blowers nns etc vbp,1,<NNS><VBP>
+blowers have,blowers nns have vbp,1,<NNS><VBP>
+blowers sound,blowers nns sound vbd,1,<NNS><VBD>
+blowers task,blowers nns task vbp,1,<NNS><VBP>
+blowers were,blowers nns were vbd,1,<NNS><VBD>
+body disjointed,body nn disjointed vbd,1,<NN><VBD>
+bolt cleaned,bolt nn cleaned vbd,1,<NN><VBD>
+bolt on blower,bolt nn on in_pos blower nn,1,<NN><IN><NN>
+bolt removed,bolt nn removed vbd,1,<NN><VBD>
+bolt sheared,bolt nn sheared vbd,1,<NN><VBD>
+bolted,bolted vbn,1,<VBN>
+bolts appear,bolts nns appear vbp,1,<NNS><VBP>
+bolts are,bolts nns are vbp,1,<NNS><VBP>
+bolts checked,bolts nns checked vbd,1,<NNS><VBD>
+bolts cleaned,bolts nns cleaned vbd,1,<NNS><VBD>
+bolts edocs,bolts nns edocs vbp,1,<NNS><VBP>
+bolts electrical,bolts nns electrical jj,1,<NNS><JJ>
+bolts exterior,bolts nns exterior vbp,1,<NNS><VBP>
+bolts for torque,bolts nns for in_pos torque nn,1,<NNS><IN><NN>
+bolts found,bolts nns found vbd,1,<NNS><VBD>
+bolts ft,bolts nns ft vbp,1,<NNS><VBP>
+bolts intact,bolts nns intact jj,1,<NNS><JJ>
+bolts ok,bolts nns ok vbp,1,<NNS><VBP>
+bolts present,bolts nns present jj,1,<NNS><JJ>
+bolts reinstall,bolts nns reinstall vbp,1,<NNS><VBP>
+bolts reinstalled,bolts nns reinstalled vbd,1,<NNS><VBD>
+bolts remote,bolts nns remote vbp,1,<NNS><VBP>
+bolts tight,bolts nns tight vbd,1,<NNS><VBD>
+bolts tightened,bolts nns tightened vbd,1,<NNS><VBD>
+bolts was,bolts nns was vbd,1,<NNS><VBD>
+bolts were,bolts nns were vbd,1,<NNS><VBD>
+bond checked,bond nn checked vbd,1,<NN><VBD>
+bond in place,bond nn in in_pos place nn,1,<NN><IN><NN>
+bond measured,bond nn measured vbd,1,<NN><VBD>
+bond on motor,bond nn on in_pos motor nn,1,<NN><IN><NN>
+bond was,bond nn was vbd,1,<NN><VBD>
+bonding was,bonding nn was vbd,1,<NN><VBD>
+bonds af,bonds nns af vbp,1,<NNS><VBP>
+bonds are,bonds nns are vbp,1,<NNS><VBP>
+bonds checked,bonds nns checked vbd,1,<NNS><VBD>
+bonds confirmed,bonds nns confirmed vbd,1,<NNS><VBD>
+bonds earth,bonds nns earth vbp,1,<NNS><VBP>
+bonds ensured,bonds nns ensured vbd,1,<NNS><VBD>
+bonds inspected,bonds nns inspected vbd,1,<NNS><VBD>
+bonds jb,bonds nns jb vbp,1,<NNS><VBP>
+bonds look,bonds nns look vbp,1,<NNS><VBP>
+bonds note,bonds nns note vbp,1,<NNS><VBP>
+bonds present,bonds nns present jj,1,<NNS><JJ>
+bonds was,bonds nns was vbd,1,<NNS><VBD>
+bonds were,bonds nns were vbd,1,<NNS><VBD>
+boosted,boosted vbn,1,<VBN>
+bop closed,bop nn closed vbd,1,<NN><VBD>
+both heaters were,both dt heaters nns were vbd,1,<DT><NNS><VBD>
+both main,both dt main jj,1,<DT><JJ>
+both motors greased,both dt motors nns greased vbd,1,<DT><NNS><VBD>
+both motors opened,both dt motors nns opened vbd,1,<DT><NNS><VBD>
+both motors were,both dt motors nns were vbd,1,<DT><NNS><VBD>
+both nondrive,both dt nondrive jj,1,<DT><JJ>
+both parties confirmed,both dt parties nns confirmed vbd,1,<DT><NNS><VBD>
+both standpipes was,both dt standpipes nns was vbd,1,<DT><NNS><VBD>
+both were,both dt were vbd,1,<DT><VBD>
+boths was,boths nns was vbd,1,<NNS><VBD>
+box for dirt,box nn for in_pos dirt nn,1,<NN><IN><NN>
+box for integrity,box nn for in_pos integrity nn,1,<NN><IN><NN>
+box for water,box nn for in_pos water nn,1,<NN><IN><NN>
+box opened,box nn opened vbd,1,<NN><VBD>
+box performed,box nn performed vbd,1,<NN><VBD>
+box reconnected,box nn reconnected vbd,1,<NN><VBD>
+box removed,box nn removed vbd,1,<NN><VBD>
+box was,box nn was vbd,1,<NN><VBD>
+boxes appear,boxes nns appear vbp,1,<NNS><VBP>
+boxes checked,boxes nns checked vbd,1,<NNS><VBD>
+boxes etc,boxes nns etc vbp,1,<NNS><VBP>
+boxes recorded,boxes nns recorded vbd,1,<NNS><VBD>
+boxes were,boxes nns were vbd,1,<NNS><VBD>
+bracket were,bracket nn were vbd,1,<NN><VBD>
+breaker examined,breaker nn examined vbd,1,<NN><VBD>
+brushed,brushed vbn,1,<VBN>
+bucket for hand,bucket nn for in_pos hand nn,1,<NN><IN><NN>
+bucket inspected,bucket nn inspected vbd,1,<NN><VBD>
+bucket was,bucket nn was vbd,1,<NN><VBD>
+buildup observed,buildup nn observed vbd,1,<NN><VBD>
+buildup of dirt,buildup nn of in_pos dirt nn,1,<NN><IN><NN>
+buttons are,buttons nns are vbp,1,<NNS><VBP>
+by accident,by in_pos accident nn,1,<IN><NN>
+by aneesh,by in_pos aneesh jj,1,<IN><JJ>
+by comparrison,by in_pos comparrison nn,1,<IN><NN>
+by driller,by in_pos driller nn,1,<IN><NN>
+by engineer,by in_pos engineer nn,1,<IN><NN>
+by maint,by in_pos maint nn,1,<IN><NN>
+by maurice,by in_pos maurice nn,1,<IN><NN>
+by motor,by in_pos motor nn,1,<IN><NN>
+by mrgopal anf,by in_pos mrgopal jj anf nn,1,<IN><JJ><NN>
+by noticeable vibration,by in_pos noticeable jj vibration nn,1,<IN><JJ><NN>
+by nov refer,by in_pos nov nns refer vbp,1,<IN><NNS><VBP>
+by other shift,by in_pos other jj shift nn,1,<IN><JJ><NN>
+by paint,by in_pos paint nn,1,<IN><NN>
+by personel,by in_pos personel nns,1,<IN><NNS>
+by ratheesh,by in_pos ratheesh nn,1,<IN><NN>
+by rd,by in_pos rd nn,1,<IN><NN>
+by shimmer,by in_pos shimmer nn,1,<IN><NN>
+by tfs,by in_pos tfs nn,1,<IN><NN>
+by third party,by in_pos third jj party nn,1,<IN><JJ><NN>
+by transocean policy,by in_pos transocean jj policy nn,1,<IN><JJ><NN>
+by traume,by in_pos traume nn,1,<IN><NN>
+by vijay,by in_pos vijay nn,1,<IN><NN>
+by visual checksmoreover,by in_pos visual jj checksmoreover nn,1,<IN><JJ><NN>
+c c,c nns c vbp,1,<NNS><VBP>
+c cooling,c nns cooling vbg,1,<NNS><VBG>
+cabinet isolated,cabinet nn isolated vbd,1,<NN><VBD>
+cabinet observed,cabinet nn observed vbd,1,<NN><VBD>
+cabinet swapped,cabinet nn swapped vbd,1,<NN><VBD>
+cabint performed,cabint nn performed vbd,1,<NN><VBD>
+cable found,cable nn found vbd,1,<NN><VBD>
+cable was,cable nn was vbd,1,<NN><VBD>
+cableing,cableing vbg,1,<VBG>
+cables are,cables nns are vbp,1,<NNS><VBP>
+cables closed,cables nns closed vbd,1,<NNS><VBD>
+cables have,cables nns have vbp,1,<NNS><VBP>
+cables id,cables nns id vbp,1,<NNS><VBP>
+cables look,cables nns look vbp,1,<NNS><VBP>
+cables read,cables nns read vbp,1,<NNS><VBP>
+cables show,cables nns show vbp,1,<NNS><VBP>
+cables were,cables nns were vbd,1,<NNS><VBD>
+cabling,cabling vbg,1,<VBG>
+cabling was,cabling nn was vbd,1,<NN><VBD>
+calibrated,calibrated vbn,1,<VBN>
+call from mud,call nn from in_pos mud nn,1,<NN><IN><NN>
+called,called vbn,1,<VBN>
+came,came vbd,1,<VBD>
+can be checked,can md be vb checked vbn,1,<MD><VB><VBN>
+can be cloased,can md be vb cloased vbn,1,<MD><VB><VBN>
+can be closed,can md be vb closed vbn,1,<MD><VB><VBN>
+can be controlled,can md be vb controlled vbn,1,<MD><VB><VBN>
+can be done,can md be vb done vbn,1,<MD><VB><VBN>
+can be expected,can md be vb expected vbn,1,<MD><VB><VBN>
+can be found,can md be vb found vbn,1,<MD><VB><VBN>
+can be noticed,can md be vb noticed vbn,1,<MD><VB><VBN>
+can be put,can md be vb put vbn,1,<MD><VB><VBN>
+can be seen,can md be vb seen vbn,1,<MD><VB><VBN>
+can be stopped,can md be vb stopped vbn,1,<MD><VB><VBN>
+can be used,can md be vb used vbn,1,<MD><VB><VBN>
+cancelled,cancelled vbn,1,<VBN>
+cards created,cards nns created vbd,1,<NNS><VBD>
+carried,carried vbn,1,<VBN>
+casing,casing vbg,1,<VBG>
+caused,caused vbn,1,<VBN>
+center for damage,center nn for in_pos damage nn,1,<NN><IN><NN>
+center found,center nn found vbd,1,<NN><VBD>
+certified,certified vbn,1,<VBN>
+challenging,challenging vbg,1,<VBG>
+changed,changed vbn,1,<VBN>
+changing,changing vbg,1,<VBG>
+characteristics are,characteristics nns are vbp,1,<NNS><VBP>
+charged,charged vbn,1,<VBN>
+charging,charging vbg,1,<VBG>
+charles f,charles nns f vbp,1,<NNS><VBP>
+chart attached,chart nn attached vbd,1,<NN><VBD>
+charts are,charts nns are vbp,1,<NNS><VBP>
+chattering,chattering vbg,1,<VBG>
+check listed,check nn listed vbd,1,<NN><VBD>
+checking,checking vbg,1,<VBG>
+checking for damage,checking vbg for in_pos damage nn,1,<VBG><IN><NN>
+checks aqll,checks nns aqll vbp,1,<NNS><VBP>
+checks completed,checks nns completed vbd,1,<NNS><VBD>
+checks good,checks nns good jj,1,<NNS><JJ>
+checks need,checks nns need vbp,1,<NNS><VBP>
+checks note,checks nns note vbp,1,<NNS><VBP>
+checks observed,checks nns observed vbd,1,<NNS><VBD>
+checks ok,checks nns ok vbp,1,<NNS><VBP>
+checks were,checks nns were vbd,1,<NNS><VBD>
+circuit for motor,circuit nn for in_pos motor nn,1,<NN><IN><NN>
+circuit on motor,circuit nn on in_pos motor nn,1,<NN><IN><NN>
+circuit on mudpump,circuit nn on in_pos mudpump nn,1,<NN><IN><NN>
+circuit was,circuit nn was vbd,1,<NN><VBD>
+circulating,circulating vbg,1,<VBG>
+cleaned,cleaned vbn,1,<VBN>
+cleanning,cleanning vbg,1,<VBG>
+clear,clear jj,1,<JJ>
+cleared,cleared vbn,1,<VBN>
+clockwise deisolated,clockwise nn deisolated vbd,1,<NN><VBD>
+close,close rb,1,<RB>
+close visual,close rb visual jj,1,<RB><JJ>
+closed,closed vbd,1,<VBD>
+coat of primer,coat nn of in_pos primer nn,1,<NN><IN><NN>
+coating,coating vbg,1,<VBG>
+coded,coded vbn,1,<VBN>
+collected,collected vbn,1,<VBN>
+colling,colling vbg,1,<VBG>
+come,come vb,1,<VB>
+comes out,comes vbz out rp,1,<VBZ><RP>
+coming,coming vbg,1,<VBG>
+comming,comming vbg,1,<VBG>
+commissioning,commissioning vbg,1,<VBG>
+common,common jj,1,<JJ>
+communication confirmed,communication nn confirmed vbd,1,<NN><VBD>
+company was,company nn was vbd,1,<NN><VBD>
+company were,company nn were vbd,1,<NN><VBD>
+compared,compared vbn,1,<VBN>
+comperable,comperable jj,1,<JJ>
+complete,complete jj,1,<JJ>
+completed,completed vbn,1,<VBN>
+completely dead,completely rb dead jj,1,<RB><JJ>
+completion in gom,completion nn in in_pos gom nn,1,<NN><IN><NN>
+completions work,completions nns work vbp,1,<NNS><VBP>
+components appear,components nns appear vbp,1,<NNS><VBP>
+components are,components nns are vbp,1,<NNS><VBP>
+components performed,components nns performed vbd,1,<NNS><VBD>
+components show,components nns show vbp,1,<NNS><VBP>
+components were,components nns were vbd,1,<NNS><VBD>
+compressed,compressed vbn,1,<VBN>
+compromised,compromised vbn,1,<VBN>
+conations are,conations nns are vbp,1,<NNS><VBP>
+condensation found,condensation nn found vbd,1,<NN><VBD>
+condition made,condition nn made vbd,1,<NN><VBD>
+condition of blower,condition nn of in_pos blower nn,1,<NN><IN><NN>
+condition of demister,condition nn of in_pos demister nn,1,<NN><IN><NN>
+condition of equipment,condition nn of in_pos equipment nn,1,<NN><IN><NN>
+condition of motor,condition nn of in_pos motor nn,1,<NN><IN><NN>
+condition was,condition nn was vbd,1,<NN><VBD>
+conditions are,conditions nns are vbp,1,<NNS><VBP>
+conditions checked,conditions nns checked vbd,1,<NNS><VBD>
+conditions confirmed,conditions nns confirmed vbd,1,<NNS><VBD>
+conditions did,conditions nns did vbd,1,<NNS><VBD>
+conditions dont,conditions nns dont vbp,1,<NNS><VBP>
+conditions dont,conditions nns dont vbp,1,<NNS><VBP>
+conditions earth,conditions nns earth vbp,1,<NNS><VBP>
+conditions ensured,conditions nns ensured vbd,1,<NNS><VBD>
+conditions examine,conditions nns examine vbp,1,<NNS><VBP>
+conditions examined,conditions nns examined vbd,1,<NNS><VBD>
+conditions found,conditions nns found vbd,1,<NNS><VBD>
+conditions gland,conditions nns gland vbp,1,<NNS><VBP>
+conditions inspected,conditions nns inspected vbd,1,<NNS><VBD>
+conditions mechanical,conditions nns mechanical jj,1,<NNS><JJ>
+conditions n,conditions nns n vbp,1,<NNS><VBP>
+conditions note,conditions nns note vbp,1,<NNS><VBP>
+conditions ok,conditions nns ok vbp,1,<NNS><VBP>
+conditions recorded,conditions nns recorded vbd,1,<NNS><VBD>
+conditions sent,conditions nns sent vbd,1,<NNS><VBD>
+conditions take,conditions nns take vbp,1,<NNS><VBP>
+conditions took,conditions nns took vbd,1,<NNS><VBD>
+conditions was,conditions nns was vbd,1,<NNS><VBD>
+conditionsok have,conditionsok nns have vbp,1,<NNS><VBP>
+conditons were,conditons nns were vbd,1,<NNS><VBD>
+conducted,conducted vbn,1,<VBN>
+conductor was,conductor nn was vbd,1,<NN><VBD>
+cone undamaged,cone nn undamaged vbd,1,<NN><VBD>
+confimed,confimed vbn,1,<VBN>
+confirmed,confirmed vbn,1,<VBN>
+confirmed that fault,confirmed vbn that in_pos fault nn,1,<VBN><IN><NN>
+confusion during pms,confusion nn during in_pos pms nn,1,<NN><IN><NN>
+conirmed,conirmed vbn,1,<VBN>
+connected,connected vbn,1,<VBN>
+connectedfunction tested,connectedfunction nn tested vbd,1,<NN><VBD>
+connection checked,connection nn checked vbd,1,<NN><VBD>
+connection on bus,connection nn on in_pos bus nn,1,<NN><IN><NN>
+connection was,connection nn was vbd,1,<NN><VBD>
+connection were,connection nn were vbd,1,<NN><VBD>
+connections are,connections nns are vbp,1,<NNS><VBP>
+connections complete,connections nns complete vbp,1,<NNS><VBP>
+connections didnt,connections nns didnt vbp,1,<NNS><VBP>
+connections found,connections nns found vbd,1,<NNS><VBD>
+connections good,connections nns good jj,1,<NNS><JJ>
+connections have,connections nns have vbp,1,<NNS><VBP>
+connections inspected,connections nns inspected vbd,1,<NNS><VBD>
+connections megged,connections nns megged vbd,1,<NNS><VBD>
+connections sealed,connections nns sealed vbd,1,<NNS><VBD>
+connections tightened,connections nns tightened vbd,1,<NNS><VBD>
+connections torqued,connections nns torqued vbd,1,<NNS><VBD>
+connections was,connections nns was vbd,1,<NNS><VBD>
+connections were,connections nns were vbd,1,<NNS><VBD>
+consumables are,consumables nns are vbp,1,<NNS><VBP>
+consumables changed,consumables nns changed vbd,1,<NNS><VBD>
+contacting,contacting vbg,1,<VBG>
+contactors are,contactors nns are vbp,1,<NNS><VBP>
+contactors mcc,contactors nns mcc vbp,1,<NNS><VBP>
+contacts are,contacts nns are vbp,1,<NNS><VBP>
+contains reduced,contains nns reduced vbd,1,<NNS><VBD>
+continued,continued jj,1,<JJ>
+continuing,continuing vbg,1,<VBG>
+continuity on contact,continuity nn on in_pos contact nn,1,<NN><IN><NN>
+controllers make,controllers nns make vbp,1,<NNS><VBP>
+controls are,controls nns are vbp,1,<NNS><VBP>
+converter changed,converter nn changed vbd,1,<NN><VBD>
+converter for mud,converter nn for in_pos mud nn,1,<NN><IN><NN>
+converter from mud,converter nn from in_pos mud nn,1,<NN><IN><NN>
+cooled,cooled vbn,1,<VBN>
+cooling,cooling vbg,1,<VBG>
+copy of test,copy nn of in_pos test nn,1,<NN><IN><NN>
+correctly amp,correctly rb amp nn,1,<RB><NN>
+correctly amps,correctly rb amps nns,1,<RB><NNS>
+correctly checked,correctly rb checked vbn,1,<RB><VBN>
+correctly closed,correctly rb closed vbd,1,<RB><VBD>
+correctly if drilling,correctly rb if in_pos drilling nn,1,<RB><IN><NN>
+correctly mpa,correctly rb mpa nn,1,<RB><NN>
+correctly removed,correctly rb removed vbn,1,<RB><VBN>
+correctly torque,correctly rb torque nn,1,<RB><NN>
+correctly visualized,correctly rb visualized vbn,1,<RB><VBN>
+correctlyok checked,correctlyok nn checked vbd,1,<NN><VBD>
+correctlypulling,correctlypulling vbg,1,<VBG>
+correspondence with engineering,correspondence nn with in_pos engineering nn,1,<NN><IN><NN>
+corroded,corroded vbn,1,<VBN>
+corrosion observed,corrosion nn observed vbd,1,<NN><VBD>
+corrosion of build,corrosion nn of in_pos build nn,1,<NN><IN><NN>
+corrosion on motor,corrosion nn on in_pos motor nn,1,<NN><IN><NN>
+corrosion was,corrosion nn was vbd,1,<NN><VBD>
+costing,costing vbg,1,<VBG>
+could be removed,could md be vb removed vbn,1,<MD><VB><VBN>
+could have attributed,could md have vb attributed vbn,1,<MD><VB><VBN>
+could have been,could md have vb been vbn,1,<MD><VB><VBN>
+could have caused,could md have vb caused vbn,1,<MD><VB><VBN>
+couldnt measured,couldnt nn measured vbd,1,<NN><VBD>
+counted,counted vbn,1,<VBN>
+counter for number,counter nn for in_pos number nn,1,<NN><IN><NN>
+counters are,counters nns are vbp,1,<NNS><VBP>
+counters checked,counters nns checked vbd,1,<NNS><VBD>
+counters were,counters nns were vbd,1,<NNS><VBD>
+counters work,counters nns work vbp,1,<NNS><VBP>
+coupling,coupling vbg,1,<VBG>
+cover fitted,cover nn fitted vbd,1,<NN><VBD>
+cover for motor,cover nn for in_pos motor nn,1,<NN><IN><NN>
+cover found,cover nn found vbd,1,<NN><VBD>
+cover had,cover nn had vbd,1,<NN><VBD>
+cover make,cover nns make vbp,1,<NNS><VBP>
+cover on motor,cover nn on in_pos motor nn,1,<NN><IN><NN>
+cover opened,cover nn opened vbd,1,<NN><VBD>
+cover removed,cover nn removed vbd,1,<NN><VBD>
+cover was,cover nn was vbd,1,<NN><VBD>
+covered,covered vbn,1,<VBN>
+covers are,covers nns are vbp,1,<NNS><VBP>
+covers cleaned,covers nns cleaned vbd,1,<NNS><VBD>
+covers confirmed,covers nns confirmed vbd,1,<NNS><VBD>
+covers earth,covers nns earth vbp,1,<NNS><VBP>
+covers glands,covers nns glands nns,1,<NNS><NNS>
+covers have,covers nns have vbp,1,<NNS><VBP>
+covers inspected,covers nns inspected vbd,1,<NNS><VBD>
+covers installed,covers nns installed vbd,1,<NNS><VBD>
+covers made,covers nns made vbd,1,<NNS><VBD>
+covers n,covers nns n vbp,1,<NNS><VBP>
+covers ok,covers nns ok vbp,1,<NNS><VBP>
+covers on drive,covers nns on in_pos drive nn,1,<NNS><IN><NN>
+covers open,covers nns open vbp,1,<NNS><VBP>
+covers opened,covers nns opened vbd,1,<NNS><VBD>
+covers removed,covers nns removed vbd,1,<NNS><VBD>
+covers repaired,covers nns repaired vbd,1,<NNS><VBD>
+covers secure,covers nns secure vbp,1,<NNS><VBP>
+covers turned,covers nns turned vbd,1,<NNS><VBD>
+covers visualized,covers nns visualized vbd,1,<NNS><VBD>
+covers while i,covers nns while in_pos i nn,1,<NNS><IN><NN>
+cracked,cracked vbn,1,<VBN>
+cracks free,cracks nns free vbp,1,<NNS><VBP>
+cracks inspected,cracks nns inspected vbd,1,<NNS><VBD>
+cracks nameplate,cracks nns nameplate vbp,1,<NNS><VBP>
+cracks present,cracks nns present jj,1,<NNS><JJ>
+cracks suiatble,cracks nns suiatble jj,1,<NNS><JJ>
+cracks washout,cracks nns washout vbp,1,<NNS><VBP>
+created,created vbn,1,<VBN>
+crew disconnected,crew nn disconnected vbd,1,<NN><VBD>
+crew had,crew nn had vbd,1,<NN><VBD>
+crew noticed,crew nn noticed vbd,1,<NN><VBD>
+crew on mud,crew nn on in_pos mud nn,1,<NN><IN><NN>
+crew ran,crew nn ran vbd,1,<NN><VBD>
+crew with motor,crew nn with in_pos motor nn,1,<NN><IN><NN>
+critical,critical jj,1,<JJ>
+cubical,cubical jj,1,<JJ>
+cubicle was,cubicle nn was vbd,1,<NN><VBD>
+current,current jj,1,<JJ>
+currently available,currently rb available jj,1,<RB><JJ>
+currently in lt isolation,currently rb in in_pos lt jj isolation nn,1,<RB><IN><JJ><NN>
+currently on warm stack,currently rb on in_pos warm jj stack nn,1,<RB><IN><JJ><NN>
+cuts ok,cuts nns ok vbp,1,<NNS><VBP>
+cuts was,cuts nns was vbd,1,<NNS><VBD>
+cycle of pms,cycle nn of in_pos pms nn,1,<NN><IN><NN>
+damage brushed,damage nn brushed vbd,1,<NN><VBD>
+damage checked,damage nn checked vbd,1,<NN><VBD>
+damage ensured,damage nn ensured vbd,1,<NN><VBD>
+damage found,damage nn found vbd,1,<NN><VBD>
+damage made,damage nn made vbd,1,<NN><VBD>
+damage maked,damage nn maked vbd,1,<NN><VBD>
+damage noted,damage nn noted vbd,1,<NN><VBD>
+damage observed,damage nn observed vbd,1,<NN><VBD>
+damage on cover,damage nn on in_pos cover nn,1,<NN><IN><NN>
+damage on duct,damage nn on in_pos duct nn,1,<NN><IN><NN>
+damage performed,damage nn performed vbd,1,<NN><VBD>
+damage visualized,damage nn visualized vbd,1,<NN><VBD>
+damage was,damage nn was vbd,1,<NN><VBD>
+damage were,damage nn were vbd,1,<NN><VBD>
+damagechecks ok,damagechecks nns ok vbp,1,<NNS><VBP>
+damaged,damaged vbn,1,<VBN>
+damagefound on motor,damagefound nn on in_pos motor nn,1,<NN><IN><NN>
+damages dirt,damages nns dirt vbp,1,<NNS><VBP>
+dampeners are,dampeners nns are vbp,1,<NNS><VBP>
+dampers try,dampers nns try vbp,1,<NNS><VBP>
+dampers were,dampers nns were vbd,1,<NNS><VBD>
+date completed,date nn completed vbd,1,<NN><VBD>
+date was,date nn was vbd,1,<NN><VBD>
+dates are,dates nns are vbp,1,<NNS><VBP>
+david had,david nn had vbd,1,<NN><VBD>
+day crew,day nn crew vbd,1,<NN><VBD>
+day pm,day nn pm vb,1,<NN><VB>
+days pm,days nns pm vbp,1,<NNS><VBP>
+days pms,days nns pms vbp,1,<NNS><VBP>
+dc used,dc nn used vbn,1,<NN><VBN>
+de assigned,de nns assigned vbd,1,<NNS><VBD>
+de isolated,de rb isolated vbn,1,<RB><VBN>
+de of motor,de in_pos of in_pos motor nn,1,<IN><IN><NN>
+debris around motor,debris nn around in_pos motor nn,1,<NN><IN><NN>
+debris found,debris nn found vbd,1,<NN><VBD>
+debris on blower,debris nn on in_pos blower nn,1,<NN><IN><NN>
+debris on motor,debris nn on in_pos motor nn,1,<NN><IN><NN>
+debrisok checked,debrisok nn checked vbd,1,<NN><VBD>
+decided,decided vbd,1,<VBD>
+dedicated,dedicated vbn,1,<VBN>
+deemed,deemed vbn,1,<VBN>
+defect found,defect nn found vbd,1,<NN><VBD>
+degraded,degraded vbn,1,<VBN>
+degrading,degrading vbg,1,<VBG>
+degrees celsius,degrees nns celsius vbp,1,<NNS><VBP>
+degrees checked,degrees nns checked vbd,1,<NNS><VBD>
+degreesthis was,degreesthis nn was vbd,1,<NN><VBD>
+deisolate for function,deisolate nn for in_pos function nn,1,<NN><IN><NN>
+deisolated,deisolated vbn,1,<VBN>
+department removed,department nn removed vbd,1,<NN><VBD>
+department seated,department nn seated vbd,1,<NN><VBD>
+department were,department nn were vbd,1,<NN><VBD>
+dept adjusted,dept nn adjusted vbd,1,<NN><VBD>
+designed,designed vbn,1,<VBN>
+details confirmed,details nns confirmed vbd,1,<NNS><VBD>
+details new,details nns new jj,1,<NNS><JJ>
+detected,detected vbn,1,<VBN>
+deteriorating,deteriorating vbg,1,<VBG>
+devices are,devices nns are vbp,1,<NNS><VBP>
+did,did vbd,1,<VBD>
+different,different jj,1,<JJ>
+directed,directed vbn,1,<VBN>
+dirt cleaned,dirt nn cleaned vbd,1,<NN><VBD>
+dirt found,dirt nn found vbd,1,<NN><VBD>
+dirt of debris,dirt nn of in_pos debris nn,1,<NN><IN><NN>
+dirt on motor,dirt nn on in_pos motor nn,1,<NN><IN><NN>
+disappeared,disappeared vbd,1,<VBD>
+disassemble,disassemble jj,1,<JJ>
+disassembled,disassembled vbn,1,<VBN>
+disconnected,disconnected vbn,1,<VBN>
+disconnecting,disconnecting vbg,1,<VBG>
+disconnection for motor,disconnection nn for in_pos motor nn,1,<NN><IN><NN>
+discussed,discussed vbn,1,<VBN>
+dismanteling,dismanteling vbg,1,<VBG>
+dismantled,dismantled vbn,1,<VBN>
+dismantling,dismantling vbg,1,<VBG>
+do feed,do vbp feed vb,1,<VBP><VB>
+doc attached,doc nn attached vbd,1,<NN><VBD>
+documented,documented vbn,1,<VBN>
+doesnt have,doesnt nns have vbp,1,<NNS><VBP>
+done,done vbn,1,<VBN>
+dont found,dont nn found vbd,1,<NN><VBD>
+dont have,dont nns have vbp,1,<NNS><VBP>
+dont found,dont nn found vbd,1,<NN><VBD>
+door fitted,door nn fitted vbd,1,<NN><VBD>
+door prepared,door nn prepared vbd,1,<NN><VBD>
+double,double rb,1,<RB>
+down next,down rb next jj,1,<RB><JJ>
+downloaded,downloaded vbn,1,<VBN>
+drawing,drawing vbg,1,<VBG>
+dressed,dressed vbn,1,<VBN>
+drilled,drilled vbn,1,<VBN>
+driller reported,driller nn reported vbd,1,<NN><VBD>
+drillers confirmed,drillers nns confirmed vbd,1,<NNS><VBD>
+drillers console,drillers nns console vbp,1,<NNS><VBP>
+drillers consolestand,drillers nns consolestand vbp,1,<NNS><VBP>
+drive did,drive nn did vbd,1,<NN><VBD>
+drive on drive,drive nn on in_pos drive nn,1,<NN><IN><NN>
+drive was,drive nn was vbd,1,<NN><VBD>
+drives n,drives nns n vbp,1,<NNS><VBP>
+drives were,drives nns were vbd,1,<NNS><VBD>
+dry compressed,dry nns compressed vbd,1,<NNS><VBD>
+dry comressed,dry nns comressed vbd,1,<NNS><VBD>
+dryer removed,dryer nn removed vbd,1,<NN><VBD>
+duckting,duckting vbg,1,<VBG>
+duct ensured,duct nn ensured vbd,1,<NN><VBD>
+ducting,ducting vbg,1,<VBG>
+ducting checked,ducting vbg checked vbd,1,<VBG><VBD>
+ducting for water,ducting vbg for in_pos water nn,1,<VBG><IN><NN>
+ducting lifted,ducting nn lifted vbd,1,<NN><VBD>
+ducting of mpa,ducting nn of in_pos mpa nn,1,<NN><IN><NN>
+ducting was,ducting nn was vbd,1,<NN><VBD>
+ducts belt,ducts nns belt vbd,1,<NNS><VBD>
+due,due jj,1,<JJ>
+during annual survey,during in_pos annual jj survey nn,1,<IN><JJ><NN>
+during eow maint,during in_pos eow jj maint nn,1,<IN><JJ><NN>
+during inspection,during in_pos inspection nn,1,<IN><NN>
+during intrusive inspection,during in_pos intrusive jj inspection nn,1,<IN><JJ><NN>
+during mcc,during in_pos mcc nn,1,<IN><NN>
+during normal inspection,during in_pos normal jj inspection nn,1,<IN><JJ><NN>
+during normal operation,during in_pos normal jj operation nn,1,<IN><JJ><NN>
+during operation,during in_pos operation nn,1,<IN><NN>
+during recent run,during in_pos recent jj run nn,1,<IN><JJ><NN>
+during run,during in_pos run nn,1,<IN><NN>
+dust of ac,dust nn of in_pos ac nn,1,<NN><IN><NN>
+ea new,ea rb new jj,1,<RB><JJ>
+each failed,each dt failed vbd,1,<DT><VBD>
+each motor important,each dt motor nn important jj,1,<DT><NN><JJ>
+each other,each dt other jj,1,<DT><JJ>
+earth was,earth nn was vbd,1,<NN><VBD>
+earthing,earthing vbg,1,<VBG>
+effort was,effort nn was vbd,1,<NN><VBD>
+eic replaced,eic nn replaced vbd,1,<NN><VBD>
+elected,elected vbn,1,<VBN>
+electricain repaired,electricain nn repaired vbd,1,<NN><VBD>
+electrical,electrical jj,1,<JJ>
+electrician,electrician jj,1,<JJ>
+electronic,electronic jj,1,<JJ>
+elements remote,elements nns remote vbp,1,<NNS><VBP>
+enclosures did,enclosures nns did vbd,1,<NNS><VBD>
+encoder fitted,encoder nn fitted vbd,1,<NN><VBD>
+end of test,end nn of in_pos test nn,1,<NN><IN><NN>
+end was,end nn was vbd,1,<NN><VBD>
+ended,ended vbn,1,<VBN>
+ending,ending vbg,1,<VBG>
+ends are,ends nns are vbp,1,<NNS><VBP>
+engineers interior,engineers nns interior vbp,1,<NNS><VBP>
+engineers n,engineers nns n vbp,1,<NNS><VBP>
+engineers perform,engineers nns perform vbp,1,<NNS><VBP>
+engineers test,engineers nns test vbp,1,<NNS><VBP>
+enlarged,enlarged vbn,1,<VBN>
+enlarging,enlarging vbg,1,<VBG>
+ensured,ensured vbn,1,<VBN>
+entered,entered vbn,1,<VBN>
+equal,equal jj,1,<JJ>
+equiped,equiped vbd,1,<VBD>
+equipment by vendor,equipment nn by in_pos vendor nn,1,<NN><IN><NN>
+equipment put,equipment nn put vbd,1,<NN><VBD>
+equipment was,equipment nn was vbd,1,<NN><VBD>
+equipment were,equipment nn were vbd,1,<NN><VBD>
+equipped,equipped vbn,1,<VBN>
+eremoved,eremoved vbn,1,<VBN>
+estop had,estop nn had vbd,1,<NN><VBD>
+estop was,estop nn was vbd,1,<NN><VBD>
+estop were,estop nn were vbd,1,<NN><VBD>
+estops are,estops nns are vbp,1,<NNS><VBP>
+estops due,estops nns due jj,1,<NNS><JJ>
+estops working,estops nns working vbg,1,<NNS><VBG>
+ets keep,ets nns keep vbp,1,<NNS><VBP>
+evaluated,evaluated vbn,1,<VBN>
+evening,evening vbg,1,<VBG>
+event was,event nn was vbd,1,<NN><VBD>
+every new,every dt new jj,1,<DT><JJ>
+examined,examined vbn,1,<VBN>
+except hex pump,except in_pos hex jj pump nn,1,<IN><JJ><NN>
+except mud charge,except in_pos mud jj charge nn,1,<IN><JJ><NN>
+except number,except in_pos number nn,1,<IN><NN>
+excessive,excessive jj,1,<JJ>
+exchangers are,exchangers nns are vbp,1,<NNS><VBP>
+exchangers were,exchangers nns were vbd,1,<NNS><VBD>
+existing,existing vbg,1,<VBG>
+exists commisioning,exists nns commisioning vbg,1,<NNS><VBG>
+expected,expected vbn,1,<VBN>
+exterior are,exterior nns are vbp,1,<NNS><VBP>
+exterior cover,exterior rb cover nn,1,<RB><NN>
+exterior of ac,exterior nn of in_pos ac nn,1,<NN><IN><NN>
+exterior of motor,exterior nn of in_pos motor nn,1,<NN><IN><NN>
+external,external jj,1,<JJ>
+extremely low,extremely rb low jj,1,<RB><JJ>
+eyes are,eyes nns are vbp,1,<NNS><VBP>
+f make,f nns make vbp,1,<NNS><VBP>
+failed,failed vbd,1,<VBD>
+fan had,fan nn had vbd,1,<NN><VBD>
+fan made,fan nn made vbd,1,<NN><VBD>
+fan was,fan nn was vbd,1,<NN><VBD>
+fans n,fans nns n vbp,1,<NNS><VBP>
+fasteners are,fasteners nns are vbp,1,<NNS><VBP>
+fasteners cleaned,fasteners nns cleaned vbd,1,<NNS><VBD>
+fasteners dirt,fasteners nns dirt vbp,1,<NNS><VBP>
+fasteners earth,fasteners nns earth vbp,1,<NNS><VBP>
+fasteners exterior,fasteners nns exterior vbp,1,<NNS><VBP>
+fasteners grounds,fasteners nns grounds nns,1,<NNS><NNS>
+fasteners present,fasteners nns present jj,1,<NNS><JJ>
+fasteners secure,fasteners nns secure vbp,1,<NNS><VBP>
+fasteners wer,fasteners nns wer vbp,1,<NNS><VBP>
+fasteners were,fasteners nns were vbd,1,<NNS><VBD>
+fastening,fastening vbg,1,<VBG>
+fastners are,fastners nns are vbp,1,<NNS><VBP>
+fault on mud,fault nn on in_pos mud nn,1,<NN><IN><NN>
+faulting,faulting vbg,1,<VBG>
+features are,features nns are vbp,1,<NNS><VBP>
+features were,features nns were vbd,1,<NNS><VBD>
+feedback made,feedback nn made vbd,1,<NN><VBD>
+few,few jj,1,<JJ>
+field inspected,field nn inspected vbd,1,<NN><VBD>
+figured,figured vbn,1,<VBN>
+file installed,file nn installed vbd,1,<NN><VBD>
+filling,filling vbg,1,<VBG>
+filter checked,filter nn checked vbd,1,<NN><VBD>
+filter closed,filter nn closed vbd,1,<NN><VBD>
+filter fitted,filter nn fitted vbd,1,<NN><VBD>
+filter installed,filter nn installed vbd,1,<NN><VBD>
+filter was,filter nn was vbd,1,<NN><VBD>
+filters are,filters nns are vbp,1,<NNS><VBP>
+filters n,filters nns n vbp,1,<NNS><VBP>
+filters were,filters nns were vbd,1,<NNS><VBD>
+find fwd,find vb fwd nn,1,<VB><NN>
+fins are,fins nns are vbp,1,<NNS><VBP>
+fins debris,fins nns debris vbp,1,<NNS><VBP>
+fins for fwd,fins nns for in_pos fwd nn,1,<NNS><IN><NN>
+fins found,fins nns found vbd,1,<NNS><VBD>
+fins n,fins nns n vbp,1,<NNS><VBP>
+fire watched,fire nn watched vbd,1,<NN><VBD>
+fitted,fitted vbn,1,<VBN>
+fixed,fixed vbn,1,<VBN>
+flages thinner,flages nns thinner vbp,1,<NNS><VBP>
+flange secuered,flange nn secuered vbd,1,<NN><VBD>
+flexing,flexing vbg,1,<VBG>
+floor ran,floor nn ran vbd,1,<NN><VBD>
+foam sealed,foam nn sealed vbd,1,<NN><VBD>
+followed,followed vbd,1,<VBD>
+following,following vbg,1,<VBG>
+follows closed,follows vbz closed vbd,1,<VBZ><VBD>
+for abnormal bearing,for in_pos abnormal jj bearing nn,1,<IN><JJ><NN>
+for abnormal condition,for in_pos abnormal jj condition nn,1,<IN><JJ><NN>
+for abnormal heat,for in_pos abnormal jj heat nn,1,<IN><JJ><NN>
+for abnormal noise,for in_pos abnormal jj noise nn,1,<IN><JJ><NN>
+for abnormal vibration,for in_pos abnormal jj vibration nn,1,<IN><JJ><NN>
+for abnormal vibrationsno,for in_pos abnormal jj vibrationsno nn,1,<IN><JJ><NN>
+for access,for in_pos access nn,1,<IN><NN>
+for advice,for in_pos advice nn,1,<IN><NN>
+for air,for in_pos air nn,1,<IN><NN>
+for analysis,for in_pos analysis nn,1,<IN><NN>
+for approval,for in_pos approval nn,1,<IN><NN>
+for base,for in_pos base nn,1,<IN><NN>
+for below task,for in_pos below in_pos task nn,1,<IN><IN><NN>
+for choke,for in_pos choke nn,1,<IN><NN>
+for cleanliness,for in_pos cleanliness nn,1,<IN><NN>
+for conditionsand,for in_pos conditionsand nn,1,<IN><NN>
+for confirmation,for in_pos confirmation nn,1,<IN><NN>
+for correct rotation,for in_pos correct jj rotation nn,1,<IN><JJ><NN>
+for corrosion,for in_pos corrosion nn,1,<IN><NN>
+for couple,for in_pos couple nn,1,<IN><NN>
+for crane,for in_pos crane nn,1,<IN><NN>
+for damage,for in_pos damage nn,1,<IN><NN>
+for debris water,for in_pos debris jj water nn,1,<IN><JJ><NN>
+for defect,for in_pos defect nn,1,<IN><NN>
+for dirt,for in_pos dirt nn,1,<IN><NN>
+for disconnected rtd,for in_pos disconnected vbn rtd nn,1,<IN><VBN><NN>
+for drill,for in_pos drill nn,1,<IN><NN>
+for drive motor,for in_pos drive nn motor nn,1,<IN><NN><NN>
+for ex area,for in_pos ex jj area nn,1,<IN><JJ><NN>
+for ex e,for in_pos ex nn e nn,1,<IN><NN><NN>
+for excessive noise,for in_pos excessive jj noise nn,1,<IN><JJ><NN>
+for excessive temperature,for in_pos excessive jj temperature nn,1,<IN><JJ><NN>
+for explosion,for in_pos explosion nn,1,<IN><NN>
+for function,for in_pos function nn,1,<IN><NN>
+for further investigation,for in_pos further jj investigation nn,1,<IN><JJ><NN>
+for future immediate,for in_pos future jj immediate nn,1,<IN><JJ><NN>
+for future mud,for in_pos future jj mud nn,1,<IN><JJ><NN>
+for future referance,for in_pos future jj referance nn,1,<IN><JJ><NN>
+for future reference,for in_pos future jj reference nn,1,<IN><JJ><NN>
+for galling,for in_pos galling vbg,1,<IN><VBG>
+for good tightness,for in_pos good jj tightness nn,1,<IN><JJ><NN>
+for hazardous area,for in_pos hazardous jj area nn,1,<IN><JJ><NN>
+for high motor,for in_pos high jj motor nn,1,<IN><JJ><NN>
+for hot spot,for in_pos hot jj spot nn,1,<IN><JJ><NN>
+for hrs,for in_pos hrs nn,1,<IN><NN>
+for impeller,for in_pos impeller nn,1,<IN><NN>
+for in wc,for in_pos in in_pos wc nn,1,<IN><IN><NN>
+for information,for in_pos information nn,1,<IN><NN>
+for inspection,for in_pos inspection nn,1,<IN><NN>
+for insulation,for in_pos insulation nn,1,<IN><NN>
+for ir pic,for in_pos ir nn pic nn,1,<IN><NN><NN>
+for j,for in_pos j nn,1,<IN><NN>
+for job,for in_pos job nn,1,<IN><NN>
+for leaks damage,for in_pos leaks nns damage nn,1,<IN><NNS><NN>
+for location start,for in_pos location nn start nn,1,<IN><NN><NN>
+for long life,for in_pos long jj life nn,1,<IN><JJ><NN>
+for lubrication,for in_pos lubrication nn,1,<IN><NN>
+for main motor,for in_pos main jj motor nn,1,<IN><JJ><NN>
+for make,for in_pos make nn,1,<IN><NN>
+for manual cranking,for in_pos manual jj cranking nn,1,<IN><JJ><NN>
+for mech,for in_pos mech nn,1,<IN><NN>
+for mechanical damage,for in_pos mechanical jj damage nn,1,<IN><JJ><NN>
+for minute,for in_pos minute nn,1,<IN><NN>
+for motor,for in_pos motor nn,1,<IN><NN>
+for mp,for in_pos mp nn,1,<IN><NN>
+for mpb,for in_pos mpb nn,1,<IN><NN>
+for mud,for in_pos mud nn,1,<IN><NN>
+for nov rebuild,for in_pos nov jj rebuild nn,1,<IN><JJ><NN>
+for nov system,for in_pos nov jj system nn,1,<IN><JJ><NN>
+for overhaul,for in_pos overhaul nn,1,<IN><NN>
+for pm,for in_pos pm nn,1,<IN><NN>
+for proper rotation,for in_pos proper jj rotation nn,1,<IN><JJ><NN>
+for proper security,for in_pos proper jj security nn,1,<IN><JJ><NN>
+for purpose,for in_pos purpose nn,1,<IN><NN>
+for rebuild,for in_pos rebuild nn,1,<IN><NN>
+for removal,for in_pos removal nn,1,<IN><NN>
+for repleshiment,for in_pos repleshiment nn,1,<IN><NN>
+for restore,for in_pos restore nn,1,<IN><NN>
+for rewind,for in_pos rewind nn,1,<IN><NN>
+for rotation,for in_pos rotation nn,1,<IN><NN>
+for safe area,for in_pos safe jj area nn,1,<IN><JJ><NN>
+for sec,for in_pos sec nn,1,<IN><NN>
+for skid plate,for in_pos skid nn plate nn,1,<IN><NN><NN>
+for spare motor,for in_pos spare jj motor nn,1,<IN><JJ><NN>
+for step,for in_pos step nn,1,<IN><NN>
+for temperature,for in_pos temperature nn,1,<IN><NN>
+for test,for in_pos test nn,1,<IN><NN>
+for tightness,for in_pos tightness nn,1,<IN><NN>
+for timeline,for in_pos timeline nn,1,<IN><NN>
+for torque,for in_pos torque nn,1,<IN><NN>
+for unusual noise,for in_pos unusual jj noise nn,1,<IN><JJ><NN>
+for use,for in_pos use nn,1,<IN><NN>
+for vibration,for in_pos vibration nn,1,<IN><NN>
+for visual inspection,for in_pos visual jj inspection nn,1,<IN><JJ><NN>
+for water,for in_pos water nn,1,<IN><NN>
+forwarded,forwarded vbn,1,<VBN>
+found nothing,found vbn nothing nn,1,<VBN><NN>
+foundation checked,foundation nn checked vbd,1,<NN><VBD>
+foundation got,foundation nn got vbd,1,<NN><VBD>
+foundation in place,foundation nn in in_pos place nn,1,<NN><IN><NN>
+foundation inspected,foundation nn inspected vbd,1,<NN><VBD>
+frame from thruster,frame nn from in_pos thruster nn,1,<NN><IN><NN>
+frame was,frame nn was vbd,1,<NN><VBD>
+free,free jj,1,<JJ>
+from abb,from in_pos abb nn,1,<IN><NN>
+from busbar,from in_pos busbar nn,1,<IN><NN>
+from corrosion,from in_pos corrosion nn,1,<IN><NN>
+from corrosion step,from in_pos corrosion nn step nn,1,<IN><NN><NN>
+from corrositon,from in_pos corrositon nn,1,<IN><NN>
+from crane,from in_pos crane nn,1,<IN><NN>
+from damage,from in_pos damage nn,1,<IN><NN>
+from deck,from in_pos deck nn,1,<IN><NN>
+from dirt,from in_pos dirt nn,1,<IN><NN>
+from driller,from in_pos driller nn,1,<IN><NN>
+from drive,from in_pos drive nn,1,<IN><NN>
+from drive cabinet,from in_pos drive jj cabinet nn,1,<IN><JJ><NN>
+from dust,from in_pos dust nn,1,<IN><NN>
+from floor,from in_pos floor nn,1,<IN><NN>
+from grand isle,from in_pos grand jj isle nn,1,<IN><JJ><NN>
+from local control,from in_pos local jj control nn,1,<IN><JJ><NN>
+from main motor,from in_pos main jj motor nn,1,<IN><JJ><NN>
+from mcc,from in_pos mcc nn,1,<IN><NN>
+from medium,from in_pos medium nn,1,<IN><NN>
+from megger,from in_pos megger nn,1,<IN><NN>
+from motor,from in_pos motor nn,1,<IN><NN>
+from mud pump,from in_pos mud cd pump nn,1,<IN><CD><NN>
+from normal test,from in_pos normal jj test nn,1,<IN><JJ><NN>
+from novindia houston,from in_pos novindia jj houston nn,1,<IN><JJ><NN>
+from oer mud,from in_pos oer cd mud nn,1,<IN><CD><NN>
+from oes vibration,from in_pos oes nns vibration nn,1,<IN><NNS><NN>
+from old motor,from in_pos old jj motor nn,1,<IN><JJ><NN>
+from outside mp,from in_pos outside jj mp nn,1,<IN><JJ><NN>
+from rig,from in_pos rig nn,1,<IN><NN>
+from rust dirt,from in_pos rust nn dirt nn,1,<IN><NN><NN>
+from shipyard,from in_pos shipyard nn,1,<IN><NN>
+from start,from in_pos start nn,1,<IN><NN>
+from third party,from in_pos third jj party nn,1,<IN><JJ><NN>
+from traume,from in_pos traume nn,1,<IN><NN>
+front was,front nn was vbd,1,<NN><VBD>
+full,full jj,1,<JJ>
+function of mud,function nn of in_pos mud nn,1,<NN><IN><NN>
+function on cubicle,function nn on in_pos cubicle nn,1,<NN><IN><NN>
+function on mcc,function nn on in_pos mcc nn,1,<NN><IN><NN>
+function tested,function nn tested vbd,1,<NN><VBD>
+function worked,function nn worked vbd,1,<NN><VBD>
+functioned,functioned vbn,1,<VBN>
+functioning,functioning vbg,1,<VBG>
+fundation was,fundation nn was vbd,1,<NN><VBD>
+further,further rb,1,<RB>
+fuse burned,fuse nn burned vbd,1,<NN><VBD>
+g ohms min,g nn ohms md min vb,1,<NN><MD><VB>
+galling,galling vbg,1,<VBG>
+gasket cleaned,gasket nn cleaned vbd,1,<NN><VBD>
+gasket for blower,gasket nn for in_pos blower nn,1,<NN><IN><NN>
+gasket was,gasket nn was vbd,1,<NN><VBD>
+gaskets are,gaskets nns are vbp,1,<NNS><VBP>
+gaskets intact,gaskets nns intact jj,1,<NNS><JJ>
+gaskets were,gaskets nns were vbd,1,<NNS><VBD>
+gauges are,gauges nns are vbp,1,<NNS><VBP>
+gauges calibrated,gauges nns calibrated vbd,1,<NNS><VBD>
+gave,gave vbd,1,<VBD>
+general,general jj,1,<JJ>
+generating,generating vbg,1,<VBG>
+getting,getting vbg,1,<VBG>
+given,given vbn,1,<VBN>
+giving,giving vbg,1,<VBG>
+gland after inspection,gland nn after in_pos inspection nn,1,<NN><IN><NN>
+gland secured,gland nn secured vbd,1,<NN><VBD>
+gland tightened,gland nn tightened vbd,1,<NN><VBD>
+glanding,glanding vbg,1,<VBG>
+glanding was,glanding nn was vbd,1,<NN><VBD>
+glands appeared,glands nns appeared vbd,1,<NNS><VBD>
+glands are,glands nns are vbp,1,<NNS><VBP>
+glands check,glands nns check vbp,1,<NNS><VBP>
+glands checked,glands nns checked vbd,1,<NNS><VBD>
+glands cowls,glands nns cowls vbp,1,<NNS><VBP>
+glands have,glands nns have vbp,1,<NNS><VBP>
+glands id,glands nns id vbp,1,<NNS><VBP>
+glands inspected,glands nns inspected vbd,1,<NNS><VBD>
+glands make,glands nns make vbp,1,<NNS><VBP>
+glands ok,glands nns ok vbp,1,<NNS><VBP>
+glands show,glands nns show vbp,1,<NNS><VBP>
+glands were,glands nns were vbd,1,<NNS><VBD>
+going,going vbg,1,<VBG>
+gone,gone vbn,1,<VBN>
+good,good jj,1,<JJ>
+got,got vbd,1,<VBD>
+grands are,grands nns are vbp,1,<NNS><VBP>
+grease for lubricate,grease nn for in_pos lubricate nn,1,<NN><IN><NN>
+grease found,grease nn found vbd,1,<NN><VBD>
+greased,greased vbn,1,<VBN>
+greasing,greasing vbg,1,<VBG>
+grommets n,grommets nns n vbp,1,<NNS><VBP>
+grommets suitable,grommets nns suitable jj,1,<NNS><JJ>
+ground damaged,ground nn damaged vbd,1,<NN><VBD>
+ground on cabinet,ground nn on in_pos cabinet nn,1,<NN><IN><NN>
+ground was,ground nn was vbd,1,<NN><VBD>
+grounded,grounded vbn,1,<VBN>
+grounding,grounding vbg,1,<VBG>
+grounding was,grounding nn was vbd,1,<NN><VBD>
+grounds are,grounds nns are vbp,1,<NNS><VBP>
+grounds leaks,grounds nns leaks nns,1,<NNS><NNS>
+grounds ok,grounds nns ok vbp,1,<NNS><VBP>
+grounds was,grounds nns was vbd,1,<NNS><VBD>
+grounds were,grounds nns were vbd,1,<NNS><VBD>
+guages are,guages nns are vbp,1,<NNS><VBP>
+guard cleaned,guard nn cleaned vbd,1,<NN><VBD>
+guard lifted,guard nn lifted vbd,1,<NN><VBD>
+guard opened,guard nn opened vbd,1,<NN><VBD>
+guards free,guards nns free jj,1,<NNS><JJ>
+guards removed,guards nns removed vbd,1,<NNS><VBD>
+guidelines make,guidelines nns make vbp,1,<NNS><VBP>
+gun made,gun nn made vbd,1,<NN><VBD>
+had,had vbd,1,<VBD>
+handbook confirmed,handbook nn confirmed vbd,1,<NN><VBD>
+handed,handed vbn,1,<VBN>
+handoperated,handoperated vbn,1,<VBN>
+happened,happened vbd,1,<VBD>
+hardware in place,hardware nn in in_pos place nn,1,<NN><IN><NN>
+hardware on junction,hardware nn on in_pos junction nn,1,<NN><IN><NN>
+hardware secured,hardware nn secured vbn,1,<NN><VBN>
+hardware was,hardware nn was vbd,1,<NN><VBD>
+hardwares were,hardwares nns were vbd,1,<NNS><VBD>
+has beeen,has vbz beeen nn,1,<VBZ><NN>
+has been,has vbz been vbn,1,<VBZ><VBN>
+has failed,has vbz failed vbn,1,<VBZ><VBN>
+has found,has vbz found vbn,1,<VBZ><VBN>
+has gone,has vbz gone vbn,1,<VBZ><VBN>
+has had,has vbz had vbn,1,<VBZ><VBN>
+has high,has vbz high jj,1,<VBZ><JJ>
+has highlighted,has vbz highlighted vbn,1,<VBZ><VBN>
+has hrs,has vbz hrs nn,1,<VBZ><NN>
+has interchangeable,has vbz interchangeable jj,1,<VBZ><JJ>
+has lifting,has vbz lifting nn,1,<VBZ><NN>
+has little,has vbz little jj,1,<VBZ><JJ>
+has minimal,has vbz minimal nn,1,<VBZ><NN>
+has multiple,has vbz multiple nn,1,<VBZ><NN>
+has normal,has vbz normal jj,1,<VBZ><JJ>
+has padeyes,has vbz padeyes nns,1,<VBZ><NNS>
+has performed,has vbz performed vbn,1,<VBZ><VBN>
+has poor,has vbz poor jj,1,<VBZ><JJ>
+has reported,has vbz reported vbn,1,<VBZ><VBN>
+has sealed,has vbz sealed vbn,1,<VBZ><VBN>
+has selaed,has vbz selaed nn,1,<VBZ><NN>
+has tested,has vbz tested vbn,1,<VBZ><VBN>
+has updated,has vbz updated vbn,1,<VBZ><VBN>
+have attached,have vb attached vbn,1,<VB><VBN>
+have been,have vbp been vbn,1,<VBP><VBN>
+have blower,have vb blower nn,1,<VB><NN>
+have checked,have vb checked vbn,1,<VB><VBN>
+have come,have vbp come vbn,1,<VBP><VBN>
+have commissioned,have vbp commissioned vbn,1,<VBP><VBN>
+have disconnected,have vbp disconnected vbn,1,<VBP><VBN>
+have discussed,have vbp discussed vbn,1,<VBP><VBN>
+have done,have vb done vbn,1,<VB><VBN>
+have grease,have vb grease nn,1,<VB><NN>
+have identified,have vb identified vbn,1,<VB><VBN>
+have left,have vb left vbn,1,<VB><VBN>
+have lowered,have vb lowered vbn,1,<VB><VBN>
+have marked,have vb marked vbn,1,<VB><VBN>
+have nitrogen,have vb nitrogen nn,1,<VB><NN>
+have ran,have vb ran nn,1,<VB><NN>
+have removed,have vbp removed vbn,1,<VBP><VBN>
+have sealed,have vb sealed vbn,1,<VB><VBN>
+have shipped,have vb shipped vbn,1,<VB><VBN>
+have tried,have vb tried vbn,1,<VB><VBN>
+have verified,have vb verified vbn,1,<VB><VBN>
+having,having vbg,1,<VBG>
+hazardous,hazardous jj,1,<JJ>
+head was,head nn was vbd,1,<NN><VBD>
+heads are,heads nns are vbp,1,<NNS><VBP>
+heat noted,heat nn noted vbd,1,<NN><VBD>
+heat shrinked,heat nn shrinked vbd,1,<NN><VBD>
+heater ampchecked,heater nn ampchecked vbd,1,<NN><VBD>
+heater fitted,heater nn fitted vbd,1,<NN><VBD>
+heater found,heater nn found vbd,1,<NN><VBD>
+heater got,heater nn got vbd,1,<NN><VBD>
+heater had,heater nn had vbd,1,<NN><VBD>
+heater isolated,heater nn isolated vbd,1,<NN><VBD>
+heater on motor,heater nn on in_pos motor nn,1,<NN><IN><NN>
+heater used,heater nn used vbn,1,<NN><VBN>
+heater was,heater nn was vbd,1,<NN><VBD>
+heaters amp,heaters nns amp vbp,1,<NNS><VBP>
+heaters appear,heaters nns appear vbp,1,<NNS><VBP>
+heaters are,heaters nns are vbp,1,<NNS><VBP>
+heaters carried,heaters nns carried vbd,1,<NNS><VBD>
+heaters closed,heaters nns closed vbd,1,<NNS><VBD>
+heaters common,heaters nns common jj,1,<NNS><JJ>
+heaters confirmed,heaters nns confirmed vbd,1,<NNS><VBD>
+heaters current,heaters nns current jj,1,<NNS><JJ>
+heaters defective,heaters nns defective vbp,1,<NNS><VBP>
+heaters found,heaters nns found vbd,1,<NNS><VBD>
+heaters operational,heaters nns operational jj,1,<NNS><JJ>
+heaters were,heaters nns were vbd,1,<NNS><VBD>
+here idepartmentselectricalnovmud,here rb idepartmentselectricalnovmud nn,1,<RB><NN>
+high,high jj,1,<JJ>
+highlighted,highlighted vbn,1,<VBN>
+hits winding,hits nns winding vbg,1,<NNS><VBG>
+hmi was,hmi nn was vbd,1,<NN><VBD>
+holes tighten,holes nns tighten vbp,1,<NNS><VBP>
+holes were,holes nns were vbd,1,<NNS><VBD>
+hooks are,hooks nns are vbp,1,<NNS><VBP>
+hoses are,hoses nns are vbp,1,<NNS><VBP>
+hoses enclosurs,hoses nns enclosurs vbp,1,<NNS><VBP>
+hoses look,hoses nns look vbp,1,<NNS><VBP>
+hoses noted,hoses nns noted vbd,1,<NNS><VBD>
+hoses ok,hoses nns ok vbp,1,<NNS><VBP>
+hot,hot jj,1,<JJ>
+hour measured,hour nn measured vbd,1,<NN><VBD>
+hours last,hours nns last jj,1,<NNS><JJ>
+housekeeping,housekeeping vbg,1,<VBG>
+hqsopstibdwks correct,hqsopstibdwks nns correct vbp,1,<NNS><VBP>
+hqsopstibdwks visualized,hqsopstibdwks nns visualized vbd,1,<NNS><VBD>
+hs did,hs nn did vbd,1,<NN><VBD>
+i have,i nns have vbp,1,<NNS><VBP>
+i moved,i nn moved vbd,1,<NN><VBD>
+i ready,i nns ready vbp,1,<NNS><VBP>
+ibop closed,ibop nn closed vbd,1,<NN><VBD>
+icn for order,icn nn for in_pos order nn,1,<NN><IN><NN>
+ics marcelo,ics nns marcelo vbp,1,<NNS><VBP>
+id in place,id nn in in_pos place nn,1,<NN><IN><NN>
+id was,id nn was vbd,1,<NN><VBD>
+identical,identical jj,1,<JJ>
+identified,identified vbn,1,<VBN>
+idle,idle jj,1,<JJ>
+ids are,ids nns are vbp,1,<NNS><VBP>
+if accessible motor,if in_pos accessible jj motor nn,1,<IN><JJ><NN>
+if drilling,if in_pos drilling nn,1,<IN><NN>
+if visual examination,if in_pos visual jj examination nn,1,<IN><JJ><NN>
+impeller blades inspection,impeller nn blades nns inspection nn,1,<NN><NNS><NN>
+impeller by hand,impeller nn by in_pos hand nn,1,<NN><IN><NN>
+impeller cleaned,impeller nn cleaned vbd,1,<NN><VBD>
+impeller noted,impeller nn noted vbd,1,<NN><VBD>
+impeller on board,impeller nn on in_pos board nn,1,<NN><IN><NN>
+impeller repaired,impeller nn repaired vbd,1,<NN><VBD>
+impeller was,impeller nn was vbd,1,<NN><VBD>
+impellers impeller,impellers nns impeller vbp,1,<NNS><VBP>
+impellors were,impellors nns were vbd,1,<NNS><VBD>
+imppler attched,imppler nn attched vbd,1,<NN><VBD>
+imppler in center,imppler nn in in_pos center nn,1,<NN><IN><NN>
+in abnormal task,in in_pos abnormal jj task nn,1,<IN><JJ><NN>
+in acceptable condition,in in_pos acceptable jj condition nn,1,<IN><JJ><NN>
+in acceptable conditiuon,in in_pos acceptable jj conditiuon nn,1,<IN><JJ><NN>
+in acceptable conditon,in in_pos acceptable jj conditon nn,1,<IN><JJ><NN>
+in accetable condition,in in_pos accetable jj condition nn,1,<IN><JJ><NN>
+in accordance,in in_pos accordance nn,1,<IN><NN>
+in aceeptable condition,in in_pos aceeptable jj condition nn,1,<IN><JJ><NN>
+in adequate condition,in in_pos adequate jj condition nn,1,<IN><JJ><NN>
+in advance,in in_pos advance nn,1,<IN><NN>
+in agreement,in in_pos agreement nn,1,<IN><NN>
+in attachment,in in_pos attachment nn,1,<IN><NN>
+in ballast pump,in in_pos ballast nn pump nn,1,<IN><NN><NN>
+in by weston,in in_pos by in_pos weston nn,1,<IN><IN><NN>
+in c m,in in_pos c nns m nns,1,<IN><NNS><NNS>
+in c ms,in in_pos c nns ms nns,1,<IN><NNS><NNS>
+in check,in in_pos check nn,1,<IN><NN>
+in circuit,in in_pos circuit nn,1,<IN><NN>
+in comparison,in in_pos comparison nn,1,<IN><NN>
+in condition,in in_pos condition nn,1,<IN><NN>
+in conjunction,in in_pos conjunction nn,1,<IN><NN>
+in coordination,in in_pos coordination nn,1,<IN><NN>
+in correct place,in in_pos correct jj place nn,1,<IN><JJ><NN>
+in cover,in in_pos cover nn,1,<IN><NN>
+in cyprinia,in in_pos cyprinia nn,1,<IN><NN>
+in date,in in_pos date nn,1,<IN><NN>
+in dci,in in_pos dci nn,1,<IN><NN>
+in deg c,in in_pos deg nn c nn,1,<IN><NN><NN>
+in drive,in in_pos drive nn,1,<IN><NN>
+in drive motor,in in_pos drive jj motor nn,1,<IN><JJ><NN>
+in early march,in in_pos early jj march nn,1,<IN><JJ><NN>
+in end,in in_pos end nn,1,<IN><NN>
+in error,in in_pos error nn,1,<IN><NN>
+in fan,in in_pos fan nn,1,<IN><NN>
+in feb,in in_pos feb nn,1,<IN><NN>
+in for analysis,in in_pos for in_pos analysis nn,1,<IN><IN><NN>
+in for repair,in in_pos for in_pos repair nn,1,<IN><IN><NN>
+in gathering,in in_pos gathering nn,1,<IN><NN>
+in gland,in in_pos gland nn,1,<IN><NN>
+in good condiiton,in in_pos good jj condiiton nn,1,<IN><JJ><NN>
+in good conditio,in in_pos good jj conditio nn,1,<IN><JJ><NN>
+in good condition,in in_pos good jj condition nn,1,<IN><JJ><NN>
+in good conditionno,in in_pos good jj conditionno nn,1,<IN><JJ><NN>
+in good conditionunit,in in_pos good jj conditionunit nn,1,<IN><JJ><NN>
+in good conditon,in in_pos good jj conditon nn,1,<IN><JJ><NN>
+in good contion,in in_pos good jj contion nn,1,<IN><JJ><NN>
+in good operating,in in_pos good jj operating nn,1,<IN><JJ><NN>
+in good order,in in_pos good jj order nn,1,<IN><JJ><NN>
+in good running,in in_pos good jj running nn,1,<IN><JJ><NN>
+in good shape,in in_pos good jj shape nn,1,<IN><JJ><NN>
+in good shapeno,in in_pos good jj shapeno nn,1,<IN><JJ><NN>
+in good workinbg,in in_pos good jj workinbg nn,1,<IN><JJ><NN>
+in good working,in in_pos good jj working nn,1,<IN><JJ><NN>
+in hazardous area,in in_pos hazardous jj area nn,1,<IN><JJ><NN>
+in housing,in in_pos housing nn,1,<IN><NN>
+in ielectrical dept,in in_pos ielectrical jj dept nn,1,<IN><JJ><NN>
+in inspection,in in_pos inspection nn,1,<IN><NN>
+in jb,in in_pos jb nn,1,<IN><NN>
+in jbs,in in_pos jbs nn,1,<IN><NN>
+in job,in in_pos job nn,1,<IN><NN>
+in junction,in in_pos junction nn,1,<IN><NN>
+in light,in in_pos light nn,1,<IN><NN>
+in local control,in in_pos local jj control nn,1,<IN><JJ><NN>
+in loose condition,in in_pos loose jj condition nn,1,<IN><JJ><NN>
+in maintenance,in in_pos maintenance nn,1,<IN><NN>
+in march,in in_pos march nn,1,<IN><NN>
+in mind,in in_pos mind nn,1,<IN><NN>
+in motor,in in_pos motor nn,1,<IN><NN>
+in mp,in in_pos mp nn,1,<IN><NN>
+in mpa motor,in in_pos mpa nn motor nn,1,<IN><NN><NN>
+in mudpump,in in_pos mudpump nn,1,<IN><NN>
+in need,in in_pos need nn,1,<IN><NN>
+in none,in in_pos none nn,1,<IN><NN>
+in normal operating,in in_pos normal jj operating nn,1,<IN><JJ><NN>
+in normal operation,in in_pos normal jj operation nn,1,<IN><JJ><NN>
+in operation,in in_pos operation nn,1,<IN><NN>
+in order,in in_pos order nn,1,<IN><NN>
+in perfect shape,in in_pos perfect jj shape nn,1,<IN><JJ><NN>
+in place,in in_pos place nn,1,<IN><NN>
+in poor condition,in in_pos poor jj condition nn,1,<IN><JJ><NN>
+in previous trouble,in in_pos previous jj trouble nn,1,<IN><JJ><NN>
+in question,in in_pos question nn,1,<IN><NN>
+in remote mode,in in_pos remote jj mode nn,1,<IN><JJ><NN>
+in report,in in_pos report nn,1,<IN><NN>
+in safe area,in in_pos safe jj area nn,1,<IN><JJ><NN>
+in safe zone,in in_pos safe jj zone nn,1,<IN><JJ><NN>
+in satisfactory condition,in in_pos satisfactory jj condition nn,1,<IN><JJ><NN>
+in september,in in_pos september nn,1,<IN><NN>
+in service,in in_pos service nn,1,<IN><NN>
+in servicejob,in in_pos servicejob nn,1,<IN><NN>
+in situ see,in in_pos situ nn see nn,1,<IN><NN><NN>
+in system,in in_pos system nn,1,<IN><NN>
+in tact,in in_pos tact nn,1,<IN><NN>
+in th,in in_pos th nn,1,<IN><NN>
+in thruster,in in_pos thruster nn,1,<IN><NN>
+in transit,in in_pos transit nn,1,<IN><NN>
+in transition,in in_pos transition nn,1,<IN><NN>
+in use,in in_pos use nn,1,<IN><NN>
+in vibration,in in_pos vibration nn,1,<IN><NN>
+in visual inspection,in in_pos visual jj inspection nn,1,<IN><JJ><NN>
+in wc,in in_pos wc nn,1,<IN><NN>
+in with pressure,in in_pos with in_pos pressure nn,1,<IN><IN><NN>
+in word,in in_pos word nn,1,<IN><NN>
+in work,in in_pos work nn,1,<IN><NN>
+in workshop,in in_pos workshop nn,1,<IN><NN>
+including,including vbg,1,<VBG>
+incoming,incoming vbg,1,<VBG>
+increased,increased vbn,1,<VBN>
+indicated,indicated vbn,1,<VBN>
+indication on front,indication nn on in_pos front nn,1,<NN><IN><NN>
+information on job,information nn on in_pos job nn,1,<NN><IN><NN>
+information on mud,information nn on in_pos mud nn,1,<NN><IN><NN>
+informed,informed vbn,1,<VBN>
+infrared,infrared vbn,1,<VBN>
+ing,ing vbg,1,<VBG>
+ingress did,ingress nn did vbd,1,<NN><VBD>
+ingress found,ingress nn found vbd,1,<NN><VBD>
+ingress good,ingress rb good jj,1,<RB><JJ>
+ingress inspected,ingress nn inspected vbd,1,<NN><VBD>
+initial,initial jj,1,<JJ>
+inlet was,inlet nn was vbd,1,<NN><VBD>
+insatalled,insatalled vbn,1,<VBN>
+inserted,inserted vbn,1,<VBN>
+inside,inside in_pos,1,<IN>
+inside dust,inside rb dust nn,1,<RB><NN>
+inside motor,inside in_pos motor nn,1,<IN><NN>
+inside terminal box,inside in_pos terminal jj box nn,1,<IN><JJ><NN>
+inside was,inside nn was vbd,1,<NN><VBD>
+insp made,insp nn made vbd,1,<NN><VBD>
+inspacted,inspacted vbn,1,<VBN>
+inspceted,inspceted vbn,1,<VBN>
+inspected,inspected vbn,1,<VBN>
+inspecting,inspecting vbg,1,<VBG>
+inspection carried,inspection nn carried vbd,1,<NN><VBD>
+inspection of drive,inspection nn of in_pos drive nn,1,<NN><IN><NN>
+inspection of equipment,inspection nn of in_pos equipment nn,1,<NN><IN><NN>
+inspection of exterior,inspection nn of in_pos exterior jj,1,<NN><IN><JJ>
+inspection of motor,inspection nn of in_pos motor nn,1,<NN><IN><NN>
+inspection on contactor,inspection nn on in_pos contactor nn,1,<NN><IN><NN>
+inspection on demister,inspection nn on in_pos demister nn,1,<NN><IN><NN>
+inspection on duct,inspection nn on in_pos duct nn,1,<NN><IN><NN>
+inspection on exterior,inspection nn on in_pos exterior nn,1,<NN><IN><NN>
+inspection on impleller,inspection nn on in_pos impleller nn,1,<NN><IN><NN>
+inspection on inlet,inspection nn on in_pos inlet nn,1,<NN><IN><NN>
+inspection on interior,inspection nn on in_pos interior nn,1,<NN><IN><NN>
+inspection on motor,inspection nn on in_pos motor nn,1,<NN><IN><NN>
+inspection on mp,inspection nn on in_pos mp nn,1,<NN><IN><NN>
+inspection on mud,inspection nn on in_pos mud nn,1,<NN><IN><NN>
+inspection on start,inspection nn on in_pos start nn,1,<NN><IN><NN>
+inspection with day,inspection nn with in_pos day nn,1,<NN><IN><NN>
+inspections have,inspections nns have vbp,1,<NNS><VBP>
+inspections was,inspections nns was vbd,1,<NNS><VBD>
+inspeted,inspeted vbn,1,<VBN>
+installed,installed vbn,1,<VBN>
+installing,installing vbg,1,<VBG>
+instead of terminal forty,instead rb of in_pos terminal jj forty nn,1,<RB><IN><JJ><NN>
+insulation at mcc,insulation nn at in_pos mcc nn,1,<NN><IN><NN>
+insulation on ground,insulation nn on in_pos ground nn,1,<NN><IN><NN>
+insured,insured jj,1,<JJ>
+intact,intact jj,1,<JJ>
+intake damaged,intake nn damaged vbd,1,<NN><VBD>
+integrity of earth,integrity nn of in_pos earth nn,1,<NN><IN><NN>
+intended,intended vbn,1,<VBN>
+interior of jbox,interior nn of in_pos jbox nn,1,<NN><IN><NN>
+interior of junction,interior nn of in_pos junction nn,1,<NN><IN><NN>
+interior of motor,interior nn of in_pos motor nn,1,<NN><IN><NN>
+interlock functioned,interlock nn functioned vbd,1,<NN><VBD>
+interlock performed,interlock nn performed vbd,1,<NN><VBD>
+interlock was,interlock nn was vbd,1,<NN><VBD>
+interlock worked,interlock nn worked vbd,1,<NN><VBD>
+interlocks are,interlocks nns are vbp,1,<NNS><VBP>
+interlocks checked,interlocks nns checked vbd,1,<NNS><VBD>
+internal,internal jj,1,<JJ>
+internally calculated,internally rb calculated vbn,1,<RB><VBN>
+into mud pump,into in_pos mud jj pump nn,1,<IN><JJ><NN>
+into nov,into in_pos nov jj,1,<IN><JJ>
+into position,into in_pos position nn,1,<IN><NN>
+into service,into in_pos service nn,1,<IN><NN>
+investigated,investigated vbn,1,<VBN>
+investigating,investigating vbg,1,<VBG>
+investigations revealed,investigations nns revealed vbd,1,<NNS><VBD>
+involved,involved vbn,1,<VBN>
+ir for minute,ir nn for in_pos minute nn,1,<NN><IN><NN>
+ir with lead,ir nn with in_pos lead nn,1,<NN><IN><NN>
+irratic,irratic jj,1,<JJ>
+is about deg,is vbz about in_pos deg nn,1,<VBZ><IN><NN>
+is active,is vbz active jj,1,<VBZ><JJ>
+is amps,is vbz amps nns,1,<VBZ><NNS>
+is applicable,is vbz applicable jj,1,<VBZ><JJ>
+is at nov,is vbz at in_pos nov nn,1,<VBZ><IN><NN>
+is attached,is vbz attached vbn,1,<VBZ><VBN>
+is available,is vbz available jj,1,<VBZ><JJ>
+is based,is vbz based vbn,1,<VBZ><VBN>
+is being,is vbz being vbg,1,<VBZ><VBG>
+is blown,is vbz blown vbn,1,<VBZ><VBN>
+is bolted,is vbz bolted vbn,1,<VBZ><VBN>
+is broken,is vbz broken vbn,1,<VBZ><VBN>
+is changed,is vbz changed vbn,1,<VBZ><VBN>
+is checked,is vbz checked vbn,1,<VBZ><VBN>
+is clean,is vbz clean jj,1,<VBZ><JJ>
+is cleanliness,is vbz cleanliness nn,1,<VBZ><NN>
+is closed,is vbz closed vbn,1,<VBZ><VBN>
+is coming,is vbz coming vbg,1,<VBZ><VBG>
+is completed,is vbz completed vbn,1,<VBZ><VBN>
+is connected,is vbz connected vbn,1,<VBZ><VBN>
+is correct,is vbz correct jj,1,<VBZ><JJ>
+is created,is vbz created vbn,1,<VBZ><VBN>
+is damaged,is vbz damaged vbn,1,<VBZ><VBN>
+is dead,is vbz dead jj,1,<VBZ><JJ>
+is degrees,is vbz degrees nns,1,<VBZ><NNS>
+is dirtered,is vbz dirtered vbn,1,<VBZ><VBN>
+is dispensed,is vbz dispensed vbn,1,<VBZ><VBN>
+is drawing,is vbz drawing vbg,1,<VBZ><VBG>
+is due,is vbz due jj,1,<VBZ><JJ>
+is electrical,is vbz electrical jj,1,<VBZ><JJ>
+is electrician,is vbz electrician jj,1,<VBZ><JJ>
+is equiped,is vbz equiped vbn,1,<VBZ><VBN>
+is faulty,is vbz faulty nn,1,<VBZ><NN>
+is finewe,is vbz finewe jj,1,<VBZ><JJ>
+is fitted,is vbz fitted vbn,1,<VBZ><VBN>
+is following,is vbz following vbg,1,<VBZ><VBG>
+is found,is vbz found vbn,1,<VBZ><VBN>
+is free,is vbz free jj,1,<VBZ><JJ>
+is galvanised,is vbz galvanised vbn,1,<VBZ><VBN>
+is geberated,is vbz geberated vbn,1,<VBZ><VBN>
+is giving,is vbz giving vbg,1,<VBZ><VBG>
+is going,is vbz going vbg,1,<VBZ><VBG>
+is good,is vbz good jj,1,<VBZ><JJ>
+is having,is vbz having vbg,1,<VBZ><VBG>
+is high,is vbz high jj,1,<VBZ><JJ>
+is in operation,is vbz in in_pos operation nn,1,<VBZ><IN><NN>
+is in place,is vbz in in_pos place nn,1,<VBZ><IN><NN>
+is in progress,is vbz in in_pos progress nn,1,<VBZ><IN><NN>
+is in service,is vbz in in_pos service nn,1,<VBZ><IN><NN>
+is in tact,is vbz in in_pos tact nn,1,<VBZ><IN><NN>
+is installed,is vbz installed vbn,1,<VBZ><VBN>
+is intact,is vbz intact jj,1,<VBZ><JJ>
+is intactthis,is vbz intactthis jj,1,<VBZ><JJ>
+is knick,is vbz knick jj,1,<VBZ><JJ>
+is laid,is vbz laid vbn,1,<VBZ><VBN>
+is ledgible,is vbz ledgible jj,1,<VBZ><JJ>
+is legible,is vbz legible jj,1,<VBZ><JJ>
+is little,is vbz little jj,1,<VBZ><JJ>
+is located,is vbz located vbn,1,<VBZ><VBN>
+is lost,is vbz lost vbn,1,<VBZ><VBN>
+is made,is vbz made vbn,1,<VBZ><VBN>
+is maiming,is vbz maiming vbg,1,<VBZ><VBG>
+is making,is vbz making vbg,1,<VBZ><VBG>
+is march,is vbz march nn,1,<VBZ><NN>
+is meg,is vbz meg nn,1,<VBZ><NN>
+is mud,is vbz mud nn,1,<VBZ><NN>
+is na,is vbz na jj,1,<VBZ><JJ>
+is off note,is vbz off in_pos note nn,1,<VBZ><IN><NN>
+is offered,is vbz offered vbn,1,<VBZ><VBN>
+is ohm,is vbz ohm jj,1,<VBZ><JJ>
+is ohms,is vbz ohms jj,1,<VBZ><JJ>
+is ok,is vbz ok jj,1,<VBZ><JJ>
+is on board,is vbz on in_pos board nn,1,<VBZ><IN><NN>
+is on motor,is vbz on in_pos motor nn,1,<VBZ><IN><NN>
+is online,is vbz online jj,1,<VBZ><JJ>
+is open,is vbz open jj,1,<VBZ><JJ>
+is opened,is vbz opened vbn,1,<VBZ><VBN>
+is operatin,is vbz operatin jj,1,<VBZ><JJ>
+is operating,is vbz operating vbg,1,<VBZ><VBG>
+is operational,is vbz operational jj,1,<VBZ><JJ>
+is pending,is vbz pending vbg,1,<VBZ><VBG>
+is performed,is vbz performed vbn,1,<VBZ><VBN>
+is prescient,is vbz prescient jj,1,<VBZ><JJ>
+is present,is vbz present jj,1,<VBZ><JJ>
+is properly,is vbz properly rb,1,<VBZ><RB>
+is put,is vbz put vbn,1,<VBZ><VBN>
+is q,is vbz q jj,1,<VBZ><JJ>
+is readable,is vbz readable jj,1,<VBZ><JJ>
+is ready,is vbz ready jj,1,<VBZ><JJ>
+is recommended,is vbz recommended vbn,1,<VBZ><VBN>
+is reconnected,is vbz reconnected vbn,1,<VBZ><VBN>
+is reinstalled,is vbz reinstalled vbn,1,<VBZ><VBN>
+is relevant,is vbz relevant jj,1,<VBZ><JJ>
+is remaining,is vbz remaining vbg,1,<VBZ><VBG>
+is removed,is vbz removed vbn,1,<VBZ><VBN>
+is required,is vbz required vbn,1,<VBZ><VBN>
+is rubbing,is vbz rubbing vbg,1,<VBZ><VBG>
+is running,is vbz running vbg,1,<VBZ><VBG>
+is safe,is vbz safe jj,1,<VBZ><JJ>
+is same,is vbz same jj,1,<VBZ><JJ>
+is satisfactory,is vbz satisfactory jj,1,<VBZ><JJ>
+is sealed,is vbz sealed vbn,1,<VBZ><VBN>
+is secure,is vbz secure nn,1,<VBZ><NN>
+is secured,is vbz secured vbn,1,<VBZ><VBN>
+is securena,is vbz securena jj,1,<VBZ><JJ>
+is set,is vbz set vbn,1,<VBZ><VBN>
+is short,is vbz short jj,1,<VBZ><JJ>
+is stopped,is vbz stopped vbn,1,<VBZ><VBN>
+is supplied,is vbz supplied vbn,1,<VBZ><VBN>
+is terminated,is vbz terminated vbn,1,<VBZ><VBN>
+is thrown,is vbz thrown vbn,1,<VBZ><VBN>
+is tight,is vbz tight jj,1,<VBZ><JJ>
+is troubleshoot,is vbz troubleshoot nn,1,<VBZ><NN>
+is unable,is vbz unable jj,1,<VBZ><JJ>
+is used,is vbz used vbn,1,<VBZ><VBN>
+is verified,is vbz verified vbn,1,<VBZ><VBN>
+is working,is vbz working vbg,1,<VBZ><VBG>
+isnt balanced,isnt nn balanced vbd,1,<NN><VBD>
+isolated,isolated jj,1,<JJ>
+isolation isolated,isolation nn isolated vbd,1,<NN><VBD>
+issue cleaned,issue nn cleaned vbd,1,<NN><VBD>
+issue in motor,issue nn in in_pos motor nn,1,<NN><IN><NN>
+issue investigated,issue nn investigated vbd,1,<NN><VBD>
+issue made,issue nn made vbd,1,<NN><VBD>
+issue was,issue nn was vbd,1,<NN><VBD>
+issued,issued vbn,1,<VBN>
+issues cause,issues nns cause vbp,1,<NNS><VBP>
+issues checked,issues nns checked vbd,1,<NNS><VBD>
+issues encoder,issues nns encoder vbp,1,<NNS><VBP>
+issues found,issues nns found vbd,1,<NNS><VBD>
+issues n,issues nns n nns,1,<NNS><NNS>
+issues note,issues nns note vbp,1,<NNS><VBP>
+issues were,issues nns were vbd,1,<NNS><VBD>
+item in light,item nn in in_pos light nn,1,<NN><IN><NN>
+item n,item nn n nns,1,<NN><NNS>
+items have,items nns have vbp,1,<NNS><VBP>
+items recorded,items nns recorded vbd,1,<NNS><VBD>
+james c,james nns c vbp,1,<NNS><VBP>
+jb removed,jb nn removed vbd,1,<NN><VBD>
+jbox cleaned,jbox nn cleaned vbd,1,<NN><VBD>
+jbox examined,jbox nn examined vbd,1,<NN><VBD>
+jbox isolated,jbox nn isolated vbd,1,<NN><VBD>
+jbox mounted,jbox nn mounted vbd,1,<NN><VBD>
+jbox was,jbox nn was vbd,1,<NN><VBD>
+jboxes are,jboxes nns are vbp,1,<NNS><VBP>
+jboxes had,jboxes nns had vbd,1,<NNS><VBD>
+jboxs are,jboxs nn are vbp,1,<NN><VBP>
+job carried,job nn carried vbd,1,<NN><VBD>
+job closed,job nn closed vbd,1,<NN><VBD>
+job completed,job nn completed vbd,1,<NN><VBD>
+job created,job nn created vbd,1,<NN><VBD>
+job did,job nn did vbd,1,<NN><VBD>
+job for motor,job nn for in_pos motor nn,1,<NN><IN><NN>
+job gave,job nn gave vbd,1,<NN><VBD>
+job in part,job nn in in_pos part nn,1,<NN><IN><NN>
+job under mike,job nn under in_pos mike nn,1,<NN><IN><NN>
+job was,job nn was vbd,1,<NN><VBD>
+job with reference,job nn with in_pos reference nn,1,<NN><IN><NN>
+jobs have,jobs nns have vbp,1,<NNS><VBP>
+johnson by accident,johnson nn by in_pos accident nn,1,<NN><IN><NN>
+just internal,just rb internal jj,1,<RB><JJ>
+just on motor,just rb on in_pos motor nn,1,<RB><IN><NN>
+just on standby mode,just rb on in_pos standby jj mode nn,1,<RB><IN><JJ><NN>
+just performed,just rb performed vbn,1,<RB><VBN>
+just wire,just rb wire nn,1,<RB><NN>
+kill manifold,kill nn manifold vbd,1,<NN><VBD>
+kinks ok,kinks nns ok vbp,1,<NNS><VBP>
+knocking,knocking vbg,1,<VBG>
+labeled,labeled vbn,1,<VBN>
+labels ok,labels nns ok vbp,1,<NNS><VBP>
+lack of use,lack nn of in_pos use nn,1,<NN><IN><NN>
+lamps are,lamps nns are vbp,1,<NNS><VBP>
+last,last jj,1,<JJ>
+late,late rb,1,<RB>
+laying,laying vbg,1,<VBG>
+lbs deisolated,lbs nn deisolated vbd,1,<NN><VBD>
+leads are,leads nns are vbp,1,<NNS><VBP>
+leads at motor,leads nns at in_pos motor nn,1,<NNS><IN><NN>
+leads checked,leads nns checked vbd,1,<NNS><VBD>
+leads disconnected,leads nns disconnected vbd,1,<NNS><VBD>
+leads had,leads nns had vbd,1,<NNS><VBD>
+leads measured,leads nns measured vbd,1,<NNS><VBD>
+leads megged,leads nns megged vbd,1,<NNS><VBD>
+leads running,leads nns running vbg,1,<NNS><VBG>
+leads were,leads nns were vbd,1,<NNS><VBD>
+leak evidenced,leak nn evidenced vbd,1,<NN><VBD>
+leak found,leak nn found vbd,1,<NN><VBD>
+leaking,leaking vbg,1,<VBG>
+leaks found,leaks nns found vbd,1,<NNS><VBD>
+leaks n,leaks nns n nns,1,<NNS><NNS>
+leaks observed,leaks nns observed vbd,1,<NNS><VBD>
+leaks ok,leaks nns ok vbp,1,<NNS><VBP>
+leaks were,leaks nns were vbd,1,<NNS><VBD>
+led,led vbn,1,<VBN>
+legible,legible jj,1,<JJ>
+lessons learned,lessons nns learned vbd,1,<NNS><VBD>
+level of vibration,level nn of in_pos vibration nn,1,<NN><IN><NN>
+level was,level nn was vbd,1,<NN><VBD>
+lifiting,lifiting vbg,1,<VBG>
+lifted,lifted vbn,1,<VBN>
+lifting,lifting vbg,1,<VBG>
+lifting was,lifting nn was vbd,1,<NN><VBD>
+liftting,liftting vbg,1,<VBG>
+light did,light nn did vbd,1,<NN><VBD>
+lights are,lights nns are vbp,1,<NNS><VBP>
+lights clean,lights nns clean vbp,1,<NNS><VBP>
+lights made,lights nns made vbd,1,<NNS><VBD>
+lights make,lights nns make vbp,1,<NNS><VBP>
+lights n,lights nns n nns,1,<NNS><NNS>
+lights note,lights nns note vbp,1,<NNS><VBP>
+lights ok,lights nns ok vbp,1,<NNS><VBP>
+like,like in_pos,1,<IN>
+like damage,like in_pos damage nn,1,<IN><NN>
+like new condition,like in_pos new jj condition nn,1,<IN><JJ><NN>
+limiting,limiting vbg,1,<VBG>
+lines are,lines nns are vbp,1,<NNS><VBP>
+lines inspected,lines nns inspected vbd,1,<NNS><VBD>
+link over voltage,link nn over in_pos voltage nn,1,<NN><IN><NN>
+listed,listed vbn,1,<VBN>
+listen for abnormal noise,listen nn for in_pos abnormal jj noise nn,1,<NN><IN><JJ><NN>
+listened,listened vbn,1,<VBN>
+little,little jj,1,<JJ>
+local,local jj,1,<JJ>
+localized,localized vbn,1,<VBN>
+located,located vbn,1,<VBN>
+locations local,locations nns local jj,1,<NNS><JJ>
+locking,locking vbg,1,<VBG>
+logged,logged vbn,1,<VBN>
+looked,looked vbd,1,<VBD>
+looking,looking vbg,1,<VBG>
+looks fine,looks nns fine vbp,1,<NNS><VBP>
+looks good,looks nns good jj,1,<NNS><JJ>
+looks satisfactory,looks nns satisfactory jj,1,<NNS><JJ>
+loop checked,loop nn checked vbd,1,<NN><VBD>
+loop closed,loop nn closed vbd,1,<NN><VBD>
+loop was,loop nn was vbd,1,<NN><VBD>
+loose,loose jj,1,<JJ>
+loosing,loosing vbg,1,<VBG>
+lost,lost vbn,1,<VBN>
+lot of corrosion,lot nn of in_pos corrosion nn,1,<NN><IN><NN>
+lot of rust,lot nn of in_pos rust nn,1,<NN><IN><NN>
+louver in motor,louver nn in in_pos motor nn,1,<NN><IN><NN>
+louver in mp,louver nn in in_pos mp nn,1,<NN><IN><NN>
+louver installed,louver nn installed vbd,1,<NN><VBD>
+louvers are,louvers nns are vbp,1,<NNS><VBP>
+louvers cleaned,louvers nns cleaned vbd,1,<NNS><VBD>
+louvers note,louvers nns note vbp,1,<NNS><VBP>
+louvers present,louvers nns present jj,1,<NNS><JJ>
+louvers received,louvers nns received vbd,1,<NNS><VBD>
+louvers removed,louvers nns removed vbd,1,<NNS><VBD>
+louversthis was,louversthis nn was vbd,1,<NN><VBD>
+low,low jj,1,<JJ>
+lowered,lowered vbn,1,<VBN>
+lubricated,lubricated vbn,1,<VBN>
+lubricating,lubricating vbg,1,<VBG>
+lubrication performed,lubrication nn performed vbd,1,<NN><VBD>
+lubrication removed,lubrication nn removed vbd,1,<NN><VBD>
+luricated,luricated vbn,1,<VBN>
+lying,lying vbg,1,<VBG>
+made,made vbn,1,<VBN>
+magnetic,magnetic jj,1,<JJ>
+main,main jj,1,<JJ>
+mains ac,mains nns ac vbp,1,<NNS><VBP>
+maintained,maintained vbn,1,<VBN>
+maintains hazardous,maintains nns hazardous jj,1,<NNS><JJ>
+major,major jj,1,<JJ>
+make,make vb,1,<VB>
+make required,make nn required vbn,1,<NN><VBN>
+makers are,makers nns are vbp,1,<NNS><VBP>
+making,making vbg,1,<VBG>
+manifold for corrosion,manifold nn for in_pos corrosion nn,1,<NN><IN><NN>
+manifold have,manifold nns have vbp,1,<NNS><VBP>
+manifold tested,manifold rb tested vbn,1,<RB><VBN>
+manifold was,manifold nn was vbd,1,<NN><VBD>
+manifolds were,manifolds nns were vbd,1,<NNS><VBD>
+manual,manual jj,1,<JJ>
+manual for lubrication,manual jj for in_pos lubrication nn,1,<JJ><IN><NN>
+manuallythis was,manuallythis nn was vbd,1,<NN><VBD>
+map isolated,map nn isolated vbd,1,<NN><VBD>
+map made,map nn made vbd,1,<NN><VBD>
+mar found,mar nn found vbd,1,<NN><VBD>
+mar with drill,mar nn with in_pos drill nn,1,<NN><IN><NN>
+marker in place,marker nn in in_pos place nn,1,<NN><IN><NN>
+marker was,marker nn was vbd,1,<NN><VBD>
+markers are,markers nns are vbp,1,<NNS><VBP>
+marking,marking vbg,1,<VBG>
+may be performed,may md be vb performed vbn,1,<MD><VB><VBN>
+may have been,may md have vb been vbn,1,<MD><VB><VBN>
+mcc for dirt,mcc nn for in_pos dirt nn,1,<NN><IN><NN>
+mcc performed,mcc nn performed vbd,1,<NN><VBD>
+mccchecks ok,mccchecks nns ok vbp,1,<NNS><VBP>
+measure within tolerance,measure nn within in_pos tolerance nn,1,<NN><IN><NN>
+measured,measured vbn,1,<VBN>
+measurements checked,measurements nns checked vbd,1,<NNS><VBD>
+measurements confirmed,measurements nns confirmed vbd,1,<NNS><VBD>
+measurements note,measurements nns note vbp,1,<NNS><VBP>
+measurements were,measurements nns were vbd,1,<NNS><VBD>
+measures confirmed,measures nns confirmed vbd,1,<NNS><VBD>
+measures make,measures nns make vbp,1,<NNS><VBP>
+measures note,measures nns note vbp,1,<NNS><VBP>
+measures ohms,measures nns ohms vbp,1,<NNS><VBP>
+measuring,measuring vbg,1,<VBG>
+mechancics performed,mechancics nns performed vbd,1,<NNS><VBD>
+mechanical,mechanical jj,1,<JJ>
+mechanically prepped,mechanically rb prepped vbd,1,<RB><VBD>
+mechanics changed,mechanics nns changed vbd,1,<NNS><VBD>
+mechanics completed,mechanics nns completed vbd,1,<NNS><VBD>
+mechanics have,mechanics nns have vbp,1,<NNS><VBP>
+mechanics start,mechanics nns start vbp,1,<NNS><VBP>
+medium installed,medium nn installed vbd,1,<NN><VBD>
+megged,megged vbn,1,<VBN>
+megger at v,megger nn at in_pos v nn,1,<NN><IN><NN>
+megger tested,megger nn tested vbd,1,<NN><VBD>
+megger was,megger nn was vbd,1,<NN><VBD>
+meggered,meggered vbn,1,<VBN>
+megging,megging vbg,1,<VBG>
+mentioned,mentioned vbn,1,<VBN>
+meter good,meter rb good jj,1,<RB><JJ>
+meter on starter,meter nn on in_pos starter nn,1,<NN><IN><NN>
+meter recorded,meter nn recorded vbd,1,<NN><VBD>
+min found,min nn found vbd,1,<NN><VBD>
+min inspected,min nn inspected vbd,1,<NN><VBD>
+mins g,mins nns g vbp,1,<NNS><VBP>
+mins m,mins nns m vbp,1,<NNS><VBP>
+mins pi,mins nns pi vbp,1,<NNS><VBP>
+mins v,mins nns v vbp,1,<NNS><VBP>
+minutes gohm,minutes nns gohm vbp,1,<NNS><VBP>
+minutes monitored,minutes nns monitored vbd,1,<NNS><VBD>
+missing,missing vbg,1,<VBG>
+mm adjusted,mm nn adjusted vbd,1,<NN><VBD>
+mohms deisolated,mohms nn deisolated vbd,1,<NN><VBD>
+mohms performed,mohms nn performed vbd,1,<NN><VBD>
+moisture observed,moisture nn observed vbd,1,<NN><VBD>
+monitored,monitored vbd,1,<VBD>
+monitoring systemconfirmed,monitoring nn systemconfirmed vbd,1,<NN><VBD>
+motor arrived,motor nn arrived vbd,1,<NN><VBD>
+motor as lubrification,motor nn as in_pos lubrification nn,1,<NN><IN><NN>
+motor at vfd,motor nn at in_pos vfd nn,1,<NN><IN><NN>
+motor carried,motor nn carried vbd,1,<NN><VBD>
+motor checked,motor nn checked vbd,1,<NN><VBD>
+motor cleaned,motor nn cleaned vbd,1,<NN><VBD>
+motor closed,motor nn closed vbd,1,<NN><VBD>
+motor dessembiled,motor nn dessembiled vbd,1,<NN><VBD>
+motor did,motor nn did vbd,1,<NN><VBD>
+motor extracted,motor nn extracted vbd,1,<NN><VBD>
+motor fabricated,motor nn fabricated vbd,1,<NN><VBD>
+motor failed,motor nn failed vbd,1,<NN><VBD>
+motor for corrosion,motor nn for in_pos corrosion nn,1,<NN><IN><NN>
+motor for dirt,motor nn for in_pos dirt nn,1,<NN><IN><NN>
+motor for function,motor nn for in_pos function nn,1,<NN><IN><NN>
+motor for mp,motor nn for in_pos mp nn,1,<NN><IN><NN>
+motor for mud,motor nn for in_pos mud nn,1,<NN><IN><NN>
+motor found,motor nn found vbd,1,<NN><VBD>
+motor from b,motor nn from in_pos b nn,1,<NN><IN><NN>
+motor from vfd,motor nn from in_pos vfd nn,1,<NN><IN><NN>
+motor had,motor nn had vbd,1,<NN><VBD>
+motor in september,motor nn in in_pos september nn,1,<NN><IN><NN>
+motor inspected,motor nn inspected vbd,1,<NN><VBD>
+motor installed,motor nn installed vbd,1,<NN><VBD>
+motor isolated,motor nn isolated vbd,1,<NN><VBD>
+motor lifted,motor nn lifted vbd,1,<NN><VBD>
+motor lubricated,motor nn lubricated vbd,1,<NN><VBD>
+motor made,motor nn made vbd,1,<NN><VBD>
+motor measured,motor nn measured vbd,1,<NN><VBD>
+motor megged,motor nn megged vbd,1,<NN><VBD>
+motor on mud,motor nn on in_pos mud nn,1,<NN><IN><NN>
+motor opened,motor nn opened vbd,1,<NN><VBD>
+motor performed,motor nn performed vbd,1,<NN><VBD>
+motor ran,motor nn ran vbd,1,<NN><VBD>
+motor received,motor nn received vbd,1,<NN><VBD>
+motor recorded,motor nn recorded vbd,1,<NN><VBD>
+motor removed,motor nn removed vbd,1,<NN><VBD>
+motor replaced,motor nn replaced vbd,1,<NN><VBD>
+motor returned,motor nn returned vbd,1,<NN><VBD>
+motor sent,motor nn sent vbd,1,<NN><VBD>
+motor stoped,motor nn stoped vbd,1,<NN><VBD>
+motor tripped,motor nn tripped vbd,1,<NN><VBD>
+motor used,motor nn used vbd,1,<NN><VBD>
+motor verified,motor nn verified vbd,1,<NN><VBD>
+motor visualized,motor nn visualized vbd,1,<NN><VBD>
+motor was,motor nn was vbd,1,<NN><VBD>
+motor wired,motor nn wired vbd,1,<NN><VBD>
+motor with air,motor nn with in_pos air nn,1,<NN><IN><NN>
+motor with loss,motor nn with in_pos loss nn,1,<NN><IN><NN>
+motor with paint,motor nn with in_pos paint nn,1,<NN><IN><NN>
+motor with stethoscope,motor nn with in_pos stethoscope nn,1,<NN><IN><NN>
+motors amp,motors nns amp vbp,1,<NNS><VBP>
+motors appeared,motors nns appeared vbd,1,<NNS><VBD>
+motors ar,motors nns ar vbp,1,<NNS><VBP>
+motors are,motors nns are vbp,1,<NNS><VBP>
+motors aux,motors nns aux vbp,1,<NNS><VBP>
+motors blower,motors nns blower vbp,1,<NNS><VBP>
+motors checked,motors nns checked vbd,1,<NNS><VBD>
+motors clean,motors nns clean vbp,1,<NNS><VBP>
+motors cleaned,motors nns cleaned vbd,1,<NNS><VBD>
+motors confirmed,motors nns confirmed vbd,1,<NNS><VBD>
+motors current,motors nns current jj,1,<NNS><JJ>
+motors do,motors nns do vbp,1,<NNS><VBP>
+motors donot,motors nns donot vbp,1,<NNS><VBP>
+motors due,motors nns due jj,1,<NNS><JJ>
+motors edocs,motors nns edocs vbp,1,<NNS><VBP>
+motors fan,motors nns fan vbp,1,<NNS><VBP>
+motors found,motors nns found vbd,1,<NNS><VBD>
+motors get,motors nns get vbp,1,<NNS><VBP>
+motors had,motors nns had vbd,1,<NNS><VBD>
+motors have,motors nns have vbp,1,<NNS><VBP>
+motors havent,motors nns havent vbd,1,<NNS><VBD>
+motors impellor,motors nns impellor vbp,1,<NNS><VBP>
+motors inspected,motors nns inspected vbd,1,<NNS><VBD>
+motors lifted,motors nns lifted vbd,1,<NNS><VBD>
+motors main,motors nns main jj,1,<NNS><JJ>
+motors megged,motors nns megged vbd,1,<NNS><VBD>
+motors n,motors nns n vbp,1,<NNS><VBP>
+motors need,motors nns need vbp,1,<NNS><VBP>
+motors note,motors nns note vbp,1,<NNS><VBP>
+motors opened,motors nns opened vbd,1,<NNS><VBD>
+motors overhaul,motors nns overhaul vbp,1,<NNS><VBP>
+motors performed,motors nns performed vbd,1,<NNS><VBD>
+motors pm,motors nns pm vbp,1,<NNS><VBP>
+motors removal,motors nns removal vbp,1,<NNS><VBP>
+motors removed,motors nns removed vbd,1,<NNS><VBD>
+motors require,motors nns require vbp,1,<NNS><VBP>
+motors returned,motors nns returned vbd,1,<NNS><VBD>
+motors rotated,motors nns rotated vbd,1,<NNS><VBD>
+motors run,motors nns run vbp,1,<NNS><VBP>
+motors sealed,motors nns sealed vbd,1,<NNS><VBD>
+motors sound,motors nns sound vbd,1,<NNS><VBD>
+motors step,motors nns step vbp,1,<NNS><VBP>
+motors tested,motors nns tested vbd,1,<NNS><VBD>
+motors third,motors nns third vbp,1,<NNS><VBP>
+motors use,motors nns use vbp,1,<NNS><VBP>
+motors visualized,motors nns visualized vbd,1,<NNS><VBD>
+motors were,motors nns were vbd,1,<NNS><VBD>
+motorthis had,motorthis nn had vbd,1,<NN><VBD>
+mounted,mounted vbn,1,<VBN>
+mounting,mounting vbg,1,<VBG>
+mounting had,mounting nn had vbd,1,<NN><VBD>
+mounting replaced,mounting nn replaced vbd,1,<NN><VBD>
+mounting was,mounting nn was vbd,1,<NN><VBD>
+mountings were,mountings nns were vbd,1,<NNS><VBD>
+mounts are,mounts nns are vbp,1,<NNS><VBP>
+mounts n,mounts nns n vbp,1,<NNS><VBP>
+mounts na,mounts nns na to_pos,1,<NNS><TO>
+mounts ok,mounts nns ok vbp,1,<NNS><VBP>
+moved,moved vbn,1,<VBN>
+movement sourced,movement nn sourced vbd,1,<NN><VBD>
+moving,moving vbg,1,<VBG>
+mp drive,mp nns drive vbp,1,<NNS><VBP>
+msn created,msn nn created vbd,1,<NN><VBD>
+much,much jj,1,<JJ>
+mud contacted,mud nn contacted vbd,1,<NN><VBD>
+mudpumps are,mudpumps nns are vbp,1,<NNS><VBP>
+must be added,must md be vb added vbn,1,<MD><VB><VBN>
+must be installed,must md be vb installed vbn,1,<MD><VB><VBN>
+must be performed,must md be vb performed vbn,1,<MD><VB><VBN>
+must be replaced,must md be vb replaced vbn,1,<MD><VB><VBN>
+n anot,n rb anot nn,1,<RB><NN>
+na free,na rb free jj,1,<RB><JJ>
+na na,na to_pos na nns,1,<TO><NNS>
+nameplate in place,nameplate nn in in_pos place nn,1,<NN><IN><NN>
+nameplate was,nameplate nn was vbd,1,<NN><VBD>
+nameplates are,nameplates nns are vbp,1,<NNS><VBP>
+nameplates legible,nameplates nns legible jj,1,<NNS><JJ>
+nc found,nc nn found vbd,1,<NN><VBD>
+nde degree,nde nns degree vbp,1,<NNS><VBP>
+nde was,nde nn was vbd,1,<NN><VBD>
+necessary,necessary jj,1,<JJ>
+need for pump,need nn for in_pos pump nn,1,<NN><IN><NN>
+need replaced,need nn replaced vbd,1,<NN><VBD>
+needed,needed vbn,1,<VBN>
+needing,needing vbg,1,<VBG>
+never installed,never rb installed vbn,1,<RB><VBN>
+new,new jj,1,<JJ>
+next,next jj,1,<JJ>
+nichols fabio,nichols nns fabio vbp,1,<NNS><VBP>
+nicks cuts,nicks nns cuts nns,1,<NNS><NNS>
+nicks ok,nicks nns ok vbp,1,<NNS><VBP>
+nitrogen in accordance,nitrogen nn in in_pos accordance nn,1,<NN><IN><NN>
+no abnormal,no dt abnormal jj,1,<DT><JJ>
+no abnormalities found,no dt abnormalities nns found vbd,1,<DT><NNS><VBD>
+no abnormalities noted,no dt abnormalities nns noted vbd,1,<DT><NNS><VBD>
+no action necessary,no dt action nn necessary jj,1,<DT><NN><JJ>
+no active,no dt active jj,1,<DT><JJ>
+no anomalies found,no dt anomalies nns found vbd,1,<DT><NNS><VBD>
+no anomolies found,no dt anomolies nns found vbd,1,<DT><NNS><VBD>
+no appicable,no dt appicable jj,1,<DT><JJ>
+no applicable,no dt applicable jj,1,<DT><JJ>
+no bolts were,no dt bolts nns were vbd,1,<DT><NNS><VBD>
+no cables were,no dt cables nns were vbd,1,<DT><NNS><VBD>
+no corrosion suitable,no dt corrosion nn suitable jj,1,<DT><NN><JJ>
+no cracks checked,no dt cracks nns checked vbd,1,<DT><NNS><VBD>
+no cracks found,no dt cracks nns found vbd,1,<DT><NNS><VBD>
+no cracks noted,no dt cracks nns noted vbd,1,<DT><NNS><VBD>
+no cracks observed,no dt cracks nns observed vbd,1,<DT><NNS><VBD>
+no cracks were,no dt cracks nns were vbd,1,<DT><NNS><VBD>
+no current,no dt current jj,1,<DT><JJ>
+no damage suitable,no dt damage nn suitable jj,1,<DT><NN><JJ>
+no debris suitable,no dt debris nn suitable jj,1,<DT><NN><JJ>
+no defeciencies found,no dt defeciencies nns found vbd,1,<DT><NNS><VBD>
+no defects found,no dt defects nns found vbd,1,<DT><NNS><VBD>
+no defects were,no dt defects nns were vbd,1,<DT><NNS><VBD>
+no deviations found,no dt deviations nns found vbd,1,<DT><NNS><VBD>
+no dirt suitable,no dt dirt nn suitable jj,1,<DT><NN><JJ>
+no discrepancies noted,no dt discrepancies nns noted vbd,1,<DT><NNS><VBD>
+no excess,no dt excess jj,1,<DT><JJ>
+no excessive,no dt excessive jj,1,<DT><JJ>
+no external,no dt external jj,1,<DT><JJ>
+no faults found,no dt faults nns found vbd,1,<DT><NNS><VBD>
+no filters fitted,no dt filters nns fitted vbd,1,<DT><NNS><VBD>
+no filters installed,no dt filters nns installed vbd,1,<DT><NNS><VBD>
+no heaters installed,no dt heaters nns installed vbd,1,<DT><NNS><VBD>
+no hot,no dt hot jj,1,<DT><JJ>
+no immediate,no dt immediate jj,1,<DT><JJ>
+no initial,no dt initial jj,1,<DT><JJ>
+no isssues found,no dt isssues nns found vbd,1,<DT><NNS><VBD>
+no issues did,no dt issues nns did vbd,1,<DT><NNS><VBD>
+no issues found,no dt issues nns found vbd,1,<DT><NNS><VBD>
+no issues noted,no dt issues nns noted vbd,1,<DT><NNS><VBD>
+no issues opened,no dt issues nns opened vbd,1,<DT><NNS><VBD>
+no issues reported,no dt issues nns reported vbd,1,<DT><NNS><VBD>
+no issues were,no dt issues nns were vbd,1,<DT><NNS><VBD>
+no issures found,no dt issures nns found vbd,1,<DT><NNS><VBD>
+no leaks found,no dt leaks nns found vbd,1,<DT><NNS><VBD>
+no leaks noted,no dt leaks nns noted vbd,1,<DT><NNS><VBD>
+no leaks were,no dt leaks nns were vbd,1,<DT><NNS><VBD>
+no loose,no dt loose jj,1,<DT><JJ>
+no major,no dt major jj,1,<DT><JJ>
+no mechanical,no dt mechanical jj,1,<DT><JJ>
+no necessary,no dt necessary jj,1,<DT><JJ>
+no notable,no dt notable jj,1,<DT><JJ>
+no observable,no dt observable jj,1,<DT><JJ>
+no other,no dt other jj,1,<DT><JJ>
+no possible,no dt possible jj,1,<DT><JJ>
+no problems found,no dt problems nns found vbd,1,<DT><NNS><VBD>
+no problems noted,no dt problems nns noted vbd,1,<DT><NNS><VBD>
+no problems noticed,no dt problems nns noticed vbd,1,<DT><NNS><VBD>
+no problems were,no dt problems nns were vbd,1,<DT><NNS><VBD>
+no repairs required,no dt repairs nn required vbd,1,<DT><NN><VBD>
+no repairs were,no dt repairs nns were vbd,1,<DT><NNS><VBD>
+no substantial,no dt substantial jj,1,<DT><JJ>
+no unusual,no dt unusual jj,1,<DT><JJ>
+no vibrations recorded,no dt vibrations nns recorded vbd,1,<DT><NNS><VBD>
+no visable,no dt visable jj,1,<DT><JJ>
+no visible,no dt visible jj,1,<DT><JJ>
+no visual,no dt visual jj,1,<DT><JJ>
+no were,no dt were vbd,1,<DT><VBD>
+noise documented,noise rb documented vbn,1,<RB><VBN>
+noise found,noise nn found vbd,1,<NN><VBD>
+noise inspected,noise rb inspected vbn,1,<RB><VBN>
+noise noted,noise rb noted vbn,1,<RB><VBN>
+noise observed,noise nn observed vbd,1,<NN><VBD>
+noise started,noise nn started vbd,1,<NN><VBD>
+noise was,noise nn was vbd,1,<NN><VBD>
+noises ac,noises nns ac vbp,1,<NNS><VBP>
+noises checked,noises nns checked vbd,1,<NNS><VBD>
+noises due,noises nns due jj,1,<NNS><JJ>
+noises etc,noises nns etc vbp,1,<NNS><VBP>
+noises feel,noises nns feel vbp,1,<NNS><VBP>
+noises felt,noises nns felt vbd,1,<NNS><VBD>
+noises found,noises nns found vbd,1,<NNS><VBD>
+noises heard,noises nns heard vbd,1,<NNS><VBD>
+noises listened,noises nns listened vbd,1,<NNS><VBD>
+noises noted,noises nns noted vbd,1,<NNS><VBD>
+noises notedor,noises nns notedor vbp,1,<NNS><VBP>
+noises observed,noises nns observed vbd,1,<NNS><VBD>
+noises was,noises nns was vbd,1,<NNS><VBD>
+noises were,noises nns were vbd,1,<NNS><VBD>
+noisesok have,noisesok nns have vbp,1,<NNS><VBP>
+nominal,nominal jj,1,<JJ>
+non found,non nn found vbd,1,<NN><VBD>
+non issued,non nn issued vbd,1,<NN><VBD>
+nonclosed,nonclosed vbn,1,<VBN>
+nondrive,nondrive jj,1,<JJ>
+none closed,none nn closed vbd,1,<NN><VBD>
+none detected,none nn detected vbd,1,<NN><VBD>
+none found,none nn found vbd,1,<NN><VBD>
+none noticed,none nn noticed vbd,1,<NN><VBD>
+none observed,none nn observed vbd,1,<NN><VBD>
+none were,none nn were vbd,1,<NN><VBD>
+normal,normal jj,1,<JJ>
+not able,not rb able jj,1,<RB><JJ>
+not abnormal,not rb abnormal jj,1,<RB><JJ>
+not accessible,not rb accessible jj,1,<RB><JJ>
+not achieved,not rb achieved vbn,1,<RB><VBN>
+not applicable,not rb applicable jj,1,<RB><JJ>
+not available,not rb available jj,1,<RB><JJ>
+not been,not rb been vbn,1,<RB><VBN>
+not calibrated,not rb calibrated vbn,1,<RB><VBN>
+not come,not rb come vb,1,<RB><VB>
+not complete,not rb complete jj,1,<RB><JJ>
+not completed,not rb completed vbn,1,<RB><VBN>
+not conducted,not rb conducted vbn,1,<RB><VBN>
+not corroded,not rb corroded vbn,1,<RB><VBN>
+not damaged,not rb damaged vbn,1,<RB><VBN>
+not degraded,not rb degraded vbn,1,<RB><VBN>
+not done,not rb done vbn,1,<RB><VBN>
+not due,not rb due jj,1,<RB><JJ>
+not equiped,not rb equiped vbn,1,<RB><VBN>
+not equipped,not rb equipped vbn,1,<RB><VBN>
+not fitted,not rb fitted vbn,1,<RB><VBN>
+not found,not rb found vbn,1,<RB><VBN>
+not gresed,not rb gresed vbn,1,<RB><VBN>
+not had,not rb had vbd,1,<RB><VBD>
+not in good shape,not rb in in_pos good jj shape nn,1,<RB><IN><JJ><NN>
+not in hazardous area,not rb in in_pos hazardous jj area nn,1,<RB><IN><JJ><NN>
+not in operation,not rb in in_pos operation nn,1,<RB><IN><NN>
+not in place,not rb in in_pos place nn,1,<RB><IN><NN>
+not in use,not rb in in_pos use nn,1,<RB><IN><NN>
+not inspected,not rb inspected vbn,1,<RB><VBN>
+not installed,not rb installed vbn,1,<RB><VBN>
+not lift,not rb lift vb,1,<RB><VB>
+not listed,not rb listed vbn,1,<RB><VBN>
+not located,not rb located vbn,1,<RB><VBN>
+not necessary,not rb necessary jj,1,<RB><JJ>
+not needed,not rb needed vbn,1,<RB><VBN>
+not noticed,not rb noticed vbn,1,<RB><VBN>
+not observed,not rb observed vbn,1,<RB><VBN>
+not other,not rb other jj,1,<RB><JJ>
+not performed,not rb performed vbn,1,<RB><VBN>
+not possible,not rb possible jj,1,<RB><JJ>
+not ran,not rb ran vb,1,<RB><VB>
+not reached,not rb reached vbn,1,<RB><VBN>
+not removed,not rb removed vbn,1,<RB><VBN>
+not required,not rb required vbn,1,<RB><VBN>
+not soft,not rb soft jj,1,<RB><JJ>
+not started,not rb started vbn,1,<RB><VBN>
+not suitable,not rb suitable jj,1,<RB><JJ>
+not sure,not rb sure jj,1,<RB><JJ>
+not taken,not rb taken vbn,1,<RB><VBN>
+not tripped,not rb tripped vbn,1,<RB><VBN>
+not used,not rb used vbn,1,<RB><VBN>
+not wired,not rb wired vbn,1,<RB><VBN>
+note below task,note nn below in_pos task nn,1,<NN><IN><NN>
+note checked,note nn checked vbd,1,<NN><VBD>
+note if rig,note nn if in_pos rig nn,1,<NN><IN><NN>
+note make,note nn make vbp,1,<NN><VBP>
+note was,note nn was vbd,1,<NN><VBD>
+noted,noted vbn,1,<VBN>
+notedbearing,notedbearing vbg,1,<VBG>
+notes entered,notes nns entered vbd,1,<NNS><VBD>
+nothing found,nothing nn found vbd,1,<NN><VBD>
+nothing in abnoraml,nothing nn in in_pos abnoraml nn,1,<NN><IN><NN>
+nothing observed,nothing nn observed vbd,1,<NN><VBD>
+nothing was,nothing nn was vbd,1,<NN><VBD>
+noticed,noticed vbn,1,<VBN>
+now been,now rb been vbn,1,<RB><VBN>
+now complete,now rb complete jj,1,<RB><JJ>
+now in use,now rb in in_pos use nn,1,<RB><IN><NN>
+now performed,now rb performed vbn,1,<RB><VBN>
+nromal,nromal jj,1,<JJ>
+nspected,nspected vbn,1,<VBN>
+number was,number nn was vbd,1,<NN><VBD>
+observed,observed vbn,1,<VBN>
+oerdid was,oerdid nn was vbd,1,<NN><VBD>
+of abnormal vibration,of in_pos abnormal jj vibration nn,1,<IN><JJ><NN>
+of ac motor,of in_pos ac nns motor nn,1,<IN><NNS><NN>
+of analysis,of in_pos analysis nn,1,<IN><NN>
+of blower,of in_pos blower nn,1,<IN><NN>
+of closed loop,of in_pos closed jj loop nn,1,<IN><JJ><NN>
+of concern,of in_pos concern nn,1,<IN><NN>
+of corrosion,of in_pos corrosion nn,1,<IN><NN>
+of cyprina,of in_pos cyprina nn,1,<IN><NN>
+of damage,of in_pos damage nn,1,<IN><NN>
+of debris,of in_pos debris nn,1,<IN><NN>
+of defective motor,of in_pos defective jj motor nn,1,<IN><JJ><NN>
+of differential pressure,of in_pos differential jj pressure nn,1,<IN><JJ><NN>
+of dirt,of in_pos dirt nn,1,<IN><NN>
+of discoloration,of in_pos discoloration nn,1,<IN><NN>
+of distress,of in_pos distress nn,1,<IN><NN>
+of drive cabinet,of in_pos drive jj cabinet nn,1,<IN><JJ><NN>
+of drive motor,of in_pos drive nn motor nn,1,<IN><NN><NN>
+of ex,of in_pos ex nn,1,<IN><NN>
+of excessive heat,of in_pos excessive jj heat nn,1,<IN><JJ><NN>
+of excessive noise,of in_pos excessive jj noise nn,1,<IN><JJ><NN>
+of grease,of in_pos grease nn,1,<IN><NN>
+of heat,of in_pos heat nn,1,<IN><NN>
+of improper lubrication,of in_pos improper jj lubrication nn,1,<IN><JJ><NN>
+of infrared temperature,of in_pos infrared jj temperature nn,1,<IN><JJ><NN>
+of inspection,of in_pos inspection nn,1,<IN><NN>
+of job,of in_pos job nn,1,<IN><NN>
+of junction,of in_pos junction nn,1,<IN><NN>
+of leakage,of in_pos leakage nn,1,<IN><NN>
+of local control,of in_pos local jj control nn,1,<IN><JJ><NN>
+of local motor,of in_pos local jj motor nn,1,<IN><JJ><NN>
+of loosening,of in_pos loosening vbg,1,<IN><VBG>
+of low i,of in_pos low jj i nn,1,<IN><JJ><NN>
+of lubrication,of in_pos lubrication nn,1,<IN><NN>
+of mechanical damage,of in_pos mechanical jj damage nn,1,<IN><JJ><NN>
+of mechanical engineering,of in_pos mechanical jj engineering nn,1,<IN><JJ><NN>
+of misalignment,of in_pos misalignment nn,1,<IN><NN>
+of motor,of in_pos motor nn,1,<IN><NN>
+of mud,of in_pos mud nn,1,<IN><NN>
+of mud pump,of in_pos mud nn pump nn,1,<IN><NN><NN>
+of note,of in_pos note nn,1,<IN><NN>
+of nov engineer,of in_pos nov nns engineer vbp,1,<IN><NNS><VBP>
+of nowthe rla,of in_pos nowthe jj rla nn,1,<IN><JJ><NN>
+of o ohms,of in_pos o jj ohms nn,1,<IN><JJ><NN>
+of old motor,of in_pos old jj motor nn,1,<IN><JJ><NN>
+of plate,of in_pos plate nn,1,<IN><NN>
+of pm,of in_pos pm nn,1,<IN><NN>
+of psi bar,of in_pos psi jj bar nn,1,<IN><JJ><NN>
+of remote motor,of in_pos remote jj motor nn,1,<IN><JJ><NN>
+of remote start,of in_pos remote jj start nn,1,<IN><JJ><NN>
+of rust,of in_pos rust nn,1,<IN><NN>
+of rust dirt,of in_pos rust nn dirt nn,1,<IN><NN><NN>
+of start,of in_pos start nn,1,<IN><NN>
+of sufficient air,of in_pos sufficient jj air nn,1,<IN><JJ><NN>
+of test,of in_pos test nn,1,<IN><NN>
+of usage,of in_pos usage nn,1,<IN><NN>
+of vibration,of in_pos vibration nn,1,<IN><NN>
+of water,of in_pos water nn,1,<IN><NN>
+off maintained,off rb maintained vbd,1,<RB><VBD>
+off motor,off in_pos motor nn,1,<IN><NN>
+offered,offered vbn,1,<VBN>
+ohm was,ohm nn was vbd,1,<NN><VBD>
+ohms checked,ohms nn checked vbd,1,<NN><VBD>
+ohms made,ohms nns made vbd,1,<NNS><VBD>
+ohms retightened,ohms nn retightened vbd,1,<NN><VBD>
+ok confirmed,ok nn confirmed vbd,1,<NN><VBD>
+ok ensured,ok nn ensured vbd,1,<NN><VBD>
+ok examined,ok nn examined vbd,1,<NN><VBD>
+ok inspected,ok rb inspected vbn,1,<RB><VBN>
+ok listened,ok nn listened vbd,1,<NN><VBD>
+ok made,ok nns made vbd,1,<NNS><VBD>
+ok make,ok nns make vbp,1,<NNS><VBP>
+ok recorded,ok nn recorded vbd,1,<NN><VBD>
+ok reinstalled,ok nn reinstalled vbd,1,<NN><VBD>
+ok thread damage,ok jj thread nn damage nn,1,<JJ><NN><NN>
+ok was,ok nn was vbd,1,<NN><VBD>
+old,old jj,1,<JJ>
+on ac,on in_pos ac nn,1,<IN><NN>
+on ac motor,on in_pos ac nns motor nn,1,<IN><NNS><NN>
+on after switch,on in_pos after in_pos switch nn,1,<IN><IN><NN>
+on b,on in_pos b nn,1,<IN><NN>
+on barrier,on in_pos barrier nn,1,<IN><NN>
+on belt,on in_pos belt nn,1,<IN><NN>
+on blower,on in_pos blower nn,1,<IN><NN>
+on board,on in_pos board nn,1,<IN><NN>
+on buss,on in_pos buss nn,1,<IN><NN>
+on cement,on in_pos cement nn,1,<IN><NN>
+on checked mud,on in_pos checked vbn mud nn,1,<IN><VBN><NN>
+on closed loop,on in_pos closed jj loop nn,1,<IN><JJ><NN>
+on completion,on in_pos completion nn,1,<IN><NN>
+on contactor,on in_pos contactor nn,1,<IN><NN>
+on current condition,on in_pos current jj condition nn,1,<IN><JJ><NN>
+on day,on in_pos day nn,1,<IN><NN>
+on dc,on in_pos dc nn,1,<IN><NN>
+on de,on in_pos de nns,1,<IN><NNS>
+on document,on in_pos document nn,1,<IN><NN>
+on drive,on in_pos drive nn,1,<IN><NN>
+on duct,on in_pos duct nn,1,<IN><NN>
+on earth,on in_pos earth nn,1,<IN><NN>
+on equipment,on in_pos equipment nn,1,<IN><NN>
+on exterior,on in_pos exterior jj,1,<IN><JJ>
+on exterior motor,on in_pos exterior jj motor nn,1,<IN><JJ><NN>
+on fall,on in_pos fall nn,1,<IN><NN>
+on feb cleaning,on in_pos feb nns cleaning vbg,1,<IN><NNS><VBG>
+on floor,on in_pos floor nn,1,<IN><NN>
+on from dayshift,on in_pos from in_pos dayshift nn,1,<IN><IN><NN>
+on fwd side,on in_pos fwd jj side nn,1,<IN><JJ><NN>
+on good condition,on in_pos good jj condition nn,1,<IN><JJ><NN>
+on ground,on in_pos ground nn,1,<IN><NN>
+on hmi vfdcabinet,on in_pos hmi nns vfdcabinet nn,1,<IN><NNS><NN>
+on in conjunction,on in_pos in in_pos conjunction nn,1,<IN><IN><NN>
+on issue,on in_pos issue nn,1,<IN><NN>
+on j,on in_pos j nn,1,<IN><NN>
+on jbs,on in_pos jbs nn,1,<IN><NN>
+on job,on in_pos job nn,1,<IN><NN>
+on junction,on in_pos junction nn,1,<IN><NN>
+on june,on in_pos june nn,1,<IN><NN>
+on leak,on in_pos leak nn,1,<IN><NN>
+on main ac,on in_pos main jj ac nn,1,<IN><JJ><NN>
+on main contactor,on in_pos main jj contactor nn,1,<IN><JJ><NN>
+on main power,on in_pos main jj power nn,1,<IN><JJ><NN>
+on march,on in_pos march nn,1,<IN><NN>
+on mcc step,on in_pos mcc jj step nn,1,<IN><JJ><NN>
+on mcc test,on in_pos mcc jj test nn,1,<IN><JJ><NN>
+on motor,on in_pos motor nn,1,<IN><NN>
+on mp,on in_pos mp nn,1,<IN><NN>
+on mp drive,on in_pos mp nns drive vbp,1,<IN><NNS><VBP>
+on mpa,on in_pos mpa nn,1,<IN><NN>
+on mpb,on in_pos mpb nn,1,<IN><NN>
+on mud,on in_pos mud nn,1,<IN><NN>
+on mud pump,on in_pos mud nn pump nn,1,<IN><NN><NN>
+on nde,on in_pos nde nns,1,<IN><NNS>
+on nonclosed loop,on in_pos nonclosed jj loop nn,1,<IN><JJ><NN>
+on normal mode,on in_pos normal jj mode nn,1,<IN><JJ><NN>
+on nov cleaning,on in_pos nov nns cleaning vbg,1,<IN><NNS><VBG>
+on off control,on in_pos off rp control nn,1,<IN><RP><NN>
+on order,on in_pos order nn,1,<IN><NN>
+on place,on in_pos place nn,1,<IN><NN>
+on pm,on in_pos pm nn,1,<IN><NN>
+on pump,on in_pos pump nn,1,<IN><NN>
+on rd,on in_pos rd nn,1,<IN><NN>
+on remote,on in_pos remote nn,1,<IN><NN>
+on space,on in_pos space nn,1,<IN><NN>
+on stop start,on in_pos stop jj start nn,1,<IN><JJ><NN>
+on top,on in_pos top nn,1,<IN><NN>
+on urgent order,on in_pos urgent jj order nn,1,<IN><JJ><NN>
+on vibration,on in_pos vibration nn,1,<IN><NN>
+on without problem,on in_pos without in_pos problem nn,1,<IN><IN><NN>
+one on mud,one cd on in_pos mud nn,1,<CD><IN><NN>
+ones are,ones nns are vbp,1,<NNS><VBP>
+ongoing,ongoing vbg,1,<VBG>
+only due,only rb due jj,1,<RB><JJ>
+only if relief plug,only rb if in_pos relief nn plug nn,1,<RB><IN><NN><NN>
+only old,only rb old jj,1,<RB><JJ>
+only on nonclosed loop,only rb on in_pos nonclosed vbn loop nn,1,<RB><IN><VBN><NN>
+only on nonsealed bearing,only rb on in_pos nonsealed jj bearing nn,1,<RB><IN><JJ><NN>
+only small,only rb small jj,1,<RB><JJ>
+open,open jj,1,<JJ>
+opened,opened vbn,1,<VBN>
+operated,operated vbn,1,<VBN>
+operates in make,operates nns in in_pos make nn,1,<NNS><IN><NN>
+operation activated,operation nn activated vbd,1,<NN><VBD>
+operation felt,operation nn felt vbd,1,<NN><VBD>
+operation of motor,operation nn of in_pos motor nn,1,<NN><IN><NN>
+operation of pa,operation nn of in_pos pa nn,1,<NN><IN><NN>
+operation of rig,operation nn of in_pos rig nn,1,<NN><IN><NN>
+operation of space,operation nn of in_pos space nn,1,<NN><IN><NN>
+operation required,operation nn required vbd,1,<NN><VBD>
+operation verified,operation nn verified vbd,1,<NN><VBD>
+operational,operational jj,1,<JJ>
+operations allow,operations nns allow vbp,1,<NNS><VBP>
+operations allowed,operations nns allowed vbd,1,<NNS><VBD>
+operations do,operations nns do vbp,1,<NNS><VBP>
+operations performed,operations nns performed vbd,1,<NNS><VBD>
+operations permit,operations nns permit vbp,1,<NNS><VBP>
+operations resumed,operations nns resumed vbd,1,<NNS><VBD>
+operaton with bleed,operaton nn with in_pos bleed nn,1,<NN><IN><NN>
+optimized,optimized vbn,1,<VBN>
+order at time,order nn at in_pos time nn,1,<NN><IN><NN>
+order found,order nn found vbd,1,<NN><VBD>
+order on job,order nn on in_pos job nn,1,<NN><IN><NN>
+ordered,ordered vbn,1,<VBN>
+ordering,ordering vbg,1,<VBG>
+original,original jj,1,<JJ>
+originally created,originally rb created vbn,1,<RB><VBN>
+other,other jj,1,<JJ>
+others are,others nns are vbp,1,<NNS><VBP>
+out inspection,out in_pos inspection nn,1,<IN><NN>
+out multiple time,out in_pos multiple jj time nn,1,<IN><JJ><NN>
+out of adjustment,out in_pos of in_pos adjustment nn,1,<IN><IN><NN>
+out of belt,out in_pos of in_pos belt nn,1,<IN><IN><NN>
+out of service,out in_pos of in_pos service nn,1,<IN><IN><NN>
+out visual inspection,out in_pos visual jj inspection nn,1,<IN><JJ><NN>
+outside of ductwork,outside in_pos of in_pos ductwork nn,1,<IN><IN><NN>
+over hp lubrication,over in_pos hp jj lubrication nn,1,<IN><JJ><NN>
+overall,overall jj,1,<JJ>
+overgreased,overgreased vbn,1,<VBN>
+overhauled,overhauled vbn,1,<VBN>
+overhauling,overhauling vbg,1,<VBG>
+overheated,overheated vbn,1,<VBN>
+overheating,overheating vbg,1,<VBG>
+own,own jj,1,<JJ>
+p out b,p nn out rp b nn,1,<NN><RP><NN>
+painted,painted vbn,1,<VBN>
+panel grounded,panel nn grounded vbd,1,<NN><VBD>
+panel was,panel nn was vbd,1,<NN><VBD>
+parameters have,parameters nns have vbp,1,<NNS><VBP>
+parameters need,parameters nns need vbp,1,<NNS><VBP>
+parameters rigged,parameters nns rigged vbd,1,<NNS><VBD>
+part checked,part nn checked vbd,1,<NN><VBD>
+part ordered,part nn ordered vbd,1,<NN><VBD>
+part under correct,part nn under in_pos correct nn,1,<NN><IN><NN>
+parted,parted vbn,1,<VBN>
+parts move,parts nns move vbp,1,<NNS><VBP>
+parts received,parts nns received vbd,1,<NNS><VBD>
+parts requested,parts nns requested vbd,1,<NNS><VBD>
+party completed,party nn completed vbd,1,<NN><VBD>
+party found,party nn found vbd,1,<NN><VBD>
+passed,passed vbn,1,<VBN>
+pending,pending vbg,1,<VBG>
+per first tag,per in_pos first jj tag nn,1,<IN><JJ><NN>
+per oem,per in_pos oem nn,1,<IN><NN>
+per pm,per in_pos pm nn,1,<IN><NN>
+perfomed,perfomed vbn,1,<VBN>
+perform below task,perform nn below in_pos task nn,1,<NN><IN><NN>
+performed,performed vbn,1,<VBN>
+performing,performing vbg,1,<VBG>
+period of time,period nn of in_pos time nn,1,<NN><IN><NN>
+permits need,permits nns need vbp,1,<NNS><VBP>
+perto was,perto nn was vbd,1,<NN><VBD>
+phase checked,phase nn checked vbd,1,<NN><VBD>
+phases ampsthe,phases nns ampsthe vbp,1,<NNS><VBP>
+physically checked,physically rb checked vbn,1,<RB><VBN>
+physically examined,physically rb examined vbn,1,<RB><VBN>
+physically impossible,physically rb impossible jj,1,<RB><JJ>
+pi reconnected,pi nn reconnected vbd,1,<NN><VBD>
+pi was,pi nn was vbd,1,<NN><VBD>
+pictures attached,pictures nns attached vbd,1,<NNS><VBD>
+pictures i,pictures nns i vbp,1,<NNS><VBP>
+pilled,pilled vbn,1,<VBN>
+pipe pressuretested,pipe nn pressuretested vbd,1,<NN><VBD>
+piping,piping vbg,1,<VBG>
+piping included,piping nn included vbd,1,<NN><VBD>
+pistons marcelo,pistons nns marcelo vbp,1,<NNS><VBP>
+pitting,pitting vbg,1,<VBG>
+place was,place nn was vbd,1,<NN><VBD>
+placed,placed vbn,1,<VBN>
+placeensured,placeensured vbn,1,<VBN>
+placing,placing vbg,1,<VBG>
+plan in place,plan nn in in_pos place nn,1,<NN><IN><NN>
+plan was,plan nn was vbd,1,<NN><VBD>
+planned,planned vbn,1,<VBN>
+plate ensured,plate nn ensured vbd,1,<NN><VBD>
+plate if time,plate nn if in_pos time nn,1,<NN><IN><NN>
+plate installed,plate nn installed vbd,1,<NN><VBD>
+plate of motor,plate nn of in_pos motor nn,1,<NN><IN><NN>
+plate restored,plate nn restored vbd,1,<NN><VBD>
+plate threaded,plate nn threaded vbd,1,<NN><VBD>
+platerestored,platerestored vbn,1,<VBN>
+plates are,plates nns are vbp,1,<NNS><VBP>
+plates present,plates nns present jj,1,<NNS><JJ>
+plug after lubrication,plug nn after in_pos lubrication nn,1,<NN><IN><NN>
+plug was,plug nn was vbd,1,<NN><VBD>
+plugs removed,plugs nns removed vbd,1,<NNS><VBD>
+pm carried,pm nn carried vbd,1,<NN><VBD>
+pm changed,pm nns changed vbd,1,<NNS><VBD>
+pm checked,pm nn checked vbd,1,<NN><VBD>
+pm closed,pm nn closed vbd,1,<NN><VBD>
+pm completed,pm nn completed vbd,1,<NN><VBD>
+pm found,pm nn found vbd,1,<NN><VBD>
+pm functioned,pm nn functioned vbd,1,<NN><VBD>
+pm isolated,pm nn isolated vbd,1,<NN><VBD>
+pm measured,pm nn measured vbd,1,<NN><VBD>
+pm noticed,pm nn noticed vbd,1,<NN><VBD>
+pm on drive,pm nn on in_pos drive nn,1,<NN><IN><NN>
+pm on mud,pm nn on in_pos mud nn,1,<NN><IN><NN>
+pm performed,pm nn performed vbd,1,<NN><VBD>
+pm turned,pm nn turned vbd,1,<NN><VBD>
+pm was,pm nn was vbd,1,<NN><VBD>
+pm were,pm nns were vbd,1,<NNS><VBD>
+pms were,pms nns were vbd,1,<NNS><VBD>
+point molded,point nn molded vbd,1,<NN><VBD>
+point of time,point nn of in_pos time nn,1,<NN><IN><NN>
+points are,points nns are vbp,1,<NNS><VBP>
+points inspected,points nns inspected vbd,1,<NNS><VBD>
+points isolated,points nns isolated vbd,1,<NNS><VBD>
+points lifted,points nns lifted vbd,1,<NNS><VBD>
+points make,points nns make vbp,1,<NNS><VBP>
+points n,points nns n vbp,1,<NNS><VBP>
+points ok,points nns ok vbp,1,<NNS><VBP>
+points secured,points nns secured vbd,1,<NNS><VBD>
+points was,points nns was vbd,1,<NNS><VBD>
+points were,points nns were vbd,1,<NNS><VBD>
+possible,possible jj,1,<JJ>
+possibley on order,possibley nn on in_pos order nn,1,<NN><IN><NN>
+power was,power nn was vbd,1,<NN><VBD>
+prcharged,prcharged vbn,1,<VBN>
+precharged,precharged vbn,1,<VBN>
+preformed,preformed vbn,1,<VBN>
+prepared,prepared jj,1,<JJ>
+present checked,present jj checked vbd,1,<JJ><VBD>
+presentation of proposal,presentation nn of in_pos proposal nn,1,<NN><IN><NN>
+pressure of bar,pressure nn of in_pos bar nn,1,<NN><IN><NN>
+pressure tested,pressure nn tested vbd,1,<NN><VBD>
+pressures checked,pressures nns checked vbd,1,<NNS><VBD>
+pretty,pretty rb,1,<RB>
+previous,previous jj,1,<JJ>
+previously inspected,previously rb inspected vbn,1,<RB><VBN>
+previously opened,previously rb opened vbn,1,<RB><VBN>
+previously returned,previously rb returned vbn,1,<RB><VBN>
+primeaux under michael,primeaux nn under in_pos michael nn,1,<NN><IN><NN>
+primed,primed vbn,1,<VBN>
+prior,prior rb,1,<RB>
+probes n,probes nns n nns,1,<NNS><NNS>
+problem carried,problem nn carried vbd,1,<NN><VBD>
+problem checked,problem nn checked vbd,1,<NN><VBD>
+problem for rust,problem nn for in_pos rust nn,1,<NN><IN><NN>
+problem found,problem nn found vbd,1,<NN><VBD>
+problem made,problem nn made vbd,1,<NN><VBD>
+problem on encoder,problem nn on in_pos encoder nn,1,<NN><IN><NN>
+problem reported,problem nn reported vbd,1,<NN><VBD>
+problem was,problem nn was vbd,1,<NN><VBD>
+problems checked,problems nns checked vbd,1,<NNS><VBD>
+problems have,problems nns have vbp,1,<NNS><VBP>
+problems meggered,problems nns meggered vbd,1,<NNS><VBD>
+problems step,problems nns step vbp,1,<NNS><VBP>
+procedure for ground,procedure nn for in_pos ground nn,1,<NN><IN><NN>
+procedure made,procedure nn made vbd,1,<NN><VBD>
+procedures mud,procedures nns mud vbp,1,<NNS><VBP>
+procedures upon,procedures nns upon in_pos,1,<NNS><IN>
+procedures were,procedures nns were vbd,1,<NNS><VBD>
+product from motor,product nn from in_pos motor nn,1,<NN><IN><NN>
+prompted,prompted vbn,1,<VBN>
+proper was,proper nn was vbd,1,<NN><VBD>
+properly,properly rb,1,<RB>
+properly at time,properly rb at in_pos time nn,1,<RB><IN><NN>
+properly checked,properly rb checked vbn,1,<RB><VBN>
+properly cleaned,properly rb cleaned vbn,1,<RB><VBN>
+properly control,properly rb control nn,1,<RB><NN>
+properly greased,properly rb greased vbn,1,<RB><VBN>
+properly isolated,properly rb isolated vbn,1,<RB><VBN>
+properly lubricated,properly rb lubricated vbn,1,<RB><VBN>
+properly made,properly rb made vbn,1,<RB><VBN>
+properly marked,properly rb marked vbn,1,<RB><VBN>
+properly note,properly rb note nn,1,<RB><NN>
+properly on standpipe,properly rb on in_pos standpipe nn,1,<RB><IN><NN>
+properly purpose,properly rb purpose nn,1,<RB><NN>
+properly removed,properly rb removed vbn,1,<RB><VBN>
+properly routed,properly rb routed vbn,1,<RB><VBN>
+properly started,properly rb started vbd,1,<RB><VBD>
+properly tested,properly rb tested vbn,1,<RB><VBN>
+properly tight,properly rb tight nn,1,<RB><NN>
+properly tightens,properly rb tightens nns,1,<RB><NNS>
+properly torqued,properly rb torqued vbn,1,<RB><VBN>
+properly used,properly rb used vbn,1,<RB><VBN>
+protected,protected vbn,1,<VBN>
+provided,provided vbn,1,<VBN>
+puck was,puck nn was vbd,1,<NN><VBD>
+pulled,pulled vbd,1,<VBD>
+pulley brought,pulley nn brought vbd,1,<NN><VBD>
+pulley in order,pulley nn in in_pos order nn,1,<NN><IN><NN>
+pulley was,pulley nn was vbd,1,<NN><VBD>
+pulling,pulling vbg,1,<VBG>
+pump assigned,pump nn assigned vbd,1,<NN><VBD>
+pump checked,pump nn checked vbd,1,<NN><VBD>
+pump deisolated,pump nn deisolated vbd,1,<NN><VBD>
+pump disconnected,pump nn disconnected vbd,1,<NN><VBD>
+pump found,pump nn found vbd,1,<NN><VBD>
+pump from spm,pump nn from in_pos spm nn,1,<NN><IN><NN>
+pump have,pump nns have vbp,1,<NNS><VBP>
+pump isolated,pump nn isolated vbd,1,<NN><VBD>
+pump on investigation,pump nn on in_pos investigation nn,1,<NN><IN><NN>
+pump on mud,pump nn on in_pos mud nn,1,<NN><IN><NN>
+pump performed,pump nn performed vbd,1,<NN><VBD>
+pump ran,pump nn ran vbd,1,<NN><VBD>
+pump removed,pump nn removed vbd,1,<NN><VBD>
+pump repaired,pump nn repaired vbd,1,<NN><VBD>
+pump was,pump nn was vbd,1,<NN><VBD>
+pump went,pump nn went vbd,1,<NN><VBD>
+pumpd have,pumpd nns have vbp,1,<NNS><VBP>
+pumping,pumping vbg,1,<VBG>
+pumps are,pumps nns are vbp,1,<NNS><VBP>
+pumps do,pumps nns do vbp,1,<NNS><VBP>
+pumps due,pumps nns due jj,1,<NNS><JJ>
+pumps had,pumps nns had vbd,1,<NNS><VBD>
+pumps have,pumps nns have vbp,1,<NNS><VBP>
+pumps main,pumps nns main jj,1,<NNS><JJ>
+pumps psi,pumps nns psi nns,1,<NNS><NNS>
+pumps run,pumps nns run vbp,1,<NNS><VBP>
+pumps turned,pumps nns turned vbd,1,<NNS><VBD>
+pumps verified,pumps nns verified vbd,1,<NNS><VBD>
+pumps were,pumps nns were vbd,1,<NNS><VBD>
+purged,purged vbn,1,<VBN>
+purpose attached,purpose nn attached vbd,1,<NN><VBD>
+pushbuttons were,pushbuttons nns were vbd,1,<NNS><VBD>
+putensured,putensured vbn,1,<VBN>
+qty requested,qty nn requested vbd,1,<NN><VBD>
+qualified,qualified vbn,1,<VBN>
+quotation for vibration,quotation nn for in_pos vibration nn,1,<NN><IN><NN>
+quotation from traume,quotation nn from in_pos traume nn,1,<NN><IN><NN>
+quote attached,quote nn attached vbd,1,<NN><VBD>
+quote in attachment,quote nn in in_pos attachment nn,1,<NN><IN><NN>
+quote recieved,quote nn recieved vbd,1,<NN><VBD>
+raised,raised vbn,1,<VBN>
+rattling,rattling vbg,1,<VBG>
+re installed,re nn installed vbd,1,<NN><VBD>
+reached,reached vbn,1,<VBN>
+readable,readable jj,1,<JJ>
+reading for b,reading nn for in_pos b nn,1,<NN><IN><NN>
+reading for mp,reading vbg for in_pos mp nn,1,<VBG><IN><NN>
+reading of motor,reading nn of in_pos motor nn,1,<NN><IN><NN>
+reading was,reading nn was vbd,1,<NN><VBD>
+reading were,reading nn were vbd,1,<NN><VBD>
+readings are,readings nns are vbp,1,<NNS><VBP>
+readings attached,readings nns attached vbd,1,<NNS><VBD>
+readings come,readings nns come vbp,1,<NNS><VBP>
+readings confirmed,readings nns confirmed vbd,1,<NNS><VBD>
+readings have,readings nns have vbp,1,<NNS><VBP>
+readings normal,readings nns normal jj,1,<NNS><JJ>
+readings provided,readings nns provided vbd,1,<NNS><VBD>
+readings recorded,readings nns recorded vbd,1,<NNS><VBD>
+readings reinstalled,readings nns reinstalled vbd,1,<NNS><VBD>
+readings send,readings nns send vbp,1,<NNS><VBP>
+readings take,readings nns take vbp,1,<NNS><VBP>
+readings was,readings nns was vbd,1,<NNS><VBD>
+readings were,readings nns were vbd,1,<NNS><VBD>
+ready,ready jj,1,<JJ>
+really loose,really rb loose jj,1,<RB><JJ>
+reasonably clean,reasonably rb clean jj,1,<RB><JJ>
+reassembling,reassembling vbg,1,<VBG>
+received,received vbn,1,<VBN>
+recent,recent jj,1,<JJ>
+recently changed,recently rb changed vbn,1,<RB><VBN>
+recently replaced,recently rb replaced vbd,1,<RB><VBD>
+recevied,recevied vbn,1,<VBN>
+recieved,recieved vbn,1,<VBN>
+recommendation installed,recommendation nn installed vbd,1,<NN><VBD>
+recommendations confirmed,recommendations nns confirmed vbd,1,<NNS><VBD>
+recommendations make,recommendations nns make vbp,1,<NNS><VBP>
+recommendations third,recommendations nns third vbp,1,<NNS><VBP>
+recommendations yes,recommendations nns yes nns,1,<NNS><NNS>
+reconnected,reconnected vbn,1,<VBN>
+reconnecting,reconnecting vbg,1,<VBG>
+record checked,record nn checked vbd,1,<NN><VBD>
+recorded,recorded vbn,1,<VBN>
+recording,recording vbg,1,<VBG>
+recored,recored vbn,1,<VBN>
+rectified,rectified vbn,1,<VBN>
+red,red jj,1,<JJ>
+reduced,reduced vbn,1,<VBN>
+reel removed,reel nn removed vbd,1,<NN><VBD>
+refered,refered vbn,1,<VBN>
+referred,referred vbn,1,<VBN>
+reflecting,reflecting vbg,1,<VBG>
+regular,regular jj,1,<JJ>
+reinstalled,reinstalled vbn,1,<VBN>
+reisolated,reisolated vbn,1,<VBN>
+relay make,relay nns make vbp,1,<NNS><VBP>
+released,released vbn,1,<VBN>
+remaining,remaining vbg,1,<VBG>
+remegged,remegged vbn,1,<VBN>
+removal of motor,removal nn of in_pos motor nn,1,<NN><IN><NN>
+remove,remove vb,1,<VB>
+removed,removed vbn,1,<VBN>
+removing,removing vbg,1,<VBG>
+repainting,repainting vbg,1,<VBG>
+repaired,repaired vbn,1,<VBN>
+repairs create,repairs nns create vbp,1,<NNS><VBP>
+repairs were,repairs nns were vbd,1,<NNS><VBD>
+repalced,repalced vbn,1,<VBN>
+replacable,replacable jj,1,<JJ>
+replaced,replaced vbn,1,<VBN>
+replacement made,replacement nn made vbd,1,<NN><VBD>
+replacement on jan,replacement nn on in_pos jan nn,1,<NN><IN><NN>
+replacement on july,replacement nn on in_pos july nn,1,<NN><IN><NN>
+replacement on june,replacement nn on in_pos june nn,1,<NN><IN><NN>
+replacing,replacing vbg,1,<VBG>
+report attached,report nn attached vbd,1,<NN><VBD>
+report for vibration,report nn for in_pos vibration nn,1,<NN><IN><NN>
+report opened,report nn opened vbd,1,<NN><VBD>
+reported,reported vbd,1,<VBD>
+reports confirmed,reports nns confirmed vbd,1,<NNS><VBD>
+repositioned,repositioned vbn,1,<VBN>
+requested,requested vbn,1,<VBN>
+required,required vbn,1,<VBN>
+requirement for ex,requirement nn for in_pos ex nn,1,<NN><IN><NN>
+requirements ac,requirements nns ac vbp,1,<NNS><VBP>
+requirements isolated,requirements nns isolated vbd,1,<NNS><VBD>
+requirements n,requirements nns n vbp,1,<NNS><VBP>
+requirements refer,requirements nns refer vbp,1,<NNS><VBP>
+requirements referred,requirements nns referred vbd,1,<NNS><VBD>
+requirements remote,requirements nns remote vbp,1,<NNS><VBP>
+requirementschecks ok,requirementschecks nns ok vbp,1,<NNS><VBP>
+requiring,requiring vbg,1,<VBG>
+requirments confirm,requirments nns confirm vbp,1,<NNS><VBP>
+rescheduled,rescheduled vbn,1,<VBN>
+resistance after rig,resistance nn after in_pos rig nn,1,<NN><IN><NN>
+resistance was,resistance nn was vbd,1,<NN><VBD>
+rest of mud,rest nn of in_pos mud nn,1,<NN><IN><NN>
+restored,restored vbn,1,<VBN>
+results checked,results nns checked vbd,1,<NNS><VBD>
+results have,results nns have vbp,1,<NNS><VBP>
+results megged,results nns megged vbd,1,<NNS><VBD>
+results note,results nns note vbp,1,<NNS><VBP>
+results noted,results nns noted vbd,1,<NNS><VBD>
+results performed,results nns performed vbd,1,<NNS><VBD>
+results recorded,results nns recorded vbd,1,<NNS><VBD>
+results yellow,results nns yellow vbp,1,<NNS><VBP>
+retested,retested vbn,1,<VBN>
+return from overhaul,return nn from in_pos overhaul nn,1,<NN><IN><NN>
+returned,returned vbn,1,<VBN>
+returning,returning vbg,1,<VBG>
+reviewed,reviewed vbn,1,<VBN>
+reviewing,reviewing vbg,1,<VBG>
+revised,revised vbn,1,<VBN>
+rig followed,rig nn followed vbd,1,<NN><VBD>
+rig up,rig nn up rp,1,<NN><RP>
+rigged,rigged vbn,1,<VBN>
+rigs fw,rigs nns fw vbp,1,<NNS><VBP>
+rms confirmed,rms nns confirmed vbd,1,<NNS><VBD>
+rms crane,rms nns crane vbp,1,<NNS><VBP>
+rms dgp,rms nns dgp vbp,1,<NNS><VBP>
+rms make,rms nns make vbp,1,<NNS><VBP>
+rms n,rms nns n vbp,1,<NNS><VBP>
+rms stand,rms nns stand vbp,1,<NNS><VBP>
+rms was,rms nns was vbd,1,<NNS><VBD>
+room burned,room nn burned vbd,1,<NN><VBD>
+room was,room nn was vbd,1,<NN><VBD>
+room with help,room nn with in_pos help nn,1,<NN><IN><NN>
+rotated,rotated vbn,1,<VBN>
+rotating,rotating vbg,1,<VBG>
+rotation measured,rotation nn measured vbd,1,<NN><VBD>
+rotation started,rotation nn started vbd,1,<NN><VBD>
+rtds checked,rtds nn checked vbd,1,<NN><VBD>
+rtds disconnected,rtds nn disconnected vbd,1,<NN><VBD>
+rtds on motor,rtds nn on in_pos motor nn,1,<NN><IN><NN>
+rtds on mud,rtds nn on in_pos mud nn,1,<NN><IN><NN>
+rubber sealed,rubber nn sealed vbd,1,<NN><VBD>
+rubbing,rubbing vbg,1,<VBG>
+run,run vb,1,<VB>
+run performed,run nn performed vbd,1,<NN><VBD>
+run was,run nn was vbd,1,<NN><VBD>
+runnig for hour,runnig nn for in_pos hour nn,1,<NN><IN><NN>
+running,running vbg,1,<VBG>
+rusted,rusted vbn,1,<VBN>
+s cecked,s nn cecked vbd,1,<NN><VBD>
+s have,s nns have vbp,1,<NNS><VBP>
+s inspected,s nn inspected vbd,1,<NN><VBD>
+s was,s nn was vbd,1,<NN><VBD>
+safe,safe jj,1,<JJ>
+said,said vbd,1,<VBD>
+sailing,sailing vbg,1,<VBG>
+same,same jj,1,<JJ>
+saved,saved vbn,1,<VBN>
+screen as requiredok,screen nn as in_pos requiredok nn,1,<NN><IN><NN>
+screen took,screen nn took vbd,1,<NN><VBD>
+screens are,screens nns are vbp,1,<NNS><VBP>
+seal was,seal nn was vbd,1,<NN><VBD>
+sealed,sealed vbn,1,<VBN>
+seals are,seals nns are vbp,1,<NNS><VBP>
+seals were,seals nns were vbd,1,<NNS><VBD>
+secure carried,secure nn carried vbd,1,<NN><VBD>
+secure found,secure nn found vbd,1,<NN><VBD>
+secure in gland,secure nn in in_pos gland nn,1,<NN><IN><NN>
+secure on cable,secure nn on in_pos cable nn,1,<NN><IN><NN>
+secure sealed,secure nn sealed vbd,1,<NN><VBD>
+secured,secured vbn,1,<VBN>
+securely fastened,securely rb fastened vbn,1,<RB><VBN>
+securing,securing vbg,1,<VBG>
+see attached,see vb attached jj,1,<VB><JJ>
+seeking,seeking vbg,1,<VBG>
+seelan had,seelan nn had vbd,1,<NN><VBD>
+seen,seen vbn,1,<VBN>
+selected,selected vbn,1,<VBN>
+send for overhaul,send nn for in_pos overhaul nn,1,<NN><IN><NN>
+senior,senior jj,1,<JJ>
+sensors checked,sensors nns checked vbd,1,<NNS><VBD>
+sensors were,sensors nns were vbd,1,<NNS><VBD>
+separate,separate jj,1,<JJ>
+separated,separated vbn,1,<VBN>
+separator fitted,separator nn fitted vbd,1,<NN><VBD>
+serial,serial jj,1,<JJ>
+servicable,servicable jj,1,<JJ>
+service performed,service nn performed vbd,1,<NN><VBD>
+serviced,serviced vbn,1,<VBN>
+setting,setting vbg,1,<VBG>
+setting as oem,setting vbg as in_pos oem nn,1,<VBG><IN><NN>
+settings are,settings nns are vbp,1,<NNS><VBP>
+settings were,settings nns were vbd,1,<NNS><VBD>
+several,several jj,1,<JJ>
+shaft adjusted,shaft nn adjusted vbd,1,<NN><VBD>
+shaft of b,shaft nn of in_pos b nn,1,<NN><IN><NN>
+shaft snapped,shaft nn snapped vbd,1,<NN><VBD>
+shall be pleased,shall md be vb pleased jj,1,<MD><VB><JJ>
+sharing,sharing vbg,1,<VBG>
+sheared,sheared vbn,1,<VBN>
+shifted,shifted vbn,1,<VBN>
+shop for rr,shop nn for in_pos rr nn,1,<NN><IN><NN>
+shop in houston,shop nn in in_pos houston nn,1,<NN><IN><NN>
+short,short jj,1,<JJ>
+shots gms,shots nns gms vbp,1,<NNS><VBP>
+shots nde,shots nns nde vbp,1,<NNS><VBP>
+should be included,should md be vb included vbn,1,<MD><VB><VBN>
+should be installed,should md be vb installed vbn,1,<MD><VB><VBN>
+should be paid,should md be vb paid vbn,1,<MD><VB><VBN>
+should be programmed,should md be vb programmed vbn,1,<MD><VB><VBN>
+should be shopped,should md be vb shopped vbn,1,<MD><VB><VBN>
+showing,showing vbg,1,<VBG>
+shown,shown vbn,1,<VBN>
+shows normal,shows nns normal jj,1,<NNS><JJ>
+shroud found,shroud nn found vbd,1,<NN><VBD>
+shroud was,shroud nn was vbd,1,<NN><VBD>
+shuts down,shuts nns down rp,1,<NNS><RP>
+shutting,shutting vbg,1,<VBG>
+side of floor,side nn of in_pos floor nn,1,<NN><IN><NN>
+side recorded,side nn recorded vbd,1,<NN><VBD>
+side with halliburton,side nn with in_pos halliburton nn,1,<NN><IN><NN>
+sign of damage,sign nn of in_pos damage nn,1,<NN><IN><NN>
+sign of water,sign nn of in_pos water nn,1,<NN><IN><NN>
+signal of corrosion,signal nn of in_pos corrosion nn,1,<NN><IN><NN>
+significantly reduced,significantly rb reduced vbn,1,<RB><VBN>
+since hrs,since in_pos hrs nn,1,<IN><NN>
+singapore for repair,singapore nn for in_pos repair nn,1,<NN><IN><NN>
+sitting,sitting vbg,1,<VBG>
+sized,sized vbn,1,<VBN>
+sketch of motor,sketch nn of in_pos motor nn,1,<NN><IN><NN>
+skid installed,skid nn installed vbd,1,<NN><VBD>
+slackened,slackened vbn,1,<VBN>
+slided,slided vbd,1,<VBD>
+slightly different,slightly rb different jj,1,<RB><JJ>
+slitter found,slitter nn found vbd,1,<NN><VBD>
+small,small jj,1,<JJ>
+snapping,snapping vbg,1,<VBG>
+so close,so rb close rb,1,<RB><RB>
+so decided,so rb decided vbd,1,<RB><VBD>
+so farthis,so rb farthis jj,1,<RB><JJ>
+so greased,so rb greased jj,1,<RB><JJ>
+so i,so rb i jj,1,<RB><JJ>
+so new,so rb new jj,1,<RB><JJ>
+so opened,so rb opened jj,1,<RB><JJ>
+so replaced,so rb replaced jj,1,<RB><JJ>
+so step,so rb step nn,1,<RB><NN>
+so switched,so rb switched jj,1,<RB><JJ>
+so that belt,so rb that in_pos belt nn,1,<RB><IN><NN>
+socket for adjuster,socket nn for in_pos adjuster nn,1,<NN><IN><NN>
+soft,soft jj,1,<JJ>
+software confirmed,software nn confirmed vbd,1,<NN><VBD>
+software on toughbook,software nn on in_pos toughbook nn,1,<NN><IN><NN>
+solidly attached,solidly rb attached vbd,1,<RB><VBD>
+somewhat overgreased,somewhat rb overgreased vbd,1,<RB><VBD>
+soon as cemetn unit,soon rb as in_pos cemetn nn unit nn,1,<RB><IN><NN><NN>
+sound from motor,sound nn from in_pos motor nn,1,<NN><IN><NN>
+sound measured,sound nn measured vbd,1,<NN><VBD>
+sound was,sound nn was vbd,1,<NN><VBD>
+sound while blower,sound nn while in_pos blower nn,1,<NN><IN><NN>
+sounds are,sounds nns are vbp,1,<NNS><VBP>
+speed was,speed nn was vbd,1,<NN><VBD>
+spots were,spots nns were vbd,1,<NNS><VBD>
+spudding,spudding vbg,1,<VBG>
+ss fitted,ss nn fitted vbd,1,<NN><VBD>
+ssirclip was,ssirclip nn was vbd,1,<NN><VBD>
+stariner of pumpwhen,stariner nn of in_pos pumpwhen nn,1,<NN><IN><NN>
+start in pump,start nn in in_pos pump nn,1,<NN><IN><NN>
+start of test,start nn of in_pos test nn,1,<NN><IN><NN>
+start recorded,start nn recorded vbd,1,<NN><VBD>
+started,started vbn,1,<VBN>
+starter at mcc,starter nn at in_pos mcc nn,1,<NN><IN><NN>
+starter checked,starter nn checked vbd,1,<NN><VBD>
+starting,starting vbg,1,<VBG>
+stated,stated vbn,1,<VBN>
+station for cleanliness,station nn for in_pos cleanliness nn,1,<NN><IN><NN>
+station opened,station nn opened vbd,1,<NN><VBD>
+station was,station nn was vbd,1,<NN><VBD>
+station with paint,station nn with in_pos paint nn,1,<NN><IN><NN>
+stations appeared,stations nns appeared vbd,1,<NNS><VBD>
+stations are,stations nns are vbp,1,<NNS><VBP>
+stattion made,stattion nn made vbd,1,<NN><VBD>
+stbd were,stbd nns were vbd,1,<NNS><VBD>
+step cleaned,step nn cleaned vbd,1,<NN><VBD>
+step completed,step nn completed vbd,1,<NN><VBD>
+step confirmed,step nn confirmed vbd,1,<NN><VBD>
+step done,step nn done vbn,1,<NN><VBN>
+step isolated,step nn isolated vbd,1,<NN><VBD>
+step lubricated,step nn lubricated vbd,1,<NN><VBD>
+step performed,step nn performed vbd,1,<NN><VBD>
+step reinstalled,step nn reinstalled vbd,1,<NN><VBD>
+step removed,step nn removed vbd,1,<NN><VBD>
+step tested,step nn tested vbd,1,<NN><VBD>
+step were,step nn were vbd,1,<NN><VBD>
+steps are,steps nns are vbp,1,<NNS><VBP>
+steps carried,steps nns carried vbd,1,<NNS><VBD>
+steps complete,steps nns complete jj,1,<NNS><JJ>
+steps completed,steps nns completed vbd,1,<NNS><VBD>
+steps had,steps nns had vbd,1,<NNS><VBD>
+steps have,steps nns have vbp,1,<NNS><VBP>
+steps necessary,steps nns necessary jj,1,<NNS><JJ>
+steps were,steps nns were vbd,1,<NNS><VBD>
+still abit,still rb abit vb,1,<RB><VB>
+still activated,still rb activated vbn,1,<RB><VBN>
+still faulted,still rb faulted vbn,1,<RB><VBN>
+still havent,still rb havent nn,1,<RB><NN>
+still in good condition,still rb in in_pos good jj condition nn,1,<RB><IN><JJ><NN>
+still low,still rb low jj,1,<RB><JJ>
+still ok,still rb ok jj,1,<RB><JJ>
+still operational,still rb operational jj,1,<RB><JJ>
+still secure,still rb secure vb,1,<RB><VB>
+still serviceable,still rb serviceable jj,1,<RB><JJ>
+stop was,stop nn was vbd,1,<NN><VBD>
+stopped,stopped vbd,1,<VBD>
+stopping,stopping vbg,1,<VBG>
+stops are,stops nns are vbp,1,<NNS><VBP>
+stops tested,stops nns tested vbd,1,<NNS><VBD>
+stored,stored vbn,1,<VBN>
+strip was,strip nn was vbd,1,<NN><VBD>
+stripping,stripping vbg,1,<VBG>
+stroke confirmed,stroke nn confirmed vbd,1,<NN><VBD>
+strong,strong jj,1,<JJ>
+stuffing,stuffing vbg,1,<VBG>
+submitted,submitted vbn,1,<VBN>
+subsided,subsided vbd,1,<VBD>
+successfully completed,successfully rb completed vbn,1,<RB><VBN>
+suitable,suitable jj,1,<JJ>
+suitable welded,suitable jj welded vbd,1,<JJ><VBD>
+supplied,supplied vbn,1,<VBN>
+supplies ordered,supplies nns ordered vbd,1,<NNS><VBD>
+supplying,supplying vbg,1,<VBG>
+supports cableing,supports nns cableing vbg,1,<NNS><VBG>
+surface measured,surface nn measured vbd,1,<NN><VBD>
+surface meggered,surface nn meggered vbd,1,<NN><VBD>
+surfaceremoved,surfaceremoved vbn,1,<VBN>
+survey was,survey nn was vbd,1,<NN><VBD>
+suspected,suspected vbn,1,<VBN>
+swapped,swapped vbd,1,<VBD>
+switch prevented,switch nn prevented vbd,1,<NN><VBD>
+switch removed,switch nn removed vbd,1,<NN><VBD>
+switch was,switch nn was vbd,1,<NN><VBD>
+switches are,switches nns are vbp,1,<NNS><VBP>
+switches found,switches nns found vbd,1,<NNS><VBD>
+switches installed,switches nns installed vbd,1,<NNS><VBD>
+switches open,switches nns open vbp,1,<NNS><VBP>
+system checked,system nn checked vbd,1,<NN><VBD>
+system closed,system nn closed vbd,1,<NN><VBD>
+system confirmed,system nn confirmed vbd,1,<NN><VBD>
+system found,system nn found vbd,1,<NN><VBD>
+system in janurary,system nn in in_pos janurary nn,1,<NN><IN><NN>
+system inspected,system nn inspected vbd,1,<NN><VBD>
+system made,system nn made vbd,1,<NN><VBD>
+system stroke,system nn stroke vbd,1,<NN><VBD>
+system transfered,system nn transfered vbd,1,<NN><VBD>
+system was,system nn was vbd,1,<NN><VBD>
+system were,system nn were vbd,1,<NN><VBD>
+systems examine,systems nns examine vbp,1,<NNS><VBP>
+systems have,systems nns have vbp,1,<NNS><VBP>
+systems removed,systems nns removed vbd,1,<NNS><VBD>
+tag for mud,tag nn for in_pos mud nn,1,<NN><IN><NN>
+tag was,tag nn was vbd,1,<NN><VBD>
+tags are,tags nns are vbp,1,<NNS><VBP>
+tags in place,tags nns in in_pos place nn,1,<NNS><IN><NN>
+tags present,tags nns present jj,1,<NNS><JJ>
+tags were,tags nns were vbd,1,<NNS><VBD>
+taken,taken vbn,1,<VBN>
+taking,taking vbg,1,<VBG>
+talking,talking vbg,1,<VBG>
+task arranged,task nn arranged vbd,1,<NN><VBD>
+task completed,task nn completed vbd,1,<NN><VBD>
+task except task,task nn except in_pos task nn,1,<NN><IN><NN>
+task made,task nn made vbd,1,<NN><VBD>
+task was,task nn was vbd,1,<NN><VBD>
+tasks are,tasks nns are vbp,1,<NNS><VBP>
+tasks have,tasks nns have vbp,1,<NNS><VBP>
+tasks isnt,tasks nns isnt vbp,1,<NNS><VBP>
+tasks were,tasks nns were vbd,1,<NNS><VBD>
+tech came,tech nn came vbd,1,<NN><VBD>
+technician,technician jj,1,<JJ>
+temp found,temp nn found vbd,1,<NN><VBD>
+temp noted,temp nn noted vbd,1,<NN><VBD>
+temp of c,temp nn of in_pos c nn,1,<NN><IN><NN>
+temperature checked,temperature nn checked vbd,1,<NN><VBD>
+temperature detected,temperature nn detected vbd,1,<NN><VBD>
+temperature for step,temperature nn for in_pos step nn,1,<NN><IN><NN>
+temperature found,temperature nn found vbd,1,<NN><VBD>
+temperature measured,temperature nn measured vbd,1,<NN><VBD>
+temperature monitored,temperature nn monitored vbd,1,<NN><VBD>
+temperature noted,temperature nn noted vbd,1,<NN><VBD>
+temperature of drive,temperature nn of in_pos drive nn,1,<NN><IN><NN>
+temperature was,temperature nn was vbd,1,<NN><VBD>
+temperatures are,temperatures nns are vbp,1,<NNS><VBP>
+temperatures noted,temperatures nns noted vbd,1,<NNS><VBD>
+temperatures took,temperatures nns took vbd,1,<NNS><VBD>
+temperatures were,temperatures nns were vbd,1,<NNS><VBD>
+temps above normal range,temps nns above in_pos normal jj range nn,1,<NNS><IN><JJ><NN>
+temps are,temps nns are vbp,1,<NNS><VBP>
+temps detected,temps nns detected vbd,1,<NNS><VBD>
+temps do,temps nns do vbp,1,<NNS><VBP>
+temps nde,temps nns nde nns,1,<NNS><NNS>
+temps normal,temps nns normal jj,1,<NNS><JJ>
+temps noted,temps nns noted vbd,1,<NNS><VBD>
+temps re,temps nns re vbp,1,<NNS><VBP>
+temps were,temps nns were vbd,1,<NNS><VBD>
+terminal measured,terminal nn measured vbd,1,<NN><VBD>
+terminals are,terminals nns are vbp,1,<NNS><VBP>
+terminals found,terminals nns found vbd,1,<NNS><VBD>
+terminals tightened,terminals nns tightened vbd,1,<NNS><VBD>
+terminals x,terminals nns x vbp,1,<NNS><VBP>
+termination in order,termination nn in in_pos order nn,1,<NN><IN><NN>
+terminations are,terminations nns are vbp,1,<NNS><VBP>
+test after rig,test nn after in_pos rig nn,1,<NN><IN><NN>
+test at kv,test nn at in_pos kv nn,1,<NN><IN><NN>
+test at v,test nn at in_pos v nn,1,<NN><IN><NN>
+test at vdc,test nn at in_pos vdc nn,1,<NN><IN><NN>
+test carried,test nn carried vbd,1,<NN><VBD>
+test checked,test nn checked vbd,1,<NN><VBD>
+test completed,test nn completed vbd,1,<NN><VBD>
+test connected,test nn connected vbd,1,<NN><VBD>
+test did,test nn did vbd,1,<NN><VBD>
+test inspected,test nn inspected vbd,1,<NN><VBD>
+test isolated,test nn isolated vbd,1,<NN><VBD>
+test made,test nn made vbd,1,<NN><VBD>
+test noted,test nn noted vbd,1,<NN><VBD>
+test on ac,test nn on in_pos ac nn,1,<NN><IN><NN>
+test on drive,test nn on in_pos drive nn,1,<NN><IN><NN>
+test on mcc,test nn on in_pos mcc nn,1,<NN><IN><NN>
+test on motor,test nn on in_pos motor nn,1,<NN><IN><NN>
+test performed,test nn performed vbd,1,<NN><VBD>
+test ran,test nn ran vbd,1,<NN><VBD>
+test removed,test nn removed vbd,1,<NN><VBD>
+test was,test nn was vbd,1,<NN><VBD>
+test with driller,test nn with in_pos driller nn,1,<NN><IN><NN>
+tested,tested vbn,1,<VBN>
+testing,testing vbg,1,<VBG>
+tests aug,tests nns aug vbp,1,<NNS><VBP>
+tests feb,tests nns feb vbp,1,<NNS><VBP>
+tests ir,tests nns ir vbp,1,<NNS><VBP>
+tests noted,tests nns noted vbd,1,<NNS><VBD>
+tests visualized,tests nns visualized vbd,1,<NNS><VBD>
+tfs are,tfs nns are vbp,1,<NNS><VBP>
+than b,than in_pos b nn,1,<IN><NN>
+than g,than in_pos g nn,1,<IN><NN>
+than normal vibration,than in_pos normal jj vibration nn,1,<IN><JJ><NN>
+that ac motor,that dt ac vbz motor nn,1,<DT><VBZ><NN>
+that applied,that dt applied vbd,1,<DT><VBD>
+that i,that in_pos i nn,1,<IN><NN>
+that original converter,that dt original jj converter nn,1,<DT><JJ><NN>
+that pi test,that dt pi vbz test nn,1,<DT><VBZ><NN>
+the ac main,the dt ac nn main jj,1,<DT><NN><JJ>
+the active,the dt active jj,1,<DT><JJ>
+the annual,the dt annual jj,1,<DT><JJ>
+the applicable,the dt applicable jj,1,<DT><JJ>
+the attached,the dt attached jj,1,<DT><JJ>
+the available,the dt available jj,1,<DT><JJ>
+the bad,the dt bad jj,1,<DT><JJ>
+the bearings were,the dt bearings nns were vbd,1,<DT><NNS><VBD>
+the belts came,the dt belts nns came vbd,1,<DT><NNS><VBD>
+the belts had,the dt belts nns had vbd,1,<DT><NNS><VBD>
+the belts were,the dt belts nns were vbd,1,<DT><NNS><VBD>
+the blades checked,the dt blades nns checked vbd,1,<DT><NNS><VBD>
+the blowers isolated,the dt blowers nns isolated vbd,1,<DT><NNS><VBD>
+the blowers were,the dt blowers nns were vbd,1,<DT><NNS><VBD>
+the bolts rigged,the dt bolts nns rigged vbd,1,<DT><NNS><VBD>
+the bolts stretched,the dt bolts nns stretched vbd,1,<DT><NNS><VBD>
+the closed,the dt closed jj,1,<DT><JJ>
+the coiled,the dt coiled jj,1,<DT><JJ>
+the complete,the dt complete jj,1,<DT><JJ>
+the contactors did,the dt contactors nns did vbd,1,<DT><NNS><VBD>
+the covers examied,the dt covers nns examied vbd,1,<DT><NNS><VBD>
+the defective,the dt defective jj,1,<DT><JJ>
+the direct,the dt direct jj,1,<DT><JJ>
+the electric,the dt electric jj,1,<DT><JJ>
+the electrical,the dt electrical jj,1,<DT><JJ>
+the exceptable,the dt exceptable jj,1,<DT><JJ>
+the filters cleaned,the dt filters nns cleaned vbd,1,<DT><NNS><VBD>
+the final,the dt final jj,1,<DT><JJ>
+the first,the dt first jj,1,<DT><JJ>
+the fiscal,the dt fiscal jj,1,<DT><JJ>
+the fourth,the dt fourth jj,1,<DT><JJ>
+the gaskets were,the dt gaskets nns were vbd,1,<DT><NNS><VBD>
+the global,the dt global jj,1,<DT><JJ>
+the good,the dt good jj,1,<DT><JJ>
+the guys found,the dt guys nns found vbd,1,<DT><NNS><VBD>
+the high,the dt high jj,1,<DT><JJ>
+the hot,the dt hot jj,1,<DT><JJ>
+the impellers were,the dt impellers nns were vbd,1,<DT><NNS><VBD>
+the initial,the dt initial jj,1,<DT><JJ>
+the internal,the dt internal jj,1,<DT><JJ>
+the job prepared,the dt job nn prepared vbd,1,<DT><NN><VBD>
+the last,the dt last jj,1,<DT><JJ>
+the local,the dt local jj,1,<DT><JJ>
+the loose,the dt loose jj,1,<DT><JJ>
+the low,the dt low jj,1,<DT><JJ>
+the main,the dt main jj,1,<DT><JJ>
+the manual,the dt manual jj,1,<DT><JJ>
+the mechanical,the dt mechanical jj,1,<DT><JJ>
+the mechanics had,the dt mechanics nns had vbd,1,<DT><NNS><VBD>
+the men damaged,the dt men nns damaged vbd,1,<DT><NNS><VBD>
+the motors gave,the dt motors nns gave vbd,1,<DT><NNS><VBD>
+the motors were,the dt motors nns were vbd,1,<DT><NNS><VBD>
+the new,the dt new jj,1,<DT><JJ>
+the next,the dt next jj,1,<DT><JJ>
+the normal,the dt normal jj,1,<DT><JJ>
+the notes entered,the dt notes nns entered vbd,1,<DT><NNS><VBD>
+the old,the dt old jj,1,<DT><JJ>
+the open,the dt open jj,1,<DT><JJ>
+the original,the dt original jj,1,<DT><JJ>
+the other,the dt other jj,1,<DT><JJ>
+the proper,the dt proper jj,1,<DT><JJ>
+the pump several,the dt pump nn several jj,1,<DT><NN><JJ>
+the pumps were,the dt pumps nns were vbd,1,<DT><NNS><VBD>
+the questionable,the dt questionable jj,1,<DT><JJ>
+the readings were,the dt readings nns were vbd,1,<DT><NNS><VBD>
+the results were,the dt results nns were vbd,1,<DT><NNS><VBD>
+the rig other,the dt rig nn other jj,1,<DT><NN><JJ>
+the same,the dt same jj,1,<DT><JJ>
+the second,the dt second jj,1,<DT><JJ>
+the steps were,the dt steps nns were vbd,1,<DT><NNS><VBD>
+the tags assigned,the dt tags nns assigned vbd,1,<DT><NNS><VBD>
+the tasks reported,the dt tasks nns reported vbd,1,<DT><NNS><VBD>
+the temperatures were,the dt temperatures nns were vbd,1,<DT><NNS><VBD>
+the third,the dt third jj,1,<DT><JJ>
+the top,the dt top jj,1,<DT><JJ>
+the window available,the dt window nn available jj,1,<DT><NN><JJ>
+the worknotes entered,the dt worknotes nns entered vbd,1,<DT><NNS><VBD>
+the yearly,the dt yearly jj,1,<DT><JJ>
+then compared,then rb compared vbn,1,<RB><VBN>
+thermistors disconnected,thermistors nns disconnected vbd,1,<NNS><VBD>
+thermometer noted,thermometer nn noted vbd,1,<NN><VBD>
+these blowers sealed,these dt blowers nns sealed vbd,1,<DT><NNS><VBD>
+these checks were,these dt checks nns were vbd,1,<DT><NNS><VBD>
+these holes marked,these dt holes nns marked vbd,1,<DT><NNS><VBD>
+these models made,these dt models nns made vbd,1,<DT><NNS><VBD>
+these motors had,these dt motors nns had vbd,1,<DT><NNS><VBD>
+these motors isolated,these dt motors nns isolated vbd,1,<DT><NNS><VBD>
+these motors made,these dt motors nns made vbd,1,<DT><NNS><VBD>
+these motors sealed,these dt motors nns sealed vbd,1,<DT><NNS><VBD>
+these parts was,these dt parts nns was vbd,1,<DT><NNS><VBD>
+these systems made,these dt systems nns made vbd,1,<DT><NNS><VBD>
+these were,these dt were vbd,1,<DT><VBD>
+theye were,theye nns were vbd,1,<NNS><VBD>
+third,third jj,1,<JJ>
+this cause short,this dt cause nn short jj,1,<DT><NN><JJ>
+this parts n,this dt parts nns n nn,1,<DT><NNS><NN>
+this pm same,this dt pm nn same jj,1,<DT><NN><JJ>
+this safety critical,this dt safety nn critical jj,1,<DT><NN><JJ>
+this time current,this dt time nn current jj,1,<DT><NN><JJ>
+this time due,this dt time nn due jj,1,<DT><NN><JJ>
+this time mechanical,this dt time nn mechanical jj,1,<DT><NN><JJ>
+this time open,this dt time nn open jj,1,<DT><NN><JJ>
+this time small,this dt time nn small jj,1,<DT><NN><JJ>
+this was,this dt was vbd,1,<DT><VBD>
+threads are,threads nns are vbp,1,<NNS><VBP>
+threads cleaned,threads nns cleaned vbd,1,<NNS><VBD>
+threads look,threads nns look vbp,1,<NNS><VBP>
+threads ok,threads nns ok vbp,1,<NNS><VBP>
+threads were,threads nns were vbd,1,<NNS><VBD>
+through bolt,through in_pos bolt nn,1,<IN><NN>
+through with inspection,through in_pos with in_pos inspection nn,1,<IN><IN><NN>
+thru complete,thru nn complete jj,1,<NN><JJ>
+thru completed,thru nn completed vbd,1,<NN><VBD>
+tightened,tightened vbd,1,<VBD>
+tightly mounted,tightly rb mounted vbn,1,<RB><VBN>
+tightness of hardware,tightness nn of in_pos hardware nn,1,<NN><IN><NN>
+tightness on motor,tightness nn on in_pos motor nn,1,<NN><IN><NN>
+time as motor,time nn as in_pos motor nn,1,<NN><IN><NN>
+time confirmed,time nn confirmed vbd,1,<NN><VBD>
+time did,time nn did vbd,1,<NN><VBD>
+time made,time nn made vbd,1,<NN><VBD>
+time of inpsection,time nn of in_pos inpsection nn,1,<NN><IN><NN>
+time of inspection,time nn of in_pos inspection nn,1,<NN><IN><NN>
+time on duct,time nn on in_pos duct nn,1,<NN><IN><NN>
+time performed,time nn performed vbd,1,<NN><VBD>
+time while fan,time nn while in_pos fan nn,1,<NN><IN><NN>
+to be accessed,to to_pos be vb accessed vbn,1,<TO><VB><VBN>
+to be analyzed,to to_pos be vb analyzed vbn,1,<TO><VB><VBN>
+to be carried,to to_pos be vb carried vbn,1,<TO><VB><VBN>
+to be changed,to to_pos be vb changed vbn,1,<TO><VB><VBN>
+to be checked,to to_pos be vb checked vbn,1,<TO><VB><VBN>
+to be cleaned,to to_pos be vb cleaned vbn,1,<TO><VB><VBN>
+to be completed,to to_pos be vb completed vbn,1,<TO><VB><VBN>
+to be configured,to to_pos be vb configured vbn,1,<TO><VB><VBN>
+to be connected,to to_pos be vb connected vbn,1,<TO><VB><VBN>
+to be cracked,to to_pos be vb cracked vbn,1,<TO><VB><VBN>
+to be cut,to to_pos be vb cut vbn,1,<TO><VB><VBN>
+to be done,to to_pos be vb done vbn,1,<TO><VB><VBN>
+to be fitted,to to_pos be vb fitted vbn,1,<TO><VB><VBN>
+to be greased,to to_pos be vb greased vbn,1,<TO><VB><VBN>
+to be inspected,to to_pos be vb inspected vbn,1,<TO><VB><VBN>
+to be installed,to to_pos be vb installed vbn,1,<TO><VB><VBN>
+to be investigated,to to_pos be vb investigated vbn,1,<TO><VB><VBN>
+to be maintained,to to_pos be vb maintained vbn,1,<TO><VB><VBN>
+to be perfomed,to to_pos be vb perfomed vbn,1,<TO><VB><VBN>
+to be performed,to to_pos be vb performed vbn,1,<TO><VB><VBN>
+to be removed,to to_pos be vb removed vbn,1,<TO><VB><VBN>
+to be repaired,to to_pos be vb repaired vbn,1,<TO><VB><VBN>
+to be replaced,to to_pos be vb replaced vbn,1,<TO><VB><VBN>
+to be reported,to to_pos be vb reported vbn,1,<TO><VB><VBN>
+to be sent,to to_pos be vb sent vbn,1,<TO><VB><VBN>
+to be stored,to to_pos be vb stored vbn,1,<TO><VB><VBN>
+to be stripped,to to_pos be vb stripped vbn,1,<TO><VB><VBN>
+to be tested,to to_pos be vb tested vbn,1,<TO><VB><VBN>
+to be updated,to to_pos be vb updated vbn,1,<TO><VB><VBN>
+to deck opened,to to_pos deck vb opened jj,1,<TO><VB><JJ>
+to replace damaged,to to_pos replace vb damaged vbn,1,<TO><VB><VBN>
+to report confirmed,to to_pos report vb confirmed nns,1,<TO><VB><NNS>
+to report consulted,to to_pos report vb consulted vbn,1,<TO><VB><VBN>
+to report equipped,to to_pos report vb equipped nns,1,<TO><VB><NNS>
+to report made,to to_pos report vb made vbn,1,<TO><VB><VBN>
+to stay closed,to to_pos stay vb closed jj,1,<TO><VB><JJ>
+to work instructed,to to_pos work vb instructed jj,1,<TO><VB><JJ>
+together by mi,together rb by in_pos mi nn,1,<RB><IN><NN>
+took,took vbd,1,<VBD>
+tool downloaded,tool nn downloaded vbd,1,<NN><VBD>
+tools are,tools nns are vbp,1,<NNS><VBP>
+tools moved,tools nns moved vbd,1,<NNS><VBD>
+topping,topping vbg,1,<VBG>
+torque checked,torque nn checked vbd,1,<NN><VBD>
+torque made,torque nn made vbd,1,<NN><VBD>
+torqued,torqued vbn,1,<VBN>
+town for overhaul,town nn for in_pos overhaul nn,1,<NN><IN><NN>
+tp removed,tp nn removed vbd,1,<NN><VBD>
+trace of corrosion,trace nn of in_pos corrosion nn,1,<NN><IN><NN>
+tracking,tracking vbg,1,<VBG>
+tray disconnected,tray nn disconnected vbd,1,<NN><VBD>
+trend past bearing,trend nn past in_pos bearing nn,1,<NN><IN><NN>
+tried,tried vbn,1,<VBN>
+tripping,tripping vbg,1,<VBG>
+troubleshooting,troubleshooting vbg,1,<VBG>
+true,true jj,1,<JJ>
+trying,trying vbg,1,<VBG>
+tubing,tubing vbg,1,<VBG>
+turned,turned vbd,1,<VBD>
+type for motor,type nn for in_pos motor nn,1,<NN><IN><NN>
+type of motor,type nn of in_pos motor nn,1,<NN><IN><NN>
+type of oil,type nn of in_pos oil nn,1,<NN><IN><NN>
+unable,unable jj,1,<JJ>
+undamaged,undamaged jj,1,<JJ>
+under hatch,under in_pos hatch nn,1,<IN><NN>
+under tag,under in_pos tag nn,1,<IN><NN>
+unit for dirt,unit nn for in_pos dirt nn,1,<NN><IN><NN>
+unit observed,unit nn observed vbd,1,<NN><VBD>
+units attachec,units nns attachec vbp,1,<NNS><VBP>
+units have,units nns have vbp,1,<NNS><VBP>
+units need,units nns need vbp,1,<NNS><VBP>
+units operational,units nns operational jj,1,<NNS><JJ>
+until final report,until in_pos final jj report nn,1,<IN><JJ><NN>
+unusual,unusual jj,1,<JJ>
+unwired,unwired jj,1,<JJ>
+up checked,up rb checked vbn,1,<RB><VBN>
+up of mud,up in_pos of in_pos mud nn,1,<IN><IN><NN>
+up prevent access,up rb prevent jj access nn,1,<RB><JJ><NN>
+up terminal box,up in_pos terminal jj box nn,1,<IN><JJ><NN>
+updated,updated vbn,1,<VBN>
+uploaded,uploaded jj,1,<JJ>
+upon further investigation,upon in_pos further jj investigation nn,1,<IN><JJ><NN>
+upon inspection,upon in_pos inspection nn,1,<IN><NN>
+upon reactivation,upon in_pos reactivation nn,1,<IN><NN>
+upon visual inspection,upon in_pos visual jj inspection nn,1,<IN><JJ><NN>
+used,used vbn,1,<VBN>
+using,using vbg,1,<VBG>
+v for minute,v nn for in_pos minute nn,1,<NN><IN><NN>
+v out p,v nn out rp p nn,1,<NN><RP><NN>
+value after min,value nn after in_pos min nn,1,<NN><IN><NN>
+value was,value nn was vbd,1,<NN><VBD>
+valves greased,valves nns greased vbd,1,<NNS><VBD>
+valves was,valves nns was vbd,1,<NNS><VBD>
+valves were,valves nns were vbd,1,<NNS><VBD>
+varghese,varghese jj,1,<JJ>
+various,various jj,1,<JJ>
+vendor for analysis,vendor nn for in_pos analysis nn,1,<NN><IN><NN>
+vent for damage,vent nn for in_pos damage nn,1,<NN><IN><NN>
+vents are,vents nns are vbp,1,<NNS><VBP>
+verified,verified vbn,1,<VBN>
+verifying,verifying vbg,1,<VBG>
+very clean,very rb clean jj,1,<RB><JJ>
+very ggod,very rb ggod jj,1,<RB><JJ>
+very good,very rb good jj,1,<RB><JJ>
+very little,very rb little jj,1,<RB><JJ>
+very low,very rb low jj,1,<RB><JJ>
+very minimal,very rb minimal jj,1,<RB><JJ>
+very similar,very rb similar jj,1,<RB><JJ>
+vfd disconnected,vfd nn disconnected vbd,1,<NN><VBD>
+vfd for b,vfd nn for in_pos b nn,1,<NN><IN><NN>
+vfd for motor,vfd nn for in_pos motor nn,1,<NN><IN><NN>
+vfd from motor,vfd nn from in_pos motor nn,1,<NN><IN><NN>
+vfd tripped,vfd nn tripped vbd,1,<NN><VBD>
+vibarations noted,vibarations nns noted vbd,1,<NNS><VBD>
+vibrating,vibrating vbg,1,<VBG>
+vibration checked,vibration nn checked vbd,1,<NN><VBD>
+vibration felt,vibration nn felt vbd,1,<NN><VBD>
+vibration found,vibration nn found vbd,1,<NN><VBD>
+vibration leakschecked,vibration nn leakschecked vbd,1,<NN><VBD>
+vibration on mud,vibration nn on in_pos mud nn,1,<NN><IN><NN>
+vibration was,vibration nn was vbd,1,<NN><VBD>
+vibration with vibration,vibration nn with in_pos vibration nn,1,<NN><IN><NN>
+vibrations checked,vibrations nns checked vbd,1,<NNS><VBD>
+vibrations closed,vibrations nns closed vbd,1,<NNS><VBD>
+vibrations examined,vibrations nns examined vbd,1,<NNS><VBD>
+vibrations feel,vibrations nns feel vbp,1,<NNS><VBP>
+vibrations felt,vibrations nns felt vbd,1,<NNS><VBD>
+vibrations found,vibrations nns found vbd,1,<NNS><VBD>
+vibrations inspected,vibrations nns inspected vbd,1,<NNS><VBD>
+vibrations noted,vibrations nns noted vbd,1,<NNS><VBD>
+vibrations notedclose,vibrations nns notedclose vbp,1,<NNS><VBP>
+vibrations observed,vibrations nns observed vbd,1,<NNS><VBD>
+vibrations recorded,vibrations nns recorded vbd,1,<NNS><VBD>
+vibrations took,vibrations nns took vbd,1,<NNS><VBD>
+vibrations were,vibrations nns were vbd,1,<NNS><VBD>
+vincent connected,vincent nn connected vbd,1,<NN><VBD>
+visable,visable jj,1,<JJ>
+visible,visible jj,1,<JJ>
+visual,visual jj,1,<JJ>
+visualized,visualized vbn,1,<VBN>
+visualized examined,visualized vbn examined vbd,1,<VBN><VBD>
+visually checked,visually rb checked vbn,1,<RB><VBN>
+visually examine,visually rb examine vb,1,<RB><VB>
+visually examined,visually rb examined vbn,1,<RB><VBN>
+visually inspect,visually rb inspect jj,1,<RB><JJ>
+visually inspected,visually rb inspected vbn,1,<RB><VBN>
+visually observed,visually rb observed vbn,1,<RB><VBN>
+visually verified,visually rb verified vbn,1,<RB><VBN>
+vlaves see,vlaves nns see vbp,1,<NNS><VBP>
+volts fla,volts nns fla vbp,1,<NNS><VBP>
+waiiting,waiiting vbg,1,<VBG>
+waiting,waiting vbg,1,<VBG>
+warning,warning vbg,1,<VBG>
+was,was vbd,1,<VBD>
+washer flat,washer rb flat jj,1,<RB><JJ>
+washer was,washer nn was vbd,1,<NN><VBD>
+wasnt assigned,wasnt nn assigned vbd,1,<NN><VBD>
+wasnt done,wasnt nn done vbn,1,<NN><VBN>
+wasnt requred,wasnt nn requred vbd,1,<NN><VBD>
+water confirmed,water nn confirmed vbd,1,<NN><VBD>
+water cooled,water nn cooled vbd,1,<NN><VBD>
+water in air,water nn in in_pos air nn,1,<NN><IN><NN>
+weeks due,weeks nns due jj,1,<NNS><JJ>
+welded,welded vbd,1,<VBD>
+welder on shift,welder nn on in_pos shift nn,1,<NN><IN><NN>
+welder required,welder nn required vbd,1,<NN><VBD>
+welding,welding vbg,1,<VBG>
+well aligned,well rb aligned vbn,1,<RB><VBN>
+well bonded,well rb bonded vbn,1,<RB><VBN>
+well recommended,well rb recommended jj,1,<RB><JJ>
+well tds,well rb tds nn,1,<RB><NN>
+well within range,well rb within in_pos range nn,1,<RB><IN><NN>
+went,went vbd,1,<VBD>
+were,were vbd,1,<VBD>
+while ac motor,while in_pos ac nns motor nn,1,<IN><NNS><NN>
+while blower,while in_pos blower nn,1,<IN><NN>
+while equipment,while in_pos equipment nn,1,<IN><NN>
+while motor,while in_pos motor nn,1,<IN><NN>
+will be carried,will md be vb carried vbn,1,<MD><VB><VBN>
+will be changed,will md be vb changed vbn,1,<MD><VB><VBN>
+will be checked,will md be vb checked vbn,1,<MD><VB><VBN>
+will be closed,will md be vb closed vbn,1,<MD><VB><VBN>
+will be completed,will md be vb completed vbn,1,<MD><VB><VBN>
+will be created,will md be vb created vbn,1,<MD><VB><VBN>
+will be done,will md be vb done vbn,1,<MD><VB><VBN>
+will be expensed,will md be vb expensed vbn,1,<MD><VB><VBN>
+will be lowered,will md be vb lowered vbn,1,<MD><VB><VBN>
+will be made,will md be vb made vbn,1,<MD><VB><VBN>
+will be opened,will md be vb opened vbn,1,<MD><VB><VBN>
+will be performed,will md be vb performed vbn,1,<MD><VB><VBN>
+will be presented,will md be vb presented vbn,1,<MD><VB><VBN>
+will be put,will md be vb put vbn,1,<MD><VB><VBN>
+will be recommended,will md be vb recommended vbn,1,<MD><VB><VBN>
+will be replaced,will md be vb replaced vbn,1,<MD><VB><VBN>
+will be required,will md be vb required vbn,1,<MD><VB><VBN>
+will be revisited,will md be vb revisited vbn,1,<MD><VB><VBN>
+will be scheduled,will md be vb scheduled vbn,1,<MD><VB><VBN>
+will be taken,will md be vb taken vbn,1,<MD><VB><VBN>
+will be tested,will md be vb tested vbn,1,<MD><VB><VBN>
+will be used,will md be vb used vbn,1,<MD><VB><VBN>
+winding,winding vbg,1,<VBG>
+winding was,winding nn was vbd,1,<NN><VBD>
+windings are,windings nns are vbp,1,<NNS><VBP>
+windows had,windows nns had vbd,1,<NNS><VBD>
+windows on end,windows nns on in_pos end nn,1,<NNS><IN><NN>
+wiped,wiped vbd,1,<VBD>
+wired,wired vbd,1,<VBD>
+wires are,wires nns are vbp,1,<NNS><VBP>
+wires had,wires nns had vbd,1,<NNS><VBD>
+wires were,wires nns were vbd,1,<NNS><VBD>
+with ac motor,with in_pos ac jj motor nn,1,<IN><JJ><NN>
+with antisieze,with in_pos antisieze nn,1,<IN><NN>
+with assembling,with in_pos assembling vbg,1,<IN><VBG>
+with bl,with in_pos bl nn,1,<IN><NN>
+with bop test,with in_pos bop jj test nn,1,<IN><JJ><NN>
+with brush,with in_pos brush nn,1,<IN><NN>
+with c,with in_pos c nns,1,<IN><NNS>
+with clamp,with in_pos clamp nn,1,<IN><NN>
+with closed loop,with in_pos closed jj loop nn,1,<IN><JJ><NN>
+with day,with in_pos day nn,1,<IN><NN>
+with deflection,with in_pos deflection nn,1,<IN><NN>
+with dirt,with in_pos dirt nn,1,<IN><NN>
+with driller,with in_pos driller nn,1,<IN><NN>
+with drilling,with in_pos drilling nn,1,<IN><NN>
+with dry air,with in_pos dry jj air nn,1,<IN><JJ><NN>
+with earth bond,with in_pos earth jj bond nn,1,<IN><JJ><NN>
+with electrical supervisor,with in_pos electrical jj supervisor nn,1,<IN><JJ><NN>
+with extech ir,with in_pos extech jj ir nn,1,<IN><JJ><NN>
+with eye,with in_pos eye nn,1,<IN><NN>
+with function,with in_pos function nn,1,<IN><NN>
+with good ir,with in_pos good jj ir nn,1,<IN><JJ><NN>
+with good operating,with in_pos good jj operating nn,1,<IN><JJ><NN>
+with grease,with in_pos grease nn,1,<IN><NN>
+with heater,with in_pos heater nn,1,<IN><NN>
+with hp,with in_pos hp nn,1,<IN><NN>
+with ibop,with in_pos ibop nn,1,<IN><NN>
+with interlock,with in_pos interlock nn,1,<IN><NN>
+with ir gun,with in_pos ir jj gun nn,1,<IN><JJ><NN>
+with iso motor,with in_pos iso jj motor nn,1,<IN><JJ><NN>
+with itthis,with in_pos itthis nn,1,<IN><NN>
+with jbox,with in_pos jbox nn,1,<IN><NN>
+with low air,with in_pos low jj air nn,1,<IN><JJ><NN>
+with lucas,with in_pos lucas nn,1,<IN><NN>
+with maintenance,with in_pos maintenance nn,1,<IN><NN>
+with manual probe,with in_pos manual jj probe nn,1,<IN><JJ><NN>
+with manual tool,with in_pos manual jj tool nn,1,<IN><JJ><NN>
+with minimal dirt,with in_pos minimal jj dirt nn,1,<IN><JJ><NN>
+with moisture,with in_pos moisture nn,1,<IN><NN>
+with motor,with in_pos motor nn,1,<IN><NN>
+with movable chain,with in_pos movable jj chain nn,1,<IN><JJ><NN>
+with mp drive,with in_pos mp nns drive vbp,1,<IN><NNS><VBP>
+with mud,with in_pos mud nn,1,<IN><NN>
+with mud pump,with in_pos mud jj pump nn,1,<IN><JJ><NN>
+with new pump,with in_pos new jj pump nn,1,<IN><JJ><NN>
+with nitrogen,with in_pos nitrogen nn,1,<IN><NN>
+with nitrogen stroke,with in_pos nitrogen jj stroke nn,1,<IN><JJ><NN>
+with ns line,with in_pos ns jj line nn,1,<IN><JJ><NN>
+with only mph,with in_pos only rb mph nn,1,<IN><RB><NN>
+with other blower,with in_pos other jj blower nn,1,<IN><JJ><NN>
+with paint,with in_pos paint nn,1,<IN><NN>
+with paul dunkerley,with in_pos paul nn dunkerley nn,1,<IN><NN><NN>
+with pump,with in_pos pump nn,1,<IN><NN>
+with rag,with in_pos rag nn,1,<IN><NN>
+with rags fan,with in_pos rags nns fan nn,1,<IN><NNS><NN>
+with red alarm,with in_pos red jj alarm nn,1,<IN><JJ><NN>
+with remote start,with in_pos remote jj start nn,1,<IN><JJ><NN>
+with rubber,with in_pos rubber nn,1,<IN><NN>
+with small amount,with in_pos small jj amount nn,1,<IN><JJ><NN>
+with soft start,with in_pos soft jj start nn,1,<IN><JJ><NN>
+with spare,with in_pos spare jj,1,<IN><JJ>
+with spare motor,with in_pos spare jj motor nn,1,<IN><JJ><NN>
+with surface,with in_pos surface nn,1,<IN><NN>
+with technical recommendation,with in_pos technical jj recommendation nn,1,<IN><JJ><NN>
+with temperature,with in_pos temperature nn,1,<IN><NN>
+with test,with in_pos test nn,1,<IN><NN>
+with third party,with in_pos third jj party nn,1,<IN><JJ><NN>
+with torque wrench,with in_pos torque jj wrench nn,1,<IN><JJ><NN>
+with traume,with in_pos traume nn,1,<IN><NN>
+with vibration,with in_pos vibration nn,1,<IN><NN>
+without abnormal vibrationsbalancing,without in_pos abnormal jj vibrationsbalancing nn,1,<IN><JJ><NN>
+without action,without in_pos action nn,1,<IN><NN>
+without complete diassembly,without in_pos complete jj diassembly nn,1,<IN><JJ><NN>
+without damage,without in_pos damage nn,1,<IN><NN>
+without problem,without in_pos problem nn,1,<IN><NN>
+without pump,without in_pos pump nn,1,<IN><NN>
+without sealed bearing,without in_pos sealed vbn bearing nn,1,<IN><VBN><NN>
+work carried,work nn carried vbd,1,<NN><VBD>
+work for damage,work nn for in_pos damage nn,1,<NN><IN><NN>
+work had,work nn had vbd,1,<NN><VBD>
+work was,work nn was vbd,1,<NN><VBD>
+worked,worked vbn,1,<VBN>
+working,working vbg,1,<VBG>
+workshop overhauled,workshop nn overhauled vbd,1,<NN><VBD>
+workshop stripped,workshop nn stripped vbd,1,<NN><VBD>
+x opened,x nn opened vbd,1,<NN><VBD>
